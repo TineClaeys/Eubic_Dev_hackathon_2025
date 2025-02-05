@@ -21,7 +21,8 @@ group = next(reader.iterfind('referenceableParamGroup[@id="commonInstrumentParam
 instrument = next((key for key, value in group.items() if value == ''), None)
 print("filename:", fname, "instrument:", instrument)
 
-# Extract instrument model from <instrumentConfiguration> (Waters)
+# Extract instrument model from <instrumentConfiguration> (Waters) Works for a Waters mzML, but how to make the
+# script work for any input?
 # group = next(reader.iterfind('instrumentConfigurationList/instrumentConfiguration'))
 # instrument = next((key for key, value in group.items() if value == ''), None)
 # print(instrument)
@@ -44,10 +45,9 @@ def start_time(scan):
 gradientTime = start_time(reader[-1]) - start_time(reader[0])
 # gradientTimeUnit = start_time_unit(reader[0])
 
-print("filename:", fname, "gradient time:", gradientTime)
+print("filename:", fname, "gradient time:", gradientTime) # add gradientTimeUnit
 
-exit(0)
-
+# exit(0)
 
 # all types of fragmentation used in the file
 reader.reset()
@@ -57,7 +57,7 @@ for s in reader:
     if s['ms level'] > 1:
         keys.update(s['precursorList']['precursor'][0]['activation'])
 
-keys  # still need to remove extra keys like "collision energy"
+print(keys)
 
 reader.reset()
 keys = set()
@@ -65,4 +65,4 @@ keys = set()
 for d in reader.iterfind('activation'):
         keys.update(s['precursorList']['precursor'][0]['activation'])
 
-keys   # still need to remove extra keys like "collision energy"
+print(keys) # still need to remove extra keys like "collision energy"
