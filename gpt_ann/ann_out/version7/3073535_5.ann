@@ -1,0 +1,47 @@
+T1	TechnologyType	534	559	mass spectrometry	Explicit
+T2	Disease	119	139	Alzheimer's disease	Explicit
+T3	Disease	141	143	AD	Explicit
+T4	OrganismPart	248	253	brain	Explicit
+T5	Instrument	1003	1030	Thermo Orbitrap Fusion Lumos	Explicit
+T6	SampleTreatment	856	873	flash frozen	Explicit
+T7	Temperature	874	885	-80degrees C	Explicit
+T8	CellPart	1035	1056	anterior hippocampal	Explicit
+T9	SampleTreatment	1083	1110	alpha-phosphorylated tau protein antibody	Explicit
+T10	Modification	1083	1110	alpha-phosphorylated tau	Explicit
+T11	CleavageAgent	1347	1354	Trypsin	Explicit
+T12	ConcentrationOfCompound	1372	1384	6M Guanadine HCl	Explicit
+T13	ReductionReagent	1521	1525	TCEP	Explicit
+T14	AlkylationReagent	1531	1534	CAA	Explicit
+T15	FractionationMethod	1734	1768	C18 reverse-phase column	Explicit
+T16	NumberOfFractions	1835	1837	32	Explicit
+T17	Chromatography	1904	1922	HPLC (Agilent)	Explicit
+T18	MS2MassAnalyzer	2208	2213	Orbitrap	Explicit
+T19	IonizationType	2350	2374	electrospray ionization	Explicit
+T20	FragmentationMethod	2602	2641	high-energy collisional dissociation	Explicit
+T21	CollisionEnergy	2658	2660	30	Explicit
+T22	PrecursorMassTolerance	2786	2792	25ppm	Explicit
+T23	EnrichmentMethod	2857	2863	soluble	Explicit
+T24	EnrichmentMethod	2871	2882	particulate	Explicit
+T25	Software	2955	2962	MaxQuant	Explicit
+T26	Modification	3146	3160	Carbamidomethyl	Explicit
+T27	Organism	3278	3283	human	Explicit
+T28	FactorValue	3462	3464	AD	Explicit
+T29	FactorValue	3482	3489	healthy	Explicit
+T30	SupplementaryFile	3702	3725	ProteomeXchange PXD010603	Explicit
+T31	SamplingTime	3826	3838	50%	Predicted
+T32	OrganismPart	4002	4007	brain	Explicit
+T33	Time	4058	4073	post-mortem interval	Explicit
+T34	NumberOfBiologicalReplicates	4203	4204	3	Explicit
+T35	NumberOfTechnicalReplicates	4312	4313	3	Explicit
+T36	Sex	4383	4388	male	Inferred
+T37	Sex	4395	4401	female	Inferred
+T38	Temperature	4452	4455	4C	Explicit
+T39	Temperature	4515	4517	37	Explicit
+T40	TechnicalReplicate	4613	4615	3	Explicit
+T41	Strain	4723	4732	C57BL/6J	Predicted
+T42	TumorCellularity	4903	4906	low	Predicted
+T43	TumorGrade	4921	4926	Grade 3	Predicted
+T44	TumorStage	4931	4933	T3	Predicted
+R1	Equiv	Arg1:T2	Arg2:T3
+R2	Equiv	Arg1:T23	Arg2:T24
+R3	IsInSuppl	Arg1:T30	Arg2:T27
