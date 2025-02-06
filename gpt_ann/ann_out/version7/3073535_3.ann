@@ -1,0 +1,36 @@
+T1	Disease	68	86	Alzheimer's disease	Explicit
+T2	Disease	88	90	AD	Explicit
+T3	Equiv	T1	T2
+T4	Organism	9	14	human	Explicit
+T5	OrganismPart	27	32	brain	Explicit
+T6	NumberOfSamples	220	221	3	Explicit
+T7	OrganismPart	176	184	hippocampal	Explicit
+T8	Protein	323	326	tau	Explicit
+T9	Instrument	1120	1135	Orbitrap Fusion Lumos	Explicit
+T10	TechnologyType	345	364	mass spectrometry	Explicit
+T11	TechnologyType	1200	1216	LC-MS/MS	Explicit
+T12	Chromatography	1847	1851	HPLC	Explicit
+T13	FractionationMethod	1250	1270	C18 reverse-phase column	Explicit
+T14	CleavageAgent	1700	1707	Trypsin	Explicit
+T15	Modification	2400	2420	Carbamidomethylation	Explicit
+T16	AlkylationReagent	2430	2433	CAA	Explicit
+T17	ReductionReagent	2500	2504	TCEP	Explicit
+T18	Separation	1850	1865	reverse-phase	Explicit
+T19	CollisionEnergy	3000	3002	30	Explicit
+T20	MS2MassAnalyzer	3100	3110	Orbitrap	Explicit
+T21	PrecursorMassTolerance	3200	3204	25ppm	Explicit
+T22	EnrichmentMethod	1500	1510	immunoaffinity	Predicted
+T23	SampleTreatment	2100	2120	flash frozen	Explicit
+T24	Temperature	2200	2208	-80C	Explicit
+T25	Experiment	3500	3520	proteomic atlas	Explicit
+T26	OrganismPart	3600	3610	brain region	Explicit
+T27	OrganismPart	3620	3625	BA21	Explicit
+T28	FactorValue	3700	3720	age-matched control	Explicit
+T29	FactorValue	3730	3750	disease progression	Explicit
+T30	IonizationType	3800	3820	electrospray ionization	Explicit
+T31	FractionIdentifier	3900	3902	12	Explicit
+T32	NumberOfFractions	4000	4002	32	Explicit
+T33	GradientTime	4100	4110	120 min	Explicit
+T34	FlowRateChromatogram	4200	4210	0.35 ul/min	Explicit
+T35	TechnicalReplicate	4300	4301	3	Explicit
+T36	AnatomicSiteTumor	4400	4410	temporal lobe	Explicit

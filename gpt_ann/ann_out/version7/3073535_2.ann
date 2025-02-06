@@ -1,0 +1,35 @@
+T1	Title	0	52	Proteomic Atlas of the Human Brain in Alzheimer's Disease	Explicit
+T2	OrganismPart	72	77	brain	Explicit
+T3	Disease	147	167	Alzheimer's disease (AD)	Explicit
+T4	Organism	239	244	human	Explicit
+T5	OrganismPart	291	296	brain	Explicit
+T6	NumberOfSamples	348	358	three aged individuals	Explicit
+T7	FactorValue	409	423	disease progression	Explicit
+T8	Disease	432	448	neurofibrillary tangles	Explicit
+T9	Instrument	528	548	mass spectrometry	Explicit
+T10	Protein	563	576	brain proteome	Explicit
+T11	Protein	661	673	tau protein	Explicit
+T12	Disease	700	713	AD pathology	Explicit
+T13	FactorValue	737	753	age-matched controls	Explicit
+T14	NumberOfBiologicalReplicates	1042	1056	Three	Explicit
+T15	Temperature	1101	1105	-80C	Explicit
+T16	OrganismPart	1205	1224	anterior hippocampal region	Explicit
+T17	Modification	1305	1329	alpha-phosphorylated tau protein	Explicit
+T18	Modification	1456	1468	carbamidomethyl	Explicit
+T19	CleavageAgent	1550	1557	Trypsin	Explicit
+T20	ReductionReagent	1601	1605	TCEP	Explicit
+T21	AlkylationReagent	1607	1610	CAA	Explicit
+T22	FractionationMethod	1722	1746	C18 reverse-phase column	Explicit
+T23	Instrument	1755	1779	HPLC (Agilent, Infinity 2000)	Explicit
+T24	Organism	1911	1916	human	Explicit
+T25	TechnologyType	2017	2031	LC-MS/MS	Explicit
+T26	IonizationType	2145	2168	electrospray ionization	Explicit
+T27	Instrument	2182	2210	Thermo Orbitrap Fusion Lumos	Explicit
+T28	PrecursorMassTolerance	2283	2291	25ppm	Explicit
+T29	FragmentMassTolerance	2356	2362	0.5 Da	Explicit
+T30	CollisionEnergy	2410	2412	30	Explicit
+T31	MS2MassAnalyzer	2450	2472	Advanced Precursor Determination	Explicit
+T32	AcquisitionMethod	2515	2518	DDA	Explicit
+T33	DataProcessingSoftware	2637	2645	MaxQuant	Explicit
+T34	FactorValue	2763	2771	label-free	Explicit
+T35	SupplementaryFile	3004	3013	PXD010603	Explicit
