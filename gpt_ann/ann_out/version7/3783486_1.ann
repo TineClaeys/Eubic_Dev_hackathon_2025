@@ -1,0 +1,21 @@
+ID	EntityType	StartOffset	EndOffset	EntityText	Confidence
+T1	AcquisitionMethod	654	657	DIA	Explicit
+T2	AcquisitionMethod	659	662	DDA	Explicit
+T3	CleavageAgent	14587	14594	trypsin	Explicit
+T4	Instrument	16021	16041	SYNAPT G2-Si	Explicit
+T5	IonizationType	21045	21066	nanoelectrospray	Explicit
+T6	Label	1025	1034	label-free	Explicit
+T7	MaterialType	214	220	tissue	Explicit
+T8	MaterialType	1531	1535	urine	Explicit
+T9	Modification	14765	14779	Carbamidomethyl C	Explicit
+T10	MS2MassAnalyzer	16042	16058	high definition	Explicit
+T11	NumberOfSamples	3139	3141	18	Explicit
+T12	Organism	161	167	human	Explicit
+T13	OrganismPart	502	508	bladder	Explicit
+T14	SampleTreatment	4213	4226	sonication	Explicit
+T15	SampleTreatment	4321	4332	fractionation	Explicit
+T16	Separation	1092	1099	LC-MS/MS	Explicit
+T17	Sex	2823	2830	male, female	Explicit
+T18	TechnologyType	1034	1047	proteomics	Explicit
+T19	Temperature	21568	21572	-80C	Explicit
+T20	Treatment	8745	8757	centrifugation	Explicit

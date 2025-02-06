@@ -1,0 +1,45 @@
+﻿T1	TechnologyType	652	673	label-free data-independent
+T2	AcquisitionMethod	674	682	LC-MS/MS
+T3	Instrument	689	707	SYNAPT G2-Si
+T4	Organism	1157	1173	human bladder
+T5	Disease	1174	1187	bladder cancer
+T6	NumberOfSamples	1756	1766	18 tissue
+T7	NumberOfBiologicalReplicates	1768	1778	6 samples
+T8	NumberOfBiologicalReplicates	1808	1818	6 samples
+T9	NumberOfBiologicalReplicates	1848	1858	6 samples
+T10	Age	2124	2133	aged 39-82
+T11	Temperature	2587	2598	-80 degreesC
+T12	Temperature	2732	2743	-80 degreesC
+T13	TechnicalReplicate	3618	3627	test run
+T14	Instrument	3655	3673	SYNAPT G2-Si
+T15	Separation	3912	3935	reverse phase C18
+T16	FlowRateChromatogram	3962	3975	300 nL/min
+T17	GradientTime	3992	4001	90 min
+T18	CleavageAgent	4736	4743	trypsin
+T19	ReductionReagent	4841	4844	DTT
+T20	AlkylationReagent	4896	4907	iodoacetamide
+T21	Instrument	5113	5131	SYNAPT G2-Si
+T22	Chromatography	5133	5156	ACQUITY UPLC M-Class
+T23	Organism	5170	5184	human bladder
+T24	Disease	5185	5198	bladder cancer
+T25	MS2MassAnalyzer	5662	5665	IMS
+T26	FractionationMethod	5726	5732	UDMSE
+T27	PrecursorMassTolerance	6269	6274	auto
+T28	FragmentMassTolerance	6304	6308	auto
+T29	NumberOfMissedCleavages	6398	6402	one
+T30	Modification	6505	6519	carbamidomethyl C
+T31	Modification	6547	6557	oxidized M
+T32	NumberOfFractions	7945	7947	52
+T33	NumberOfFractions	7948	7950	24
+T34	NumberOfBiologicalReplicates	8772	8773	3
+T35	TechnicalReplicate	10082	10084	one
+T36	CleavageAgent	11004	11011	trypsin
+T37	ReductionReagent	11085	11088	DTT
+T38	AlkylationReagent	11144	11155	iodoacetamide
+T39	Chromatography	12002	12021	PolyWAX column
+T40	Instrument	13075	13089	Orbitrap Elite
+T41	PrecursorMassTolerance	13720	13726	10 ppm
+T42	FragmentMassTolerance	13752	13758	0.05 Da
+T43	FragmentationMethod	14025	14063	high-energy collisional dissociation
+T44	CollisionEnergy	14080	14083	32%
+T45	IonizationType	14173	14189	nanoelectrospray
