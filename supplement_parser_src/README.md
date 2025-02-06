@@ -14,7 +14,7 @@ Example:
 | ... | ... |
 
 ### Extraction of sample relevant information
-After loading the supplementary tables, columns whose names match entity names or allowed synonyms are extracted. Entity name synonyms are replaced with the entity names (e.g. *mass spectrometer* will be replaced with *Instrument*).
+After loading the supplementary tables, columns whose names match entity names or allowed synonyms are extracted. Entity name synonyms are replaced with the entity names (e.g. *mass spectrometer* will be replaced with *Instrument*). Unique sample identifiers are expected to be located and extracted from the first table column.
 
 Protein expression tables will not be considered relevant for metadata information extraction.
 
