@@ -45,12 +45,18 @@ def get_txt_tables(file_path:str)-> list[pd.DataFrame]:
     return(final_df_list)
 
 def get_excel_tables(file_path:str):
+    """
+    Reads all sheets in an Excel file and returns them as a list of DataFrames.
+    If there is only one sheet, returns a list containing only that DataFrame.
+    """
+    
+    sheets = pd.read_excel(file_path, sheet_name=None)  # Read all sheets
     final_df_list=[]
-    #TODO get multiple tables
-    df = pd.read_excel(file_path)
-    df, is_expression = find_table_start_from_df(df)
-    if is_expression:
-        final_df_list.append(df)
+    df_list = list(sheets.values())  # Convert to list of DataFrames
+    for df in df_list:
+        df, is_expression = find_table_start_from_df(df)
+        if is_expression:
+            final_df_list.append(df)
     return(final_df_list)
     
 def get_csv_tables(file_path:str):
