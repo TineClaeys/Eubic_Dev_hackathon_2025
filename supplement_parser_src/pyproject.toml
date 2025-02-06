@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools", "wheel", "Cython"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supp_hack"
+description = "scripts to data mine supplementary files for LLM"
+version = "1.0.0"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+{name="Karolina"},
+{name="Samuel"},
+{name="Maike"},
+{name="Marta"},
+]
+
+dependencies = [
+  "pandas ~= 2.2",
+  "python-docx ~= 1.1.2",
+]

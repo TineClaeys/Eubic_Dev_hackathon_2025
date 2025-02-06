@@ -1,0 +1,309 @@
+{
+    "AcquisitionMethod": [
+        "acquisition method",
+        "data acquisition",
+        "scan method"
+    ],
+    "Age": [
+        "age",
+        "patient age",
+        "donor age",
+        "subject age"
+    ],
+    "AlkylationReagent": [
+        "alkylation reagent",
+        "modifying reagent",
+        "chemical modifier"
+    ],
+    "AnatomicSiteTumor": [
+        "tumor location",
+        "tumor site",
+        "anatomical tumor location"
+    ],
+    "AncestryCategory": [
+        "ethnicity",
+        "race",
+        "genetic background"
+    ],
+    "Bait": [
+        "bait protein",
+        "affinity reagent"
+    ],
+    "BMI": [
+        "body mass index",
+        "bmi"
+    ],
+    "BiologicalReplicate": [
+        "biological replicate",
+        "bio-replicate"
+    ],
+    "CellLine": [
+        "cell line",
+        "culture line"
+    ],
+    "CellPart": [
+        "cell compartment",
+        "cellular fraction",
+        "organelle"
+    ],
+    "CellType": [
+        "cell type",
+        "cell category"
+    ],
+    "CleavageAgent": [
+        "cleavage enzyme",
+        "protease",
+        "digestion enzyme"
+    ],
+    "CollisionEnergy": [
+        "collision energy",
+        "fragmentation energy"
+    ],
+    "Compound": [
+        "compound",
+        "chemical",
+        "drug"
+    ],
+    "ConcentrationOfCompound": [
+        "compound concentration",
+        "dose",
+        "drug concentration"
+    ],
+    "Chromatography": [
+        "chromatography method",
+        "chromatographic separation"
+    ],
+    "Depletion": [
+        "depletion method",
+        "removal",
+        "depleting reagent"
+    ],
+    "DevelopmentalStage": [
+        "developmental stage",
+        "age group",
+        "life stage"
+    ],
+    "Disease": [
+        "disease",
+        "condition",
+        "diagnosis"
+    ],
+    "DiseaseTreatment": [
+        "treatment",
+        "therapy",
+        "medical intervention"
+    ],
+    "EnrichmentMethod": [
+        "enrichment",
+        "isolation method"
+    ],
+    "Experiment": [
+        "experiment",
+        "study",
+        "research"
+    ],
+    "FactorValue": [
+        "experimental factor",
+        "variable"
+    ],
+    "FlowRateChromatogram": [
+        "flow rate",
+        "chromatographic flow rate"
+    ],
+    "FractionationMethod": [
+        "fractionation",
+        "separation method"
+    ],
+    "FractionIdentifier": [
+        "fraction id",
+        "fraction label"
+    ],
+    "FractionationFraction": [
+        "fraction",
+        "separated fraction"
+    ],
+    "FragmentationMethod": [
+        "fragmentation",
+        "ms/ms method"
+    ],
+    "FragmentMassTolerance": [
+        "fragment tolerance",
+        "ms2 tolerance"
+    ],
+    "GeneticModification": [
+        "genetic mod",
+        "gene edit"
+    ],
+    "Genotype": [
+        "genotype",
+        "genetic background"
+    ],
+    "GradientTime": [
+        "gradient duration",
+        "chromatographic gradient"
+    ],
+    "GrowthRate": [
+        "growth rate",
+        "proliferation rate"
+    ],
+    "Instrument": [
+        "instrument",
+        "mass spectrometer"
+    ],
+    "IonizationType": [
+        "ionization",
+        "ionization mode"
+    ],
+    "Label": [
+        "label",
+        "tag",
+        "marker"
+    ],
+    "MaterialType": [
+        "material type",
+        "sample type"
+    ],
+    "Modification": [
+        "modification",
+        "post-translational modification"
+    ],
+    "MS2MassAnalyzer": [
+        "mass analyzer",
+        "ms/ms analyzer"
+    ],
+    "NumberOfMissedCleavages": [
+        "missed cleavages",
+        "cleavage efficiency"
+    ],
+    "NumberOfFractions": [
+        "fractions",
+        "fraction count"
+    ],
+    "NumberOfTechnicalReplicates": [
+        "technical replicates",
+        "replication count"
+    ],
+    "NumberOfSamples": [
+        "samples",
+        "sample count"
+    ],
+    "NumberOfBiologicalReplicates": [
+        "biological replicates",
+        "bio-replication count"
+    ],
+    "Organism": [
+        "species",
+        "organism name"
+    ],
+    "OrganismPart": [
+        "tissue",
+        "body part",
+        "sample source"
+    ],
+    "OriginSiteDisease": [
+        "disease origin",
+        "primary site"
+    ],
+    "PrecursorMassTolerance": [
+        "precursor tolerance",
+        "ms1 tolerance"
+    ],
+    "PooledSample": [
+        "pooled",
+        "combined sample"
+    ],
+    "ReductionReagent": [
+        "reducing agent",
+        "reduction reagent"
+    ],
+    "SamplingTime": [
+        "sampling time",
+        "collection time"
+    ],
+    "SampleTreatment": [
+        "treatment",
+        "preparation method"
+    ],
+    "Separation": [
+        "separation technique",
+        "isolation method"
+    ],
+    "Sex": [
+        "sex",
+        "gender"
+    ],
+    "Specimen": [
+        "specimen",
+        "sample"
+    ],
+    "SpikedCompound": [
+        "spiked compound",
+        "internal standard"
+    ],
+    "Staining": [
+        "stain",
+        "histological stain"
+    ],
+    "Strain": [
+        "strain",
+        "genetic strain"
+    ],
+    "SupplementaryFile": [
+        "supplementary file",
+        "additional data"
+    ],
+    "SyntheticPeptide": [
+        "synthetic peptide",
+        "artificial peptide"
+    ],
+    "TumorCellularity": [
+        "tumor cellularity",
+        "tumor composition"
+    ],
+    "TumorGrade": [
+        "tumor grade",
+        "malignancy grade"
+    ],
+    "TumorSize": [
+        "tumor size",
+        "tumor volume"
+    ],
+    "TumorSite": [
+        "tumor site",
+        "tumor location"
+    ],
+    "TumorStage": [
+        "tumor stage",
+        "cancer stage"
+    ],
+    "Time": [
+        "time",
+        "duration",
+        "temporal"
+    ],
+    "Temperature": [
+        "temperature",
+        "incubation temperature"
+    ],
+    "Treatment": [
+        "treatment",
+        "therapy",
+        "drug regimen"
+    ],
+    "TechnicalReplicate": [
+        "technical replicate",
+        "experimental repeat"
+    ],
+    "TechnologyType": [
+        "technology",
+        "methodology"
+    ],
+    "OutOfScope": [
+        "irrelevant",
+        "excluded"
+    ],
+    "Sample": [
+        "Sample ID",
+        "ID"
+    ]
+}
