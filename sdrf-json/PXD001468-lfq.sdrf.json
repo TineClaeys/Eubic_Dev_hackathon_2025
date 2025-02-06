@@ -1,0 +1,321 @@
+{
+    "origin file": "https://github.com/bigbio/proteomics-sample-metadata/blob/master/annotated-projects/PXD001468/PXD001468.sdrf.tsv",
+
+    "samples": {
+        "sample 1" : {
+            "name": "Sample 1",
+            "biological replicate": "1"
+        }
+    },
+
+    "runs": {
+        "run 1": {
+            "assays" : [
+                {
+                    "sample": "sample 1",
+                    "fraction": "1",
+                    "technical replicate": "1"
+                }
+
+            ],
+            "file uri": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1906_293T_proteinID_01A_QE3_122212.raw",
+            "data file": "b1906_293T_proteinID_01A_QE3_122212.raw"
+        },
+        "run 2": {
+            "assays" : [
+                {
+                    "sample": "sample 1",
+                    "fraction": "2",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1923_293T_proteinID_02A_QE3_122212.raw",
+            "data file": "b1923_293T_proteinID_02A_QE3_122212.raw"
+        },
+        "run 3": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "3",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1924_293T_proteinID_03A_QE3_122212.raw",
+            "data file": "b1924_293T_proteinID_03A_QE3_122212.raw"
+        },
+        "run 4": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "4",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1925_293T_proteinID_04A_QE3_122212.raw",
+            "data file": "b1925_293T_proteinID_04A_QE3_122212.raw"
+        },
+        "run 5": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "5",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1926_293T_proteinID_05A_QE3_122212.raw",
+            "data file": "b1926_293T_proteinID_05A_QE3_122212.raw"
+        },
+        "run 6": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "6",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1927_293T_proteinID_06A_QE3_122212.raw",
+            "data file": "b1927_293T_proteinID_06A_QE3_122212.raw"
+        },
+        "run 7": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "7",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1928_293T_proteinID_07A_QE3_122212.raw",
+            "data file": "b1928_293T_proteinID_07A_QE3_122212.raw"
+        },
+        "run 8": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "8",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1929_293T_proteinID_08A_QE3_122212.raw",
+            "data file": "b1929_293T_proteinID_08A_QE3_122212.raw"
+        },
+        "run 9": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "9",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1930_293T_proteinID_09A_QE3_122212.raw",
+            "data file": "b1930_293T_proteinID_09A_QE3_122212.raw"
+        },
+        "run 10": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "10",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1931_293T_proteinID_10A_QE3_122212.raw",
+            "data file": "b1931_293T_proteinID_10A_QE3_122212.raw"
+        },
+        "run 11": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "11",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1932_293T_proteinID_11A_QE3_122212.raw",
+            "data file": "b1932_293T_proteinID_11A_QE3_122212.raw"
+        },
+        "run 12": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "12",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1933_293T_proteinID_12A_QE3_122212.raw",
+            "data file": "b1933_293T_proteinID_12A_QE3_122212.raw"
+        },
+        "run 13": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "13",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1934_293T_proteinID_13A_QE3_122212.raw",
+            "data file": "b1934_293T_proteinID_13A_QE3_122212.raw"
+        },
+        "run 14": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "14",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1937_293T_proteinID_01B_QE3_122212.raw",
+            "data file": "b1937_293T_proteinID_01B_QE3_122212.raw"
+        },
+        "run 15": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "15",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1938_293T_proteinID_02B_QE3_122212.raw",
+            "data file": "b1938_293T_proteinID_02B_QE3_122212.raw"
+        },
+        "run 16": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "16",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1939_293T_proteinID_03B_QE3_122212.raw",
+            "data file": "b1939_293T_proteinID_03B_QE3_122212.raw"
+        },
+        "run 17": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "17",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1940_293T_proteinID_04B_QE3_122212.raw",
+            "data file": "b1940_293T_proteinID_04B_QE3_122212.raw"
+        },
+        "run 18": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "18",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1941_293T_proteinID_05B_QE3_122212.raw",
+            "data file": "b1941_293T_proteinID_05B_QE3_122212.raw"
+        },
+        "run 19": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "19",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1942_293T_proteinID_06B_QE3_122212.raw",
+            "data file": "b1942_293T_proteinID_06B_QE3_122212.raw"
+        },
+        "run 20": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "20",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1943_293T_proteinID_07B_QE3_122212.raw",
+            "data file": "b1943_293T_proteinID_07B_QE3_122212.raw"
+        },
+        "run 21": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "21",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1944_293T_proteinID_08B_QE3_122212.raw",
+            "data file": "b1944_293T_proteinID_08B_QE3_122212.raw"
+        },
+        "run 22": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "22",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1945_293T_proteinID_09B_QE3_122212.raw",
+            "data file": "b1945_293T_proteinID_09B_QE3_122212.raw"
+        },
+        "run 23": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "23",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1946_293T_proteinID_10B_QE3_122212.raw",
+            "data file": "b1946_293T_proteinID_10B_QE3_122212.raw"
+        },
+        "run 24": {
+            "assays":[
+                {
+                    "sample": "sample 1",
+                    "fraction": "24",
+                    "technical replicate": "1"
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2015/06/PXD001468/b1947_293T_proteinID_11B_QE3_122212.raw",
+            "data file": "b1947_293T_proteinID_11B_QE3_122212.raw"
+        },
+    "factor values": {    },
+
+    "sample characteristics": {
+        "sample_chara_1": {
+            "apply": "ALL",
+            "organism": "Homo sapiens",
+            "organism part": "kidney",
+            "cell type": "epithelial",
+            "cell line": "HEK-293 cell", 
+            "developmental stage": "embryo stage",
+            "disease": "not available",
+            "ancestry category": "not available",
+            "sex": "not available",
+            "age": "not applicable",
+            "technology type": "proteomic profiling by mass spectrometry"
+        }
+    },
+
+    "assay characteristics": {
+        "charas": {
+            "apply": "ALL",
+            "instrument": "NT=Q Exactive",
+            "modification parameters": [
+                "NT=Gln->pyro-Glu;MT=Variable;TA=Q;PP=Any N-term;AC=UNIMOD:28",
+                "NT= Carbamyl;MT=Variable;TA=K;AC=UNIMOD:5",
+                "NT=Carbamidomethyl;TA=C;AC=UNIMOD:4;MT=fixed",
+                "NT=Oxidation;TA=M;AC=UNIMOD:35;MT=variable",
+                "NT=13C6-15N4;TA=R;AC=UNIMOD:267;MT=variable",
+                "NT=Deamidated;MT=Variable;TA=N,Q;AC=UNIMOD:7", 
+                "NT=Phospho;MT=Variable;TA=S,T;AC=UNIMOD:21"
+
+            ],
+            "cleavage agent details": [
+                "NT=Trypsin"
+
+            ],
+            "fragment mass tolerance": "0.01 Da",
+            "precursor mass tolerance": "5 ppm", 
+            "label": "AC=MS:1002038;NT=label free sample",
+            "dissociation method": "HCD",
+            "collision energy": "25% NCE"
+
+        }
+    }
+}}
