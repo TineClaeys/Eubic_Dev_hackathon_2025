@@ -1,0 +1,2427 @@
+{
+    "origin file": "https://github.com/bigbio/proteomics-sample-metadata/blob/master/annotated-projects/PXD017710/PXD017710-tmt.sdrf.tsv",
+
+    "samples": {
+        "sample1" : {
+            "name": "Sample 1",
+            "biological replicate": "1",
+            "desc": "bridge mixed pool"
+        },
+        "sample2" : {
+            "name": "Sample 2",
+            "biological replicate": "1",
+            "desc": "no infection, 2 hour"
+        }, 
+        "sample3" : {
+            "name": "Sample 3",
+            "biological replicate": "1",
+            "desc": "no infection, 6 hour"
+        },
+        "sample4" : {
+            "name": "Sample 4",
+            "biological replicate": "1",
+            "desc": "no infection, 10 hour"
+        },
+        "sample5" : {
+            "name": "Sample 5",
+            "biological replicate": "1",
+            "desc": "no infection, 24 hour"
+        },
+        "sample6" : {
+            "name": "Sample 6",
+            "biological replicate": "1",
+            "desc": "SARS-CoV2, 2 hour"
+        },
+        "sample7" : {
+            "name": "Sample 7",
+            "biological replicate": "1",
+            "desc": "SARS-CoV2, 6 hour"
+        },
+        "sample8" : {
+            "name": "Sample 8",
+            "biological replicate": "1",
+            "desc": "SARS-CoV2, 10 hour"
+        },
+        "sample9" : {
+            "name": "Sample 9",
+            "biological replicate": "1",
+            "desc": "SARS-CoV2, 24 hour"
+        }
+    },
+
+    "runs": {
+        "run1": {
+            "desc": "run 1",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file uri": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F1.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F1.raw"
+        },
+        "run2": {
+            "desc": "run 2",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F2.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F2.raw"
+        },
+        "run3": {
+            "desc": "run 3",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "3",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F3.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F3.raw"
+        },
+        "run4": {
+            "desc": "run 4",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "4",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F4.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F4.raw"
+        },
+        "run5": {
+            "desc": "run 5",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "5",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F5.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F5.raw"
+        },
+        "run6": {
+            "desc": "run 6",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "6",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F6.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F6.raw"
+        },
+        "run7": {
+            "desc": "run 7",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "7",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F7.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F7.raw"
+        },
+        "run8": {
+            "desc": "run 8",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "8",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F8.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F8.raw"
+        },
+        "run9": {
+            "desc": "run 9",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file uri": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool2_F1.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool2_F1.raw"
+        },
+        "run10": {
+            "desc": "run 10",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "2",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool2_F2.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool2_F2.raw"
+        },
+        "run11": {
+            "desc": "run 11",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "3",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool2_F3.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool2_F3.raw"
+        },
+        "run12": {
+            "desc": "run 12",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "4",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool2_F4.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool2_F4.raw"
+        },
+        "run13": {
+            "desc": "run 13",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "5",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool2_F5.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool2_F5.raw"
+        },
+        "run14": {
+            "desc": "run 14",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "6",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool2_F6.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool2_F6.raw"
+        },
+        "run15": {
+            "desc": "run 15",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "7",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool2_F7.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool2_F7.raw"
+        },
+        "run16": {
+            "desc": "run 16",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "8",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool2_F8.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool2_F8.raw"
+        },
+        "run17": {
+            "desc": "run 17",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file uri": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool3_F1.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool3_F1.raw"
+        },
+        "run18": {
+            "desc": "run 18",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "2",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool3_F2.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool3_F2.raw"
+        },
+        "run19": {
+            "desc": "run 19",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "3",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool3_F3.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool3_F3.raw"
+        },
+        "run20": {
+            "desc": "run 20",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "4",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool3_F4.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool3_F4.raw"
+        },
+        "run21": {
+            "desc": "run 21",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "5",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool3_F5.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool3_F5.raw"
+        },
+        "run22": {
+            "desc": "run 22",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "6",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool3_F6.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool3_F6.raw"
+        },
+        "run23": {
+            "desc": "run 23",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "7",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool3_F7.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool3_F7.raw"
+        },
+        "run24": {
+            "desc": "run 24",
+            "assays" : [
+                {
+                    "sample": "sample1",
+                    "label": "TMT131",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample2",
+                    "label": "TMT127N",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample3",
+                    "label": "TMT127C",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample4",
+                    "label": "TMT128N",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample5",
+                    "label": "TMT128C",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "24 hour"
+                    }
+                },
+                {
+                    "sample": "sample6",
+                    "label": "TMT129N",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "2 hour"
+                    }
+                },
+                {
+                    "sample": "sample7",
+                    "label": "TMT129C",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "6 hour"
+                    }
+                },
+                {
+                    "sample": "sample8",
+                    "label": "TMT130N",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "10 hour"
+                    }
+                },
+                {
+                    "sample": "sample9",
+                    "label": "TMT130C",
+                    "fraction": "8",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "infect": "proteomic profiling by mass spectrometry",
+                        "time": "24 hour"
+                    }
+                }
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool3_F8.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool3_F8.raw"
+        }
+    },
+    
+    "factor values": {
+        "infect": {
+            "desc": "The infect status of the samples, in this experiment the samples are infected with SARS-CoV2 or not at all.",
+        },
+        "time": {
+            "desc": "Time after infection (or control sample)."
+        }
+    },
+
+    "sample characteristics": {
+        "sample_charas": {
+            "apply": "ALL",
+            "organism": "Homo sapiens",
+            "organism part": "colon",
+            "sex": "male",
+            "age": "72 years",
+            "developmental stage": "adult",
+            "ancestry category": "caucasian",
+            "cell taype": "not available",
+            "disease": "colon cancer",
+            "cell line": "CaCo-2",
+            "material type": "cell",
+            "technology type": "proteomic profiling by mass spectrometry"
+        }
+    },
+
+    "assay characteristics": {
+        "assay_charas": {
+            "apply": "ALL",
+            "instrument": "NT=Q Exactive HF;AC=MS:1002523",
+            "modification parameters": [
+                "NT=TMT6plex;PP=Any N-term;AC=UNIMOD:737;MT=fixed",
+                "NT=Carbamidomethyl;TA=C;AC=UNIMOD:4;MT=fixed",
+                "NT=Oxidation;TA=M;AC=UNIMOD:35;MT=variable",
+                "NT=13C6-15N4;TA=R;AC=UNIMOD:267;MT=variable"
+            ],
+            "cleavage agent details": [
+                "NT=Trypsin;AC=MS:1001251;CS=(?⇐[KR])(?!P)",
+                "NT=Lys-C;AC=MS:1001309;(?<=K)(?!P)"
+            ],
+            "fragment mass tolerance": "not available",
+            "precursor mass tolerance": "not available"
+        }
+    }
+}
