@@ -1,0 +1,43 @@
+T1	Disease	122	140	Alzheimer's disease	Explicit
+T2	Disease	142	144	AD	Explicit
+R1	Equiv	Arg1:T1	Arg2:T2
+T3	Organism	54	59	human	Explicit
+T4	OrganismPart	66	71	brain	Explicit
+T5	OrganismPart	357	362	brain	Explicit
+T6	OrganismPart	435	457	anterior hippocampal region	Explicit
+T7	DiseaseTreatment	647	694	alpha-phosphorylated tau protein antibody	Explicit
+T8	Staining	695	700	stained	Explicit
+T9	CleavageAgent	1003	1010	Trypsin	Explicit
+T10	AlkylationReagent	1177	1180	CAA	Explicit
+T11	ReductionReagent	1160	1164	TCEP	Explicit
+T12	FractionationMethod	1317	1356	C18 reverse-phase column	Explicit
+T13	GradientTime	1572	1580	75 minutes	Explicit
+T14	FlowRateChromatogram	1615	1630	0.35 ul/minute	Explicit
+T15	Instrument	1745	1770	Thermo Orbitrap Fusion Lumos	Explicit
+T16	IonizationType	1795	1818	electrospray ionization	Explicit
+T17	AcquisitionMethod	1942	1944	DDA	Inferred
+T18	MS2MassAnalyzer	1962	1986	Orbitrap Fusion Lumos	Inferred
+T19	PrecursorMassTolerance	2010	2016	25ppm	Explicit
+T20	FragmentMassTolerance	2050	2055	0.7 Th	Explicit
+T21	CollisionEnergy	2075	2077	30	Explicit
+T22	TechnologyType	2105	2131	mass spectrometry-based proteomics	Explicit
+T23	Software	2155	2162	MaxQuant	Explicit
+T24	SupplementaryFile	2415	2430	ProteomeXchange Consortium	Explicit
+T25	SupplementaryFile	2432	2444	PRIDE repository	Explicit
+R2	Equiv	Arg1:T24	Arg2:T25
+T26	OrganismPart	2725	2732	BA21 region	Explicit
+T27	OrganismPart	2734	2741	middle temporal lobe	Explicit
+R3	Equiv	Arg1:T26	Arg2:T27
+T28	Temperature	2765	2770	-80C	Explicit
+T29	Temperature	2772	2777	-150C	Explicit
+T30	Sex	2845	2850	gender	Explicit
+T31	Age	2865	2868	age	Explicit
+T32	Time	2882	2895	post-mortem delay	Explicit
+T33	NumberOfBiologicalReplicates	2915	2917	3	Explicit
+T34	NumberOfFractions	3102	3104	12	Explicit
+T35	Modification	3225	3238	Carbamidomethyl	Explicit
+A1	Modification	T35	fixed
+T36	Modification	3356	3369	Citrullination	Explicit
+A2	Modification	T36	variable
+T37	Modification	3425	3440	Lysine carbamylation	Explicit
+A3	Modification	T37	variable
