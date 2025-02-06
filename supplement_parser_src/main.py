@@ -15,13 +15,7 @@ def parse_arguments():
                     epilog='sup :D')
     
     
-    parser.add_argument('-docx', '--word_format') 
-    parser.add_argument("-txt")
-    parser.add_argument("-tsv")
-    parser.add_argument("-xlsx")
-    parser.add_argument("csv")
-    
-    
+    parser.add_argument('-input') 
     return parser
 
 

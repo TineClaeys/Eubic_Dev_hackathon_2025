@@ -1,10 +1,6 @@
 #native imports 
 import os
 
-#third party imports
-import pandas as pd
-import docx
-
 #own imports
 import src.get_content as cont
 
@@ -29,6 +25,11 @@ def check_extension(file_path:str):
             word_tables = cont.get_word_tables(file_path)
             word_text = cont.get_word_text(file_path)
             return(word_tables, word_text)
+        case ".txt":
+            #TODO
+            txt_tables = cont.get_txt_tables(file_path)
+            txt_text = cont.get_txt_text(file_path)
+            return(txt_tables, txt_text)
         case _:
             print("No valid file format")
             raise ValueError(f"Unsupported file extension: {extension}")

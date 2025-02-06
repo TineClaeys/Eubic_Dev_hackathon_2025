@@ -3,8 +3,6 @@ import pandas as pd
 import docx
 
 
-    
-
 def get_word_tables(file_path:str)-> list[pd.DataFrame]:
     final_df_list=[]
     doc = docx.Document(file_path)
@@ -86,6 +84,23 @@ def is_expression_table(df:pd.DataFrame)-> bool:
     normalized_cols = normalize_headers(df.columns)
     return any(col in normalized_gene_synonyms for col in normalized_cols)
 
+
+def normalize_headers(headers):
+    """
+    Normalize headers: lower case, strip whitespace, remove punctuation, and remove spaces for better matching.
+    """
+    normalized = []
+    for header in headers:
+        if isinstance(header, str):  # Ensure header is a string
+            h = header.lower().strip()
+            h = re.sub(r'[^\w\s]', '', h)  # Remove punctuation
+            h = h.replace(" ", "")  # Remove spaces to ensure matching
+            normalized.append(h)
+        else:
+            normalized.append(str(header).lower())  # Convert non-string headers to string
+    return normalized
+
+
 def find_table_start_from_df(df: pd.DataFrame, nan_threshold=0.5):
     """
     Identifies where the table starts in a DataFrame by detecting the first structured row.
@@ -113,3 +128,16 @@ def find_table_start_from_df(df: pd.DataFrame, nan_threshold=0.5):
     # Check if the extracted table is a protein expression table
     is_expression = is_expression_table(table_df)
     return(table_df, is_expression)
+
+
+def get_word_text():
+    #TODO
+    print("blubb")
+    
+def get_txt_text():
+    #TODO
+    print("floo")
+    
+def get_txt_tables():
+    #TODO
+    print("Maike was here")
