@@ -1,0 +1,52 @@
+T1	Organism 27 32	Human
+T2	OrganismPart 33 38	Heart
+T3	Disease 432 453	mitral valve prolapse
+T4	Disease 455 458	MVP
+*	Equiv T3 T4
+T5	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T6	Disease 661 680	atrial fibrillation
+T7	Disease 682 684	AF
+T8	OrganismPart 713 724	right atria
+T9	OrganismPart 726 728	RA
+T10	OrganismPart 731 741	left atria
+T11	OrganismPart 743 745	LA
+T12	OrganismPart 751 765	left ventricle
+T13	OrganismPart 767 769	LV
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T12 T13
+T14	NumberOfSamples 774 779	seven
+T15	Sex 780 784	male
+T16	Disease 831 862	dilated LA but no history of AF
+T17	Chromatography 976 1025	reverse phase high-pressure liquid chromatography
+T18	Instrument 1055 1077	Q-Exactive-HF Orbitrap
+T19	Disease 3925 3946	mitral valve prolapse
+T20	Disease 3948 3951	MVP
+*	Equiv T19 T20
+T21	OrganismPart 4012 4022	right (RA)
+T22	OrganismPart 4027 4037	left atria
+T23	OrganismPart 4039 4041	LA
+*	Equiv T22 T23
+T24	OrganismPart 4056 4070	left ventricle
+T25	OrganismPart 4072 4074	LV
+*	Equiv T24 T25
+T26	Disease 4581 4600	atrial fibrillation
+T27	Disease 4602 4604	AF
+T28	Disease 4673 4701	dilated LA in a non-AF stage
+T29	Treatment 4870 4902	mitral valve replacement surgery
+T30	OrganismPart 4941 4943	LA
+T31	OrganismPart 4948 4950	RA
+T32	Disease 4969 4999	persistent atrial fibrillation
+T33	OrganismPart 5119 5121	LV
+T34	OrganismPart 5469 5471	LV
+T35	OrganismPart 5484 5490	hearts
+T36	NumberOfBiologicalReplicates 5990 5995	seven
+T37	NumberOfSamples 6087 6089	21
+T38	NumberOfBiologicalReplicates 6522 6527	three
+T39	OrganismPart 7298 7300	LA
+T40	OrganismPart 7302 7304	RA
+T41	OrganismPart 7309 7311	LV
+T42	Treatment 7335 7355	mitral valve surgery
+T43	ReductionReagent 8467 8534	ris(2-carboxyethyl)phosphine (TCEP) and 10 mm chloroacetamide (CAA)
+T44	Instrument 9694 9752	Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer
+T45	Chromatography 9644 9680	reversed-phase liquid chromatography

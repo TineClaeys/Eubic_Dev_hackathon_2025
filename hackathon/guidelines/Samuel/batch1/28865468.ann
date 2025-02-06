@@ -1,0 +1,71 @@
+T1	Disease 354 362	AD + CVD
+T4	Disease 272 280	dementia
+T5	Disease 304 323	Alzheimer's disease
+T6	Disease 329 352	cerebrovascular disease
+T7	Disease 394 402	dementia
+T8	Disease 482 490	dementia
+T9	Disease 1281 1289	AD + CVD
+T10	Disease 2727 2729	AD
+T11	Disease 2706 2725	Alzheimer's disease
+*	Equiv T11 T10
+T12	Disease 2828 2851	Cerebrovascular disease
+T13	Disease 2853 2856	CVD
+*	Equiv T12 T13
+T14	Disease 2923 2925	AD
+T15	Disease 2929 2938	AD + CVD,
+T16	Modification 3508 3522	citrullination
+T17	Modification 3527 3540	carbamylation
+T18	Modification 3770 3783	Carbamylation
+T19	Modification 4277 4291	Citrullination
+T20	Modification 4461 4474	carbamylation
+T22	Disease 4940 4948	AD + CVD
+T21	Disease 4920 4928	dementia
+T23	Disease 5759 5767	AD + CVD
+T24	Disease 5991 6009	multiple sclerosis
+T25	Disease 6011 6013	MS
+*	Equiv T24 T25
+T26	Disease 6104 6112	AD + CVD
+T27	Modification 6173 6186	citrullinated
+T28	Modification 6191 6203	carbamylated
+T29	FractionationMethod 7168 7250	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T31	FractionationFraction 7316 7323	soluble
+T32	FractionationFraction 7328 7338	aggregated
+T33	FractionationFraction 7467 7474	soluble
+T34	FractionationFraction 7479 7489	aggregated
+T2	Disease 107 156	Alzheimer's disease with cerebrovascular disease.
+T3	FactorValue 107 155	Alzheimer's disease with cerebrovascular disease
+T30	Disease 7520 7528	AD + CVD
+T35	Modification 7645 7657	carbamylated
+T36	Disease 7767 7775	AD + CVD
+T37	Disease 8288 8296	AD + CVD
+T38	Organism 8346 8351	human
+T39	OrganismPart 8367 8387	middle temporal lobe
+T40	OrganismPart 8389 8400	BA21 region
+T41	FactorValue 8288 8296	AD + CVD
+T42	Disease 8575 8583	AD + CVD
+T43	SupplementaryFile 8747 8756	Table S1.
+T44	NumberOfBiologicalReplicates 8757 8762	Three
+T45	OrganismPart 9016 9033	BA21 brain region
+T46	FractionationFraction 11406 11413	Soluble
+T47	FractionationFraction 11418 11429	particulate
+T48	CleavageAgent 12063 12070	trypsin
+T49	CleavageAgent 13932 13939	trypsin
+T50	GradientTime 14640 14646	72-min
+T51	GradientTime 14793 14799	60-min
+T52	Instrument 15295 15309	Orbitrap Elite
+T53	ReductionReagent 11897 11900	DTT
+T54	MS2MassAnalyzer 16297 16305	Orbitrap
+T55	AcquisitionMethod 16698 16719	ten most intense ions
+T56	PrecursorMassTolerance 17184 17190	10 ppm
+T57	PrecursorMassTolerance 17195 17202	0.05 Da
+T58	Modification 17294 17326	Carbamidomethylation of cysteine
+T59	Disease 18152 18160	AD + CVD
+T60	Modification 18318 18331	citrullinated
+T61	Modification 18342 18354	carbamylated
+T62	Disease 18936 18944	AD + CVD
+T63	SupplementaryFile 20411 20421	Figure S1a
+T64	SupplementaryFile 20445 20454	Dataset 2
+T65	SupplementaryFile 20593 20603	Figure S1b
+T66	FractionationFraction 20623 20630	soluble
+T67	Disease 20666 20674	AD + CVD
+T68	IonizationType 16197 16230	Spray nanoelectrospray ion source

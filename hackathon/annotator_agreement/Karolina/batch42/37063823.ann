@@ -1,0 +1,32 @@
+T1	CellType 49 57	monocyte
+T2	Organism 43 48	human
+T5	OrganismPart 8746 8751	blood
+T6	FragmentationMethod 19564 19602	higher energy collisional dissociation
+T7	FragmentationMethod 19604 19607	HCD
+*	Equiv T6 T7
+T8	MS2MassAnalyzer 19677 19685	ion trap
+T9	NumberOfTechnicalReplicates 19931 19942	triplicates
+T10	NumberOfTechnicalReplicates 19971 19981	duplicates
+T11	EnrichmentMethod 16714 16737	Glycoprotein enrichment
+T12	Instrument 18822 18837	Orbitrap Fusion
+T13	ReductionReagent 17828 17831	DTT
+T14	AlkylationReagent 17928 17939	Iodacetamid
+T15	CleavageAgent 18141 18148	trypsin
+T16	Disease 8777 8784	healthy
+T17	Disease 8922 8942	S. aureus bacteremia
+T18	PrecursorMassTolerance 20224 20230	10 ppm
+T19	FragmentMassTolerance 20251 20257	0.5 Da
+T20	NumberOfMissedCleavages 20294 20297	two
+T21	Modification 20345 20374	cysteine carbamidomethylation
+A1	Modification T21 fixed
+T22	Modification 20399 20419	methionine oxidation
+T23	Modification 20421 20443	asparagine deamidation
+A2	Modification T22 variable
+A3	Modification T23 variable
+T24	Label 20654 20664	Label free
+T25	IonizationType 18918 18934	nanoelectrospray
+T26	FactorValue 867 876	S. aureus
+T27	FactorValue 975 981	Malp-2
+T28	FactorValue 986 993	Pam3Cys
+T29	FactorValue 1010 1013	LPS
+T3	FactorValue 1066 1074	patients

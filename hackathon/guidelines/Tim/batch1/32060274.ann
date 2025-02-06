@@ -1,0 +1,20 @@
+T1	Disease 104 112	melanoma
+T2	DiseaseTreatment 141 164	immunotherapy treatment
+T3	Disease 168 176	melanoma
+T4	Disease 554 562	melanoma
+T5	Disease 981 989	melanoma
+T6	BiologicalReplicate 42782 42787	three
+#1	AnnotatorNotes T6	can contain both biological and technical replicates
+T7	Separation 43932 43958	reversed-phase C18 columns
+T8	Separation 44293 44332	capillary reversed-phase chromatography
+T9	Chromatography 44531 44576	UltiMate 3000 RSLCnano-capillary UHPLC system
+T10	IonizationType 44626 44638	electrospray
+T11	Instrument 44670 44685	Q-Exactive-Plus
+T12	FragmentationMethod 44945 44983	higher-energy collisional dissociation
+T13	FragmentationMethod 44985 44988	HCD
+*	Equiv T13 T12
+T14	Modification 45638 45660	N-terminal acetylation
+A1	Modification T14 variable
+T15	Modification 45680 45700	methionine oxidation
+A2	Modification T15 variable
+T16	AlkylationReagent 43057 43070	iodoacetamide

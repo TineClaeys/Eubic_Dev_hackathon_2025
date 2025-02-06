@@ -1,0 +1,118 @@
+T1	TumorCellularity 2 48	tumor-derived type III collagen-rich ECM niche
+T2	Disease 59 64	tumor
+T3	Disease 81 87	Cancer
+T4	TumorSite 216 226	metastases
+T5	TumorSize 194 215	clinically detectable
+T6	TumorSite 118 132	distant organs
+T7	TumorStage 156 163	dormant
+T8	TumorStage 70 78	dormancy
+T9	TumorStage 333 341	dormancy
+T10	TumorStage 679 687	dormancy
+T11	TumorStage 691 703	reactivation
+T12	TumorStage 551 564	proliferation
+T13	TumorStage 503 511	dormancy
+T14	TumorSite 1003 1013	lymph node
+T15	Disease 876 882	tumors
+T16	OrganismPart 902 913	lymph node-
+T17	Organism 888 896	patients
+T18	Disease 936 959	squamous cell carcinoma
+T19	OriginSiteDisease 922 926	head
+T20	OriginSiteDisease 931 935	neck
+T21	Organism 972 980	patients
+T22	TumorStage 1167 1175	dormancy
+T23	Disease 1156 1161	tumor
+T24	Disease 380 386	cancer
+T25	TumorStage 372 379	dormant
+T26	TumorCellularity 404 440	type III collagen-enriched ECM niche
+T27	Disease 261 266	tumor
+T28	Organism 34966 34970	mice
+T29	Organism 35133 35140	chicken
+T30	Organism 35504 35508	mice
+T31	Organism 35522 35532	mycoplasma
+T32	Organism 35537 35553	rodent pathogens
+T33	Organism 43350 43355	mouse
+T34	Organism 43344 43349	human
+T35	Organism 43419 43424	Mouse
+T36	Organism 43405 43417	Mus musculus
+*	Equiv T35 T36
+T37	Organism 43460 43472	Homo sapiens
+T38	Organism 43474 43479	Human
+T39	PrecursorMassTolerance 43541 43547	10 ppm
+T40	FragmentMassTolerance 43583 43589	15 mmu
+T41	NumberOfMissedCleavages 43623 43624	2
+T42	CleavageAgent 43645 43652	trypsin
+T43	Modification 43677 43709	carbamidomethylation of cysteine
+A1	Modification T43 fixed
+T44	Modification 43739 43779	methionine, lysine and proline oxidation
+A2	Modification T44 variable
+T45	Modification 43781 43818	asparagine, and glutamine deamidation
+A3	Modification T45 variable
+T46	Modification 43820 43853	N-term glutamine to pyroglutamate
+A4	Modification T46 variable
+T47	Modification 43855 43878	carbamylation of N-term
+A5	Modification T47 variable
+T48	Modification 43880 43927	tyrosine, serine, and threonine phosphorylation
+A6	Modification T48 variable
+T49	Instrument 44458 44476	Orbitrap Velos Pro
+T50	Separation 44588 44591	C18
+T51	MS2MassAnalyzer 45270 45278	Orbitrap
+T52	Instrument 44897 44905	Orbitrap
+T53	AcquisitionMethod 44818 44824	top 10
+T54	FactorValue 44299 44313	D-HEp3 sh CTRL
+T55	FactorValue 44290 44297	control
+T56	FactorValue 44318 44332	DDR1 knockdown
+T57	FactorValue 44334 44347	D-HEp3 shDDR1
+T58	GradientTime 44651 44658	120-min
+T59	PrecursorMassTolerance 45685 45691	10 ppm
+T60	FragmentMassTolerance 45727 45734	100 mmu
+T61	NumberOfMissedCleavages 45768 45771	two
+T62	CleavageAgent 45792 45799	trypsin
+T63	Modification 45824 45856	carbamidomethylation of cysteine
+A7	Modification T63 fixed
+T64	Modification 45890 45909	oxidized methionine
+A8	Modification T64 variable
+T65	Modification 45911 45936	deamidation of asparagine
+A9	Modification T65 variable
+T66	Modification 45938 45993	pyro-glutamic acid modification at N-terminal glutamine
+A10	Modification T66 variable
+T67	Modification 45999 46034	hydroxylation of lysine and proline
+A11	Modification T67 variable
+T68	FragmentationMethod 45487 45490	HCD
+T69	FragmentationMethod 45082 45085	HCD
+T70	AcquisitionMethod 44746 44760	data-dependent
+T71	CellLine 35396 35400	HEp3
+T72	Organism 36135 36142	chicken
+T73	CellLine 36176 36198	CDK2 sensor cell lines
+T74	CellLine 36149 36171	Fluorescent cell lines
+T75	Organism 36217 36227	lentiviral
+T76	Organism 36356 36366	lentiviral
+T77	CellType 36535 36546	fibroblasts
+T78	Disease 36586 36592	cancer
+T79	CellLine 37850 37873	pLentiCRISPR V2 DDR1 KD
+T80	FactorValue 37850 37873	pLentiCRISPR V2 DDR1 KD
+T81	CellLine 37877 37898	non-targeting control
+T82	FactorValue 37877 37898	non-targeting control
+T83	CellLine 40231 40237	T-HEp3
+T84	FactorValue 40231 40237	T-HEp3
+T85	CellLine 40251 40257	D-HEp3
+T86	CellLine 40267 40273	T-HEp3
+T87	CellLine 40286 40293	T- HEp3
+T88	CellLine 40306 40313	T- HEp3
+T89	CellLine 40332 40337	D-HEp
+T90	CellLine 40420 40426	D-HEp3
+T91	CellLine 40440 40446	D-HEp3
+T92	CellLine 40458 40464	D-HEp3
+T93	CellLine 40705 40711	D-HEp3
+T94	CellLine 40768 40781	D-HEp3 shDDR1
+T95	CellLine 40737 40750	D-HEp3 shCTRL
+T96	FactorValue 40690 40694	DDR1
+T97	FactorValue 40679 40686	Control
+T98	FactorValue 42138 42144	D-HEp3
+T99	FactorValue 42164 42170	T-HEp3
+T100	FactorValue 42129 42136	dormant
+T101	FactorValue 42149 42162	proliferative
+T102	Separation 42325 42343	reverse phase HPLC
+T103	CellLine 42138 42144	D-HEp3
+T104	CellLine 42164 42170	T-HEp3
+T105	GradientTime 42508 42518	140-minute
+T106	Instrument 42560 42569	QExactive

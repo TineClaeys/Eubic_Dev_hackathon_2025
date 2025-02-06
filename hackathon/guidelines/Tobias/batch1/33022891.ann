@@ -1,0 +1,11 @@
+T1	Organism 393 398	human
+T2	Treatment 411 432	non-lethal heat shock
+T3	Modification 6655 6669	SILAC labeling
+A1	Modification T3 variable
+T4	CellLine 6804 6808	K562
+T5	CellType 6815 6829	leukemia cells
+T6	Label 6847 6852	light
+T7	Label 6894 6899	heavy
+T9	Treatment 6913 6934	before heat treatment
+T10	FactorValue 6913 6934	before heat treatment
+T8	Label 8189 8199	TMT labels

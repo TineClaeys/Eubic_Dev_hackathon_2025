@@ -1,0 +1,17 @@
+T1	Organism	104	112	SARS-CoV-2	Explicit	Severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) has resulted
+T2	OrganismPart	920	926	Vero E6	Explicit	Vero E6 (ATCC, CLR-1586) cells were cultured at 37degreesC under
+T3	Disease	126	133	COVID-19	Explicit	No effective vaccine is currently available to prevent COVID-19, and intense
+T4	Experiment	348	376	shotgun tandem mass spectrometry	Explicit	Here, we describe a shotgun tandem mass spectrometry workflow, the data
+T5	FactorValue	1182	1203	SARS-CoV-2-infected	Explicit	Supernatants from SARS-CoV-2-infected cells were recovered for plaque assay
+T6	SampleTreatment	1405	1415	inactivated	Explicit	The virus was inactivated and the cells lysed by autoclaving the samples
+T7	CleavageAgent	2300	2307	trypsin	Explicit	Proteins were stained for 5 min with Coomassie SimplyBlue SafeStain prior to in-gel trypsin proteolysis
+T8	Instrument	2460	2485	Q-Exactive HF mass spectrometer	Explicit	Peptides were identified using an ultimate 3000 nano-LC system (Thermo Fisher Scientific) coupled to a Q-Exactive HF mass spectrometer
+T9	TechnologyType	2382	2390	LC-MS/MS	Explicit	Liquid chromatography-mass spectrometry Peptides were identified using an ultimate 3000 nano-LC system
+T10	Separation	2490	2545	nano-LC PepMap 100 C18 column	Explicit	Peptides were first desalted on a reverse-phase PepMap 100 C18 mu-precolumn before separation on a nanoscale PepMap 100 C18 nano-LC column
+T11	AcquisitionMethod	2587	2607	Top20 mode	Explicit	The mass spectrometer was operated in Top20 mode. Full MS were acquired from
+T12	PrecursorMassTolerance	2685	2690	5 ppm	Explicit	full trypsin specificity, maximum of two missed cleavages, mass tolerances on the parent ion of 5 ppm
+T13	FragmentMassTolerance	2700	2705	0.02 Da	Explicit	mass tolerances on the parent ion of 5 ppm and 0.02 Da on the MS/MS
+T14	NumberOfMissedCleavages	2725	2726	2	Explicit	full trypsin specificity, maximum of two missed cleavages, mass tolerances on the
+T15	Modification	2780	2805	carbamidomethylated cysteine	Explicit	static modifications were carbamidomethylated cysteine (+57.0215) and oxidized methionine (+15.9949)
+T16	Modification	2810	2825	oxidized methionine	Explicit	static modifications were carbamidomethylated cysteine (+57.0215) and oxidized methionine (+15.9949)
+T17	SupplementaryFile	3500	3515	PXD018594	Explicit	Mass spectrometry proteomics data have been deposited to the ProteomeXchange Consortium via the PRIDE partner repository under dataset identifier PXD018594

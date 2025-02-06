@@ -1,0 +1,64 @@
+T1	OrganismPart 0 5	Brain
+T3	Modification 212 216	DPMs
+T2	Modification 176 210	degenerative protein modifications
+*	Equiv T2 T3
+T4	Disease 107 155	Alzheimer's disease with cerebrovascular disease
+T5	Disease 354 362	AD + CVD
+*	Equiv T4 T5
+A1	Modification T2 variable
+A2	Modification T3 variable
+T6	Organism 687 692	human
+T7	Modification 710 721	ureido DPMs
+T8	Modification 723 728	uDPMs
+A3	Modification T8 variable
+A4	Modification T7 variable
+T9	FractionationMethod 1012 1094	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T10	FractionationMethod 1096 1104	UC-ERLIC
+*	Equiv T9 T10
+T11	SamplingTime 1227 1237	postmortem
+T12	OrganismPart 1238 1253	brain fractions
+T13	Modification 730 753	arginine citrullination
+A5	Modification T13 fixed
+T14	Modification 758 778	lysine carbamylation
+A6	Modification T14 fixed
+T15	FractionationFraction 1203 1226	soluble and particulate
+T16	MaterialType 8031 8044	Sigma-Aldrich
+T17	CleavageAgent 8182 8215	sequencing-grade-modified trypsin
+T18	MaterialType 8235 8242	Promega
+T19	SampleTreatment 8094 8129	Protease inhibitor cocktail tablets
+T20	MaterialType 8150 8155	Roche
+T22	SupplementaryFile 8728 8755	Additional file 1: Table S1
+T23	Age 8678 8681	age
+R1	IsInSuppl Arg1:T23 Arg2:T22	
+T24	Sex 8705 8710	gende
+R2	IsInSuppl Arg1:T24 Arg2:T22	
+T25	SamplingTime 8683 8700	postmortem delay,
+R3	IsInSuppl Arg1:T25 Arg2:T22	
+T26	BiologicalReplicate 8757 8762	Three
+T27	FractionationFraction 11406 11429	Soluble and particulate
+T28	FractionationFraction 10343 10366	Soluble and particulate
+T29	FractionationMethod 10423 10516	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography (UC-ERLIC)
+T30	Instrument 15295 15327	Orbitrap Elite mass spectrometer
+T31	Instrument 15343 15376	Dionex UltiMate 3000 UHPLC system
+T32	Separation 15485 15524	reverse phase Acclaim PepMap RSL column
+T33	Temperature 15611 15622	35 degreesC
+T34	FlowRateChromatogram 15648 15659	0.3 muL/min
+T35	FlowRateChromatogram 15690 15705	60-min gradient
+T21	OrganismPart 8367 8387	middle temporal lobe
+T36	OrganismPart 8389 8400	BA21 region
+T37	IonizationType 16172 16230	Michrom's Thermo Captive Spray nanoelectrospray ion source
+T38	FragmentationMethod 16799 16841	high-energy collisional dissociation (HCD)
+T39	CollisionEnergy 16852 16883	32% normalized collision energy
+T40	Modification 17294 17335	Carbamidomethylation of cysteine residues
+A7	Modification T40 fixed
+T41	NumberOfSamples 8655 8662	samples
+R4	IsInSuppl Arg1:T41 Arg2:T22	
+T42	FragmentMassTolerance 17184 17190	10 ppm
+T43	FragmentMassTolerance 17195 17202	0.05 Da
+T44	EnrichmentMethod 18241 18248	FunRich
+T45	Temperature 11969 11980	30 degreesC
+T46	Time 11981 11990	overnight
+T47	OutOfScope 11994 12030	1:20 (w/w) enzyme-to-substrate ratio
+T48	AcquisitionMethod 16382 16410	Xcalibur 2.2 SP1.48 software
+T49	AcquisitionMethod 16341 16354	positive mode
+T50	AcquisitionMethod 16515 16555	full Fourier transform-mass spectrometry

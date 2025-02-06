@@ -1,0 +1,33 @@
+T1	Organism 108 129	Plasmodium falciparum
+T2	OrganismPart 81 95	Red Blood Cell
+T3	Strain 45965 45968	3D7
+T4	CellType 46080 46088	schizont
+T5	Staining 46726 46732	Giemsa
+T6	AcquisitionMethod 47166 47176	label-free
+T7	Treatment 47279 47281	IC
+T8	Treatment 47284 47286	EC
+T9	Treatment 47293 47298	EC-BA
+T10	AcquisitionMethod 47331 47339	labeling
+T11	CleavageAgent 47425 47432	trypsin
+T12	Label 48036 48051	Tandem mass tag
+T13	Label 48053 48056	TMT
+*	Equiv T12 T13
+T14	FractionationMethod 48091 48136	hydrophilic interaction liquid chromatography
+T15	FractionationMethod 48138 48143	HILIC
+*	Equiv T14 T15
+T16	NumberOfFractions 48466 48474	12 to 15
+T17	Modification 50740 50773	carbamidomethylation of cysteines
+A1	Modification T17 fixed
+T18	Modification 50807 50831	oxidation of methionine,
+A2	Modification T18 variable
+T19	Modification 50832 50862	protein N-terminal acetylation
+A3	Modification T19 variable
+T20	Modification 50868 50915	serine/threonine/tyrosine (STY) phosphorylation
+A4	Modification T20 variable
+T21	PrecursorMassTolerance 51000 51006	20 ppm
+T22	FragmentMassTolerance 51011 51017	0.5 Da
+T23	PrecursorMassTolerance 51693 51698	5 ppm
+T24	FragmentMassTolerance 51703 51709	0.5 Da
+T25	NumberOfFractions 47911 47919	12 to 15
+T26	FractionationMethod 47807 47850	strong cation exchange (SCX) chromatography
+T27	NumberOfBiologicalReplicates 14879 14882	two

@@ -1,0 +1,67 @@
+T1	Disease 107 155	Alzheimer's disease with cerebrovascular disease
+T2	Disease 304 352	Alzheimer's disease with cerebrovascular disease
+T3	Disease 354 362	AD + CVD
+T4	Chromatography 1012 1094	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T5	Chromatography 1096 1104	UC-ERLIC
+*	Equiv T5 T4
+T6	FractionationFraction 1476 1483	soluble
+T7	FractionationFraction 1584 1595	particulate
+T8	Disease 272 280	dementia
+T9	Disease 2727 2729	AD
+T10	Disease 2853 2856	CVD
+T11	Compound 8094 8112	Protease inhibitor
+T12	CleavageAgent 8208 8215	trypsin
+T13	FactorValue 8288 8296	AD + CVD
+T14	FactorValue 8301 8308	healthy
+T15	Disease 8321 8328	control
+T16	FactorValue 304 352	Alzheimer's disease with cerebrovascular disease
+T17	FactorValue 354 362	AD + CVD
+*	Equiv T2 T3
+T18	Disease 8288 8296	AD + CVD
+T19	Disease 8301 8308	healthy
+T20	FactorValue 8321 8328	control
+*	Equiv T19 T15 T21
+T21	Disease 8330 8334	Ctrl
+T22	FactorValue 8330 8334	Ctrl
+T23	OrganismPart 8389 8400	BA21 region
+T24	OrganismPart 8367 8387	middle temporal lobe
+T25	Age 8678 8681	age
+T26	SamplingTime 8683 8699	postmortem delay
+T27	Sex 8705 8711	gender
+A1	InSuppl T27
+A2	InSuppl T26
+A3	InSuppl T25
+T28	SupplementaryFile 8747 8755	Table S1
+T29	NumberOfBiologicalReplicates 8757 8762	Three
+T30	FractionationFraction 8860 8867	soluble
+T31	FractionationFraction 8872 8883	particulate
+T32	Compound 9152 9155	PBS
+T33	ConcentrationOfCompound 9149 9151	1X
+T34	Chromatography 10423 10505	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T35	Chromatography 10507 10515	UC-ERLIC
+*	Equiv T34 T35
+T36	CleavageAgent 11364 11371	tryptic
+T37	ReductionReagent 11658 11672	dithiothreitol
+T38	ReductionReagent 11674 11677	DTT
+*	Equiv T37 T38
+T39	ConcentrationOfCompound 11652 11657	10 mM
+T40	AlkylationReagent 11744 11757	iodoacetamide
+T41	ConcentrationOfCompound 11738 11743	20 mM
+T42	Compound 12125 12136	formic acid
+T43	Compound 12138 12140	FA
+*	Equiv T42 T43
+T44	ConcentrationOfCompound 12120 12124	0.5%
+T45	Compound 12859 12871	acetonitrile
+T46	Compound 12873 12876	ACN
+*	Equiv T45 T46
+T47	ConcentrationOfCompound 12855 12858	75%
+T48	Compound 13060 13071	acetic acid
+T49	AlkylationReagent 13616 13619	IAA
+T50	GradientTime 14640 14655	72-min gradient
+T51	GradientTime 14793 14808	60-min gradient
+T52	Chromatography 15343 15376	Dionex UltiMate 3000 UHPLC system
+T53	IonizationType 16197 16230	Spray nanoelectrospray ion source
+T54	Instrument 15295 15327	Orbitrap Elite mass spectrometer
+T55	Modification 17294 17326	Carbamidomethylation of cysteine
+A4	Modification T55 fixed
+T56	SupplementaryFile 19152 19161	Dataset 1

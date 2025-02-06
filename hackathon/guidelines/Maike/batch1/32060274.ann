@@ -1,0 +1,39 @@
+T1	Disease 104 112	melanoma
+T2	NumberOfSamples 34741 34744	472
+T3	SupplementaryFile 34849 34870	Supplementary Table 1
+T4	FractionationMethod 44531 44576	UltiMate 3000 RSLCnano-capillary UHPLC system
+T5	Instrument 44670 44685	Q-Exactive-Plus
+T6	Time 44771 44774	2 h
+T7	FlowRateChromatogram 44842 44857	0.15 microl/min
+T8	FragmentationMethod 44945 44983	higher-energy collisional dissociation
+T9	FragmentationMethod 44985 44988	HCD
+*	Equiv T8 T9
+T10	CollisionEnergy 45290 45293	25%
+T11	TechnologyType 45448 45472	MaxQuant version 1.5.3.8
+T12	AcquisitionMethod 44885 44899	data-dependent
+T13	AcquisitionMethod 44901 44915	top 10" method
+T14	Modification 45638 45660	N-terminal acetylation
+A1	Modification T14 variable
+T15	Modification 45680 45700	methionine oxidation
+A2	Modification T15 variable
+T16	AcquisitionMethod 45831 45856	match between runs option
+T17	OutOfScope 46089 46098	PXD015957
+T18	FractionationMethod 44293 44424	capillary reversed-phase chromatography on 075 x 300 mm laser-pulled capillaries, self-packed with C18 reversed-phase 3.5 mum beads
+T19	CleavageAgent 43365 43374	Protein-A
+T20	FractionationFraction 44092 44107	eluted peptides
+T21	Genotype 383 416	overexpression of PSMB8 and PSMB9
+T22	SampleTreatment 43089 43117	protease inhibitors cocktail
+T23	NumberOfTechnicalReplicates 42782 42787	three
+T24	Temperature 43207 43217	4 degreesC
+T25	Time 43222 43225	1 h
+T26	CellLine 37571 37574	12T
+T27	CellLine 37579 37583	108T
+T28	CellLine 37824 37828	A375
+T29	SupplementaryFile 38148 38170	Supplementary Table 16
+T30	SupplementaryFile 38041 38068	Supplementary Tables 14, 15
+T31	CellType 38188 38195	B-cells
+T32	CellLine 38260 38264	HB95
+T33	CellType 38244 38253	Hybridoma
+T34	Organism 38802 38807	Human
+T35	Genotype 38808 38818	PSMB8 cDNA
+T36	Genotype 38881 38891	PSMB9 cDNA

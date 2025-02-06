@@ -1,0 +1,20 @@
+T1	Organism 424 428	mice
+T2	OrganismPart 393 397	lung
+T3	Age 14500 14508	3 months
+T4	Age 14524 14533	22 months
+T5	Age 14637 14646	24 months
+T6	Age 14613 14621	3 months
+T7	BiologicalReplicate 14473 14478	three
+T8	FractionationFraction 24257 24261	four
+T9	Instrument 64214 64224	Q-Exactive
+T10	Modification 66057 66077	carbamidomethylation
+A1	Modification T10 fixed
+T11	Modification 66109 66122	hydroxylation
+A2	Modification T11 variable
+T12	Modification 66149 66158	oxidation
+A3	Modification T12 variable
+T13	CleavageAgent 62768 62775	trypsin
+T14	CleavageAgent 62728 62732	LysC
+T15	Label 66646 66656	label-free
+T16	PrecursorMassTolerance 66546 66553	4.5 ppm
+T17	FragmentMassTolerance 66634 66640	20 ppm

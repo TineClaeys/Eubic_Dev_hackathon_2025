@@ -1,0 +1,12 @@
+T1	Organism 110 124	gut microbiota
+T2	Organism 126 128	GM
+*	Equiv T1 T2
+T3	NumberOfSamples 42598 42600	15
+T4	Sex 42633 42640	females
+T5	Sex 42647 42652	males
+T6	SupplementaryFile 43173 43201	Additional file 1: Table S1,
+T7	Age 43269 43277	39 years
+T8	BMI 43344 43348	23.2
+T9	Instrument 46409 46421	LTQ-Orbitrap
+T10	FractionationMethod 46504 46536	UltiMate 3000 RSLCnano LC system
+T11	AcquisitionMethod 46699 46713	data-dependent

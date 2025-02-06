@@ -1,0 +1,24 @@
+T1	Disease 1032 1039	control
+T2	Disease 1019 1027	infected
+T3	FactorValue 4 19	Schistosomiasis
+T4	Disease 4 19	Schistosomiasis
+T5	FactorValue 1019 1027	infected
+T6	FactorValue 1032 1039	control
+T7	OrganismPart 746 752	spleen
+T8	Organism 951 957	murine
+T9	Organism 8336 8340	mice
+T10	Organism 19096 19100	mice
+T11	Disease 19087 19095	infected
+T12	FactorValue 19087 19095	infected
+T13	Disease 19108 19116	controls
+T14	FactorValue 19108 19116	controls
+T15	TechnologyType 14647 14652	MS/MS
+T16	Label 42606 42616	label-free
+T17	Label 48691 48701	label-free
+T18	Label 40729 40739	label-free
+T19	CleavageAgent 12629 12636	trypsin
+T20	Instrument 14279 14289	Q Exactive
+T21	Modification 16119 16139	carbamidomethylation
+A1	Modification T21 fixed
+T22	Modification 16179 16188	oxidation
+A2	Modification T22 variable

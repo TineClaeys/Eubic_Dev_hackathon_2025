@@ -1,0 +1,26 @@
+T1	Organism 27 32	Human
+T2	OrganismPart 33 38	Heart
+T3	SamplingTime 57 64	In Vivo
+T5	OrganismPart 115 126	Left Atrium
+T4	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T6	Disease 432 453	mitral valve prolapse
+T7	Disease 455 458	MVP
+*	Equiv T6 T7
+T8	SupplementaryFile 5897 5920	Supplementary Materials
+T9	NumberOfBiologicalReplicates 5990 5995	seven
+T10	NumberOfFractions 6041 6046	three
+T11	OrganismPart 6047 6063	cardiac chambers
+T12	NumberOfSamples 6087 6089	21
+T13	NumberOfFractions 6116 6118	12
+T14	NumberOfTechnicalReplicates 6196 6198	No
+T15	OrganismPart 713 724	right atria
+T16	OrganismPart 731 741	left atria
+T17	OrganismPart 751 765	left ventricle
+T18	OrganismPart 726 728	RA
+*	Equiv T15 T18
+T19	OrganismPart 743 745	LA
+*	Equiv T16 T19
+T20	OrganismPart 767 769	LV
+*	Equiv T17 T20
+T21	Sex 780 784	male
+T22	NumberOfSamples 774 779	seven

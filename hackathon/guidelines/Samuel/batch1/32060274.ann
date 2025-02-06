@@ -1,0 +1,22 @@
+T1	Disease 104 112	melanoma
+T2	FactorValue 104 112	melanoma
+T3	Disease 554 562	melanoma
+T4	DiseaseTreatment 1254 1275	high neo-antigen load
+T5	Disease 1669 1677	melanoma
+T6	DiseaseTreatment 141 164	immunotherapy treatment
+T7	SupplementaryFile 9031 9051	Supplementary Fig. 3
+T8	NumberOfBiologicalReplicates 34741 34744	472
+T9	SupplementaryFile 34849 34870	Supplementary Table 1
+T10	Disease 36925 36933	melanoma
+T11	CellLine 37571 37574	12T
+T12	CellType 37579 37583	108T
+T13	TumorCellularity 37571 37574	12T
+T14	TumorCellularity 37579 37583	108T
+T15	CellLine 37824 37828	A375
+T16	SupplementaryFile 38041 38068	Supplementary Tables 14, 15
+T17	Instrument 44670 44685	Q-Exactive-Plus
+T18	IonizationType 44626 44638	electrospray
+T19	AcquisitionMethod 44885 44899	data-dependent
+T20	Modification 45638 45660	N-terminal acetylation
+T21	Modification 45680 45700	methionine oxidation
+T22	AcquisitionMethod 44885 44899	data-dependent

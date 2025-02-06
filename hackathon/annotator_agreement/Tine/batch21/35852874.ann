@@ -1,0 +1,5 @@
+T1	Disease 191 220	idiopathic pulmonary fibrosis
+T2	Disease 222 225	IPF
+*	Equiv T1 T2
+T3	OrganismPart 281 285	lung
+T4	CleavageAgent 35228 35235	trypsin

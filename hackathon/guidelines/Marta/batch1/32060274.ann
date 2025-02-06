@@ -1,0 +1,32 @@
+T1	Disease 104 112	melanoma
+T2	OrganismPart 401 406	PSMB8
+T3	OrganismPart 411 416	PSMB9
+T5	CellType 797 808	lymphocytes
+T6	SupplementaryFile 34849 34870	Supplementary Table 1
+T7	NumberOfSamples 35150 35153	155
+T8	NumberOfSamples 35199 35202	156
+T4	Age 35417 35420	age
+T11	Sex 35422 35425	sex
+T12	Disease 37143 37150	healthy
+T13	Disease 37134 37139	tumor
+T14	FactorValue 37134 37139	tumor
+T15	FactorValue 37143 37150	healthy
+T16	FactorValue 104 112	melanoma
+T9	NumberOfSamples 36967 36970	472
+T10	Disease 37415 37421	cancer
+*	Equiv T10 T13
+T17	CellLine 37571 37574	12T
+T18	CellLine 37579 37583	108T
+T19	CellLine 37824 37828	A375
+T20	SupplementaryFile 38041 38068	Supplementary Tables 14, 15
+T21	SupplementaryFile 38148 38170	Supplementary Table 16
+T22	Compound 44265 44276	formic acid
+T23	Chromatography 44303 44332	reversed-phase chromatography
+T25	IonizationType 44626 44638	electrospray
+T26	Instrument 44670 44685	Q-Exactive-Plus
+T24	FractionationMethod 44531 44576	UltiMate 3000 RSLCnano-capillary UHPLC system
+T27	AcquisitionMethod 44885 44899	data-dependent
+T28	Modification 45638 45660	N-terminal acetylation
+A1	Modification T28 variable
+T29	Modification 45680 45700	methionine oxidation
+T30	CleavageAgent 45782 45792	unspecific

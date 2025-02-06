@@ -1,0 +1,22 @@
+T1	Organism 68 83	oral microbiome
+T2	Sex 5171 5177	female
+T3	Sex 5187 5191	male
+T4	NumberOfSamples 5166 5170	four
+T5	NumberOfSamples 5182 5186	four
+T6	Age 5231 5239	24 to 40
+T7	Disease 5193 5200	healthy
+T8	NumberOfTechnicalReplicates 6160 6163	not
+T9	FragmentationMethod 8531 8569	higher-energy collisional dissociation
+T10	FragmentationMethod 8571 8574	HCD
+*	Equiv T9 T10
+T11	Instrument 8248 8261	Q Exactive HF
+T12	NumberOfMissedCleavages 9563 9566	two
+T13	PrecursorMassTolerance 9647 9654	4.5 ppm
+T14	FragmentMassTolerance 9675 9681	0.5 Da
+T15	Modification 9709 9722	N-acetylation
+A1	Modification T15 variable
+T16	Modification 9765 9788	oxidation of methionine
+A2	Modification T16 variable
+T17	Modification 9834 9866	carbamidomethylation of cysteine
+A3	Modification T17 fixed
+T18	OriginSiteDisease 28 34	saliva

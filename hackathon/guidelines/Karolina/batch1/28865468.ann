@@ -1,0 +1,65 @@
+T1	OrganismPart 0 5	Brain
+T2	Modification 6 12	ureido
+T4	Disease 68 85	neuroinflammation
+T5	Disease 90 103	proteinopathy
+T6	Disease 107 155	Alzheimer's disease with cerebrovascular disease
+T7	FractionationMethod 1012 1094	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T8	FractionationMethod 1096 1104	UC-ERLIC
+*	Equiv T7 T8
+T11	Disease 304 352	Alzheimer's disease with cerebrovascular disease
+T12	Disease 354 362	AD + CVD
+*	Equiv T11 T12
+T15	Modification 730 753	arginine citrullination
+T16	Modification 758 778	lysine carbamylation
+T17	FractionationFraction 1203 1210	soluble
+T18	FractionationFraction 1215 1226	particulate
+T19	Disease 1281 1289	AD + CVD
+T20	Disease 1294 1314	age-matched controls
+T21	Disease 2706 2725	Alzheimer's disease
+T22	Disease 2727 2729	AD
+*	Equiv T21 T22
+T23	Disease 2828 2851	Cerebrovascular disease
+T24	Disease 2853 2856	CVD
+*	Equiv T23 T24
+T3	Modification 3508 3522	citrullination
+T9	Modification 3527 3540	carbamylation
+T10	Modification 3770 3793	Carbamylation of lysine
+T13	Modification 4277 4291	Citrullination
+T14	Modification 4461 4474	carbamylation
+T25	Disease 8288 8296	AD + CVD
+T26	Disease 8301 8328	healthy age-matched control
+T27	Disease 8330 8334	Ctrl
+*	Equiv T26 T27
+T28	Organism 8346 8351	human
+T29	OrganismPart 8352 8357	brain
+T30	OrganismPart 8367 8387	middle temporal lobe
+T31	OrganismPart 8389 8400	BA21 region
+T32	SupplementaryFile 8747 8755	Table S1
+T33	NumberOfBiologicalReplicates 8757 8762	Three
+T34	FractionationFraction 8860 8867	soluble
+T35	FractionationFraction 8872 8883	particulate
+T36	FractionationMethod 10334 10342	UC-ERLIC
+T37	FractionationMethod 10423 10505	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T38	FractionationMethod 10507 10515	UC-ERLIC
+*	Equiv T37 T38
+T39	FractionationFraction 11050 11057	soluble
+T40	FractionationFraction 11330 11341	particulate
+T41	AlkylationReagent 11744 11757	iodoacetamide
+T42	ReductionReagent 11658 11672	dithiothreitol
+T43	ReductionReagent 11674 11677	DTT
+*	Equiv T42 T43
+T44	CleavageAgent 12063 12070	trypsin
+T45	CleavageAgent 13932 13939	trypsin
+T46	FractionationMethod 14445 14459;14517 14548	PolyWAX column Shimadzu Prominence UFLC system
+T47	Instrument 15295 15309	Orbitrap Elite
+T48	Separation 15343 15376	Dionex UltiMate 3000 UHPLC system
+T49	Separation 15485 15524	reverse phase Acclaim PepMap RSL column
+T50	GradientTime 15690 15696	60-min
+T51	FragmentationMethod 16799 16835	high-energy collisional dissociation
+T52	FragmentationMethod 16837 16840	HCD
+*	Equiv T51 T52
+T53	IonizationType 16203 16219	nanoelectrospray
+T54	Instrument 16297 16311	Orbitrap Elite
+T55	MS2MassAnalyzer 16624 16632	FT-MS/MS
+T56	FactorValue 8288 8296	AD + CVD
+T57	FactorValue 8301 8328	healthy age-matched control

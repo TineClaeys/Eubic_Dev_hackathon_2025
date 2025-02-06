@@ -1,0 +1,19 @@
+T1	Organism 72 91	Cupriavidus necator
+T2	CleavageAgent 63222 63227	Lys-C
+T3	ReductionReagent 63016 63019	DTT
+T4	AlkylationReagent 63053 63056	CAA
+T5	Strain 55066 55073	DSM-428
+T6	Organism 54951 54974	Cupriavidus necator H16
+T7	Instrument 64354 64381	Thermo Fisher Q Exactive HF
+T8	Separation 64418 64452	Dionex UltiMate 3,000 UHPLC system
+T9	CleavageAgent 63352 63359	Trypsin
+T10	GradientTime 64982 64988	90 min
+T11	AcquisitionMethod 65321 65335	data-dependent
+T12	PrecursorMassTolerance 66510 66516	10 ppm
+T13	Modification 66331 66351;66391 66402	Carbamidomethylation on cysteine
+A1	Modification T13 fixed
+T14	Modification 66407 66416;66444 66457	oxidation on methionine
+A2	Modification T14 variable
+T15	Label 65855 65865	label-free
+T16	FactorValue 488 517	different limiting substrates
+T17	FactorValue 527 549	different growth rates

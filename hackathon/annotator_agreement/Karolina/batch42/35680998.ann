@@ -1,0 +1,33 @@
+T4	FactorValue 413 435	eukaryotes and archaea
+T1	Compound 80 122	Histones and associated chromatin proteins
+T3	CleavageAgent 49710 49717	trypsin
+T5	Instrument 50830 50855	LTQ-Orbitrap Fusion Lumos
+T6	Separation 50930 50943	EASY-nLC 1000
+T7	FragmentationMethod 50995 51025	collision induced dissociation
+T8	FragmentationMethod 51027 51030	CID
+*	Equiv T7 T8
+T9	FragmentationMethod 51036 51070	high energy collision dissociation
+T10	FragmentationMethod 51072 51075	HCD
+*	Equiv T9 T10
+T11	Separation 51171 51200	reversed-phase chromatography
+T12	GradientTime 51347 51353	90 min
+T13	AcquisitionMethod 51451 51465	data dependent
+T17	NumberOfMissedCleavages 52490 52491	5
+T18	PrecursorMassTolerance 52447 52452	7 ppm
+T14	Modification 52206 52234	Propionylation on N-terminal
+A1	Modification T14 variable
+T15	Modification 52236 52261	Propionylation on Lysines
+A2	Modification T15 variable
+T16	Modification 52263 52293	Phenylisocyanate on N-terminal
+A3	Modification T16 variable
+T19	Modification 52295 52310	Dimethyl lysine
+A4	Modification T19 variable
+T20	Modification 52312 52328	trimethyl lysine
+A5	Modification T20 variable
+T21	Modification 52330 52355	propionyl + methyl lysine
+A6	Modification T21 variable
+T22	Modification 52357 52370	acetyl lysine
+A7	Modification T22 variable
+T23	Modification 52372 52387	crotonyl lysine
+A8	Modification T23 variable
+T2	SupplementaryFile 6905 6925	Supplementary Data 1

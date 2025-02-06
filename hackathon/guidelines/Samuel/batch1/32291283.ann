@@ -1,0 +1,64 @@
+T1	Organism 27 32	Human
+T3	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T2	Disease 432 453	mitral valve prolapse
+T5	FractionationMethod 6116 6128	12 fractions
+T8	IonizationType 10479 10496	nano-electrospray
+T11	NumberOfSamples 6087 6097	21 samples
+T13	NumberOfSamples 774 779	seven
+T12	Sex 780 784	male
+T14	OrganismPart 713 724	right atria
+T15	OrganismPart 731 741	left atria
+T16	OrganismPart 751 765	left ventricle
+T17	OrganismPart 726 728	RA
+T18	OrganismPart 743 745	LA
+T19	OrganismPart 767 769	LV
+T20	Disease 831 863	dilated LA but no history of AF.
+T21	SupplementaryFile 5897 5920	Supplementary Materials
+T22	NumberOfBiologicalReplicates 5990 5995	seven
+T4	OrganismPart 4019 4021	RA
+T23	OrganismPart 4039 4041	LA
+T24	OrganismPart 4494 4496	LA
+T25	OrganismPart 4518 4520	RA
+T27	OrganismPart 6069 6071	RA
+T28	OrganismPart 6073 6075	LV
+T26	FractionationMethod 976 1025	reverse phase high-pressure liquid chromatography
+T6	NumberOfBiologicalReplicates 6522 6527	three
+T29	Disease 4602 4604	AF
+T30	OrganismPart 4454 4456	LA
+T31	OrganismPart 4763 4765	LA
+T32	OrganismPart 4941 4943	LA
+T33	OrganismPart 4948 4950	RA
+T34	OrganismPart 5119 5121	LV
+T35	OrganismPart 5469 5471	LV
+T36	OrganismPart 7298 7300	LA
+T37	OrganismPart 6065 6067	LA
+T38	OrganismPart 7302 7304	RA
+T39	OrganismPart 7309 7311	LV
+T40	GradientTime 10234 10237	1 h
+T41	NumberOfTechnicalReplicates 6196 6198	No
+T42	ReductionReagent 8466 8495	Tris(2-carboxyethyl)phosphine
+T43	AlkylationReagent 8513 8528	chloroacetamide
+T44	AlkylationReagent 8530 8533	CAA
+*	Equiv T43 T44
+T45	ReductionReagent 8497 8501	TCEP
+*	Equiv T42 T45
+T10	Instrument 1055 1077	Q-Exactive-HF Orbitrap
+T46	FactorValue 6065 6067	LA
+T47	FactorValue 6069 6072	RA,
+T48	FactorValue 6073 6075	LV
+T49	CleavageAgent 8843 8850	trypsin
+T50	FractionationFraction 8988 8995	Soluble
+T51	CleavageAgent 8668 8673	Lys-C
+T52	FragmentationMethod 9206 9270	micro-flow reverse-phase ultrahigh pressure liquid chromatograpy
+T54	Age 11803 11811	50 years
+T55	Sex 11776 11780	male
+T56	NumberOfBiologicalReplicates 11756 11761	seven
+T57	Separation 9637 9680	online reversed-phase liquid chromatography
+T7	Instrument 9694 9727	Q-Exactive HF quadrupole Orbitrap
+T53	MS2MassAnalyzer 10688 10696	Orbitrap
+T9	AcquisitionMethod 10751 10765	data-dependent
+T58	Label 11397 11407	label-free
+T59	Label 11424 11427	LFQ
+*	Equiv T58 T59
+T60	BMI 11837 11845	BMI 23.6
+T61	SupplementaryFile 11993 12001	Table S1

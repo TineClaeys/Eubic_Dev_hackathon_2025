@@ -1,0 +1,40 @@
+T1	FragmentationMethod 64 94	collision induced dissociation
+T2	FragmentationMethod 99 129	electron transfer dissociation
+T3	AcquisitionMethod 687 701	data-dependent
+T4	Organism 612 633	Plasmodium falciparum
+T5	CellType 634 642	schizont
+T6	FragmentationMethod 687 728	data-dependent neutral loss-triggered-ETD
+T7	FragmentationMethod 730 734	DDNL
+*	Equiv T6 T7
+T8	OrganismPart 8359 8377	human erythrocytes
+T9	ReductionReagent 9140 9143	DTT
+T10	AlkylationReagent 10030 10043	iodoacetamide
+T11	CleavageAgent 10076 10083	Trypsin
+T12	EnrichmentMethod 10553 10571	IMAC purifications
+T13	NumberOfFractions 11096 11097	6
+T14	Instrument 11263 11281	LTQ Orbitrap Velos
+T15	IonizationType 11343 11352	nanospray
+T16	AcquisitionMethod 11731 11745	data dependent
+T17	MS2MassAnalyzer 11850 11858	Orbitrap
+T18	FragmentationMethod 12030 12033	CID
+T19	FragmentationMethod 12037 12040	ETD
+T20	FactorValue 12030 12033	CID
+T21	FactorValue 12037 12040	ETD
+T22	NumberOfTechnicalReplicates 12375 12385	Triplicate
+T23	NumberOfTechnicalReplicates 12498 12508	Triplicate
+T24	NumberOfTechnicalReplicates 12805 12815	triplicate
+T25	NumberOfTechnicalReplicates 12856 12866	triplicate
+T26	CleavageAgent 13720 13727	trypsin
+T27	NumberOfMissedCleavages 13746 13747	3
+T28	PrecursorMassTolerance 13766 13772	10 ppm
+T29	FragmentMassTolerance 13796 13802	0.5 Da
+T30	Modification 13834 13857	Acetyl (Protein N-term)
+A1	Modification T30 variable
+T31	Modification 13859 13872	Oxidation (M)
+A2	Modification T31 variable
+T32	Modification 13874 13889	Deamidated (NQ)
+A3	Modification T32 variable
+T33	Modification 13891 13910	Carbamidomethyl (C)
+A4	Modification T33 variable
+T34	Modification 13915 13927	Phospho (ST)
+A5	Modification T34 variable

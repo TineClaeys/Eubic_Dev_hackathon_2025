@@ -1,0 +1,39 @@
+T1	Organism 35479 35489	Naja ashei
+T2	Organism 36339 36349	Naja ashei
+T3	Organism 33264 33274	Naja ashei
+T4	Organism 5354 5364	Naja ashei
+T5	Organism 5501 5511	Naja ashei
+T6	Organism 4376 4386	Naja ashei
+T7	Organism 3233 3243	Naja ashei
+T8	Organism 1979 1989	Naja ashei
+T9	Organism 435 445	Naja ashei
+T10	Organism 38 48	Naja ashei
+T11	OrganismPart 46189 46194	venom
+T12	OrganismPart 44204 44209	venom
+T13	OrganismPart 36429 36434	venom
+T14	OrganismPart 36350 36355	Venom
+T15	OrganismPart 35438 35443	venom
+T16	OrganismPart 35417 35422	Venom
+T17	OrganismPart 33396 33401	venom
+T18	OrganismPart 33306 33311	venom
+T19	OrganismPart 33275 33280	venom
+T20	OrganismPart 33098 33103	venom
+T21	OrganismPart 31752 31757	venom
+T22	OrganismPart 31489 31494	venom
+T23	OrganismPart 29000 29005	venom
+T24	OrganismPart 23908 23913	venom
+T25	OrganismPart 19782 19787	venom
+T26	OrganismPart 19666 19671	venom
+T27	OrganismPart 5512 5517	venom
+T28	OrganismPart 5365 5370	Venom
+T29	OrganismPart 4387 4392	venom
+T30	OrganismPart 4210 4215	venom
+T31	OrganismPart 3950 3955	venom
+T32	OrganismPart 3244 3249	venom
+T33	OrganismPart 2243 2248	venom
+T34	OrganismPart 1990 1995	venom
+T35	OrganismPart 2111 2116	venom
+T36	OrganismPart 446 451	venom
+T37	OrganismPart 49 54	Venom
+T38	Instrument 38347 38357	Q Exactive
+T39	CleavageAgent 37862 37869	trypsin

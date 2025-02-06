@@ -1,0 +1,27 @@
+T1	Organism 424 428	mice
+T2	OrganismPart 393 397	lung
+T3	SupplementaryFile 14425 14445	Supplementary Data 2
+T4	Age 14613 14621	3 months
+T5	Age 14637 14646	24 months
+T6	Separation 64071 64099;64122 64162	Reverse-phase chromatography EASY-nLC 1000 ultra-high pressure system
+T7	Instrument 64214 64242	Q-Exactive Mass Spectrometer
+T8	ReductionReagent 62293 62297	TCEP
+T9	AlkylationReagent 62321 62324	CAA
+T10	CleavageAgent 62539 62543	LysC
+T11	CleavageAgent 62728 62732	LysC
+T12	CleavageAgent 62768 62775	trypsin
+T13	GradientTime 63937 63940	4 h
+T14	FragmentationMethod 65318 65356	higher-energy collisional dissociation
+T15	Modification 66048 66077	cysteine carbamidomethylation
+A1	Modification T15 fixed
+T16	Modification 66109 66133	hydroxylation of proline
+A2	Modification T16 variable
+T17	Modification 66138 66158	methionine oxidation
+A3	Modification T17 variable
+T18	PrecursorMassTolerance 66546 66553	4.5 ppm
+T19	FragmentationMethod 66634 66640	20 ppm
+T20	NumberOfMissedCleavages 66404 66407	two
+T21	Label 66646 66656	label-free
+T22	AcquisitionMethod 64954 64968	data-dependent
+T23	FactorValue 14613 14621	3 months
+T24	FactorValue 14637 14646	24 months

@@ -1,0 +1,58 @@
+T1	Instrument 1055 1077	Q-Exactive-HF Orbitrap
+T2	FractionationMethod 976 1025	reverse phase high-pressure liquid chromatography
+T3	Organism 27 32	Human
+T4	OrganismPart 33 38	Heart
+T5	Disease 432 453	mitral valve prolapse
+T6	Disease 455 458	MVP
+*	Equiv T5 T6
+T7	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T8	OrganismPart 713 724	right atria
+T9	OrganismPart 726 728	RA
+*	Equiv T8 T9
+T10	NumberOfBiologicalReplicates 5990 5995	seven
+T12	OrganismPart 6069 6071	RA
+T13	OrganismPart 6073 6075	LV
+T14	OrganismPart 731 741	left atria
+T15	OrganismPart 743 745	LA
+*	Equiv T14 T15
+T16	OrganismPart 751 765	left ventricle
+T17	OrganismPart 767 769	LV
+*	Equiv T16 T17
+T18	NumberOfBiologicalReplicates 774 779	seven
+T19	Sex 780 784	male
+T20	SupplementaryFile 5897 5920	Supplementary Materials
+T21	NumberOfSamples 6087 6089	21
+T22	NumberOfFractions 6116 6118	12
+T23	NumberOfTechnicalReplicates 6196 6198	No
+T28	OrganismPart 7298 7300	LA
+T29	OrganismPart 7302 7304	RA
+T30	OrganismPart 7309 7311	LV
+T32	NumberOfBiologicalReplicates 6522 6527	three
+T31	ReductionReagent 8466 8495	Tris(2-carboxyethyl)phosphine
+T33	ReductionReagent 8497 8501	TCEP
+*	Equiv T31 T33
+T34	AlkylationReagent 8513 8528	chloroacetamide
+T35	AlkylationReagent 8530 8533	CAA
+*	Equiv T34 T35
+T36	CleavageAgent 8668 8673	Lys-C
+T37	FactorValue 713 724	right atria
+T38	FactorValue 731 741	left atria
+T39	FactorValue 751 765	left ventricle
+T41	OrganismPart 6065 6067	LA
+T11	CleavageAgent 8843 8850	trypsin
+T40	FractionationMethod 9206 9270	micro-flow reverse-phase ultrahigh pressure liquid chromatograpy
+T42	FractionationMethod 9272 9276	UPLC
+*	Equiv T40 T42
+T43	NumberOfFractions 9523 9525	12
+T44	Label 11397 11407	label-free
+T45	Label 11424 11427	LFQ
+*	Equiv T44 T45
+T46	Label 11465 11468	LFQ
+T48	FragmentationMethod 10867 10905	higher-energy collisional dissociation
+T49	FragmentationMethod 10907 10910	HCD
+*	Equiv T48 T49
+T50	Separation 9637 9680	online reversed-phase liquid chromatography
+T47	Instrument 9694 9727	Q-Exactive HF quadrupole Orbitrap
+T51	AcquisitionMethod 10751 10765	data-dependent
+T52	SupplementaryFile 11980 12001	supplemental Table S1
+T53	MS2MassAnalyzer 11054 11062	Orbitrap

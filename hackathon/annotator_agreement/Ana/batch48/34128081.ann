@@ -1,0 +1,41 @@
+T1	Organism 61 66	human
+T2	Organism 7340 7345	human
+T3	OrganismPart 262 267	brain
+T4	OrganismPart 2357 2362	brain
+T5	OrganismPart 6097 6102	brain
+T6	OrganismPart 6414 6419	brain
+T7	OrganismPart 7040 7045	brain
+T8	OrganismPart 6429 6434	Brain
+T9	OrganismPart 10604 10609	brain
+T10	OrganismPart 25775 25780	brain
+T11	OrganismPart 26091 26096	brain
+T12	OrganismPart 38526 38531	brain
+T13	OrganismPart 44857 44862	brain
+T14	OrganismPart 45045 45050	brain
+T15	OrganismPart 44885 44890	brain
+T16	OrganismPart 45583 45588	brain
+T17	CellType 7654 7668	frontal cortex
+T18	CellType 25937 25951	frontal cortex
+T19	CellType 26753 26767	frontal cortex
+T20	CellType 26950 26964	frontal cortex
+T21	Disease 1082 1099	Alzheimer disease
+T22	Disease 1101 1103	AD
+T23	Disease 2742 2759	Alzheimer disease
+T24	Disease 2761 2763	AD
+*	Equiv T21 T22
+*	Equiv T23 T24
+T25	Disease 22393 22402	Alzheimer
+T26	Disease 467 498	Gerstmann-Straeussler-Scheinker
+T27	Disease 500 503	GSS
+*	Equiv T26 T27
+T28	Disease 4178 4217	Gerstmann-Straeussler-Scheinker disease
+T29	Disease 4219 4222	GSS
+*	Equiv T28 T29
+T30	Disease 4367 4410	Prion-Protein Cerebral Amyloid Angiopathies
+T31	Disease 4412 4419	PrP-CAA
+*	Equiv T30 T31
+T32	Disease 295 336	Prion-Protein cerebral amyloid angiopathy
+T33	Disease 338 345	PrP-CAA
+*	Equiv T32 T33
+T34	CleavageAgent 12905 12912	Trypsin
+T35	Instrument 13468 13473	Lumos

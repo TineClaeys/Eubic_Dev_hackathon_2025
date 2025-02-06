@@ -1,0 +1,94 @@
+T1	OrganismPart 0 5	Brain
+T2	Disease 107 155	Alzheimer's disease with cerebrovascular disease
+T5	Modification 212 216	DPMs
+T4	Modification 176 210	degenerative protein modifications
+T6	OrganismPart 170 175	Brain
+T7	Disease 272 280	dementia
+T8	Disease 304 352	Alzheimer's disease with cerebrovascular disease
+T9	Disease 354 362	AD + CVD
+*	Equiv T8 T9
+T10	Disease 394 402	dementia
+T11	Age 410 415	elder
+T12	OrganismPart 463 468	brain
+T13	Modification 469 472	DPM
+T14	Disease 482 490	dementia
+T3	Organism 687 692	human
+T16	Modification 723 728	uDPMs
+T19	Modification 892 897	uDPMs
+T20	Disease 923 931	dementia
+T21	Separation 1012 1094	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T22	Separation 1096 1104	UC-ERLIC
+*	Equiv T21 T22
+T23	TechnologyType 1114 1131	mass spectrometry
+T24	Modification 1190 1195	uDPMs
+T25	OrganismPart 1238 1243	brain
+T26	Disease 1281 1289	AD + CVD
+T27	Disease 1396 1404	AD + CVD
+T28	OrganismPart 1405 1411	brains
+T29	Modification 1357 1362	uDPMs
+T30	Disease 1496 1504	AD + CVD
+T31	Disease 1608 1616	AD + CVD
+T32	OrganismPart 1617 1623	brains
+T33	Disease 1633 1641	dementia
+T34	Compound 1651 1661	citrulline
+T35	Disease 1948 1956	AD + CVD
+T36	Disease 1855 1863	dementia
+T37	Compound 1873 1886	homocitrullin
+T39	Disease 2283 2291	AD + CVD
+T40	Modification 2233 2238	uDPMs
+T41	Disease 2552 2560	Dementia
+T42	Disease 2706 2725	Alzheimer's disease
+T43	Disease 2727 2729	AD
+*	Equiv T42 T43
+T44	Disease 2828 2851	Cerebrovascular disease
+T45	Disease 2853 2856	CVD
+*	Equiv T44 T45
+T46	Disease 2923 2925	AD
+T47	Disease 2929 2937	AD + CVD
+T48	Disease 2955 2963	dementia
+T49	Modification 3163 3197	degenerative protein modifications
+T50	Modification 3199 3203	DPMs
+T51	Modification 3434 3438	DPMs
+T55	Modification 3770 3793	Carbamylation of lysine
+T56	Compound 3851 3883	urea intermediate isocyanic acid
+T57	Modification 17294 17326	Carbamidomethylation of cysteine
+T58	CleavageAgent 17218 17225	Trypsin
+T59	Instrument 15295 15309	Orbitrap Elite
+T60	Disease 18152 18160	AD + CVD
+T61	Modification 18318 18331	citrullinated
+T62	Modification 18342 18354	carbamylated
+T63	Separation 15499 15524	Acclaim PepMap RSL column
+T64	Temperature 15611 15613	35
+T65	Time 15690 15705	60-min gradient
+T66	MS2MassAnalyzer 16172 16230	Michrom's Thermo Captive Spray nanoelectrospray ion source
+T67	Disease 18483 18491	AD + CVD
+T68	NumberOfSamples 18556 18559	two
+T69	Disease 8288 8296	AD + CVD
+T70	Disease 8301 8308	healthy
+T71	Disease 8321 8328	control
+T72	OrganismPart 8346 8351	human
+T73	OrganismPart 8352 8357	brain
+T74	OrganismPart 8367 8387	middle temporal lobe
+T75	OrganismPart 8389 8400	BA21 region
+T76	SupplementaryFile 8728 8755	Additional file 1: Table S1
+T77	NumberOfBiologicalReplicates 8757 8762	Three
+T78	OrganismPart 8896 8901	Brain
+T79	OrganismPart 9016 9020	BA21
+T80	OrganismPart 9210 9215	brain
+T81	Separation 10423 10505	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T82	Separation 10507 10515	UC-ERLIC
+*	Equiv T81 T82
+T15	FactorValue 17734 17737	108
+T17	Disease 19495 19503	AD + CVD
+T18	Depletion 19795 19814	sodium deoxycholate
+T38	Depletion 19816 19819	SDC
+*	Equiv T18 T38
+T52	SupplementaryFile 20391 20454	Additional file 3 : Figure S1a and Additional file 4: Dataset 2
+T53	Modification 20548 20552	uDPM
+T83	Disease 20666 20674	AD + CVD
+T84	Separation 21585 21593	UC-ERLIC
+T85	SampleTreatment 19795 19814	sodium deoxycholate
+T86	SampleTreatment 19816 19819	SDC
+T87	Disease 21651 21659	AD + CVD
+T88	SupplementaryFile 21661 21689	Additional file 5: Dataset 3
+T89	Disease 21936 21944	AD + CVD

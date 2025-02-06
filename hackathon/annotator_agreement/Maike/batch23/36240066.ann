@@ -1,0 +1,8 @@
+T1	Organism 54553 54558	Mouse
+T2	GeneticModification 54566 54574	c-Rel-/-
+T3	GeneticModification 54637 54646	RelAT505A
+T4	GeneticModification 54732 54742	Emicro-Myc
+T5	GeneticModification 54807 54814	C57Bl/6
+T6	Genotype 55039 55046	C57Bl/6
+T7	CleavageAgent 65740 65747	trypsin
+T8	Label 65833 65836	TMT

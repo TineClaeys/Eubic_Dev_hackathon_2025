@@ -1,0 +1,24 @@
+T1	Disease 98 108	meningioma
+T2	Disease 2113 2123	meningioma
+T4	FactorValue 3033 3040	healthy
+T5	Organism 3041 3046	human
+T6	OrganismPart 3910 3915	brain
+T7	SupplementaryFile 8863 8893	Supplementary Tables S1 and S2
+T8	EnrichmentMethod 10211 10227;10235 10240	titanium dioxide beads
+T9	EnrichmentMethod 10229 10233	TiO2
+*	Equiv T8 T9
+T10	ReductionReagent 10368 10381	dithiotheitol
+T11	ReductionReagent 10383 10386	DTT
+*	Equiv T10 T11
+T12	AlkylationReagent 10467 10482	2-iodoacetamide
+T13	CleavageAgent 10513 10518	Lys-C
+T14	CleavageAgent 10835 10842	trypsin
+T15	FractionationMethod 12294 12302	SDS-PAGE
+T16	FractionationFraction 12244 12252	Proteins
+T17	FractionationFraction 12257 12272	phosphoproteins
+T18	ReductionReagent 12975 12978	DTT
+T19	AlkylationReagent 13084 13099	2-iodoacetamide
+T20	CleavageAgent 13181 13188	trypsin
+T21	PrecursorMassTolerance 14584 14591	4.5 ppm
+T22	Label 14699 14709	label free
+T3	FactorValue 2977 3028	tumour tissue covering all WHO grades of meningioma

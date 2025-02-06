@@ -1,0 +1,38 @@
+T1	Organism 3646 3651	human
+T2	Disease 3652 3681	triple-negative breast cancer
+T3	Disease 3694 3716	adjacent breast tissue
+T5	Disease 3791 3805	normal omentum
+T6	OrganismPart 3668 3674	breast
+T7	OrganismPart 3798 3805	omentum
+T9	ReductionReagent 6756 6770	dithiothreitol
+T10	AlkylationReagent 6884 6897	iodoacetamide
+T11	CleavageAgent 7245 7250	Lys-C
+T12	CleavageAgent 7348 7355	trypsin
+T13	Separation 8328 8369	reversed-phase HPLC using an EASY-nLC1000
+T14	AcquisitionMethod 8949 8963	data-dependent
+T15	Sex 4137 4142	women
+T16	IonizationType 8556 8572	nanoelectrospray
+T17	Instrument 8581 8608	QExactive mass spectrometer
+T18	FractionationMethod 9363 9390	high-pH reversed-phase HPLC
+T19	NumberOfFractions 9787 9799	15 fractions
+T20	GradientTime 8532 8539	140 min
+T21	GradientTime 10082 10089	140 min
+T22	PrecursorMassTolerance 10361 10367	10 ppm
+T23	FragmentMassTolerance 10403 10409	15 mmu
+T24	NumberOfMissedCleavages 10443 10446	two
+T25	Modification 10499 10531	carbamidomethylation of cysteine
+A1	Modification T25 fixed
+T26	Modification 10565 10584	oxidized methionine
+A2	Modification T26 variable
+T27	Modification 10586 10611	deamidation of asparagine
+A3	Modification T27 variable
+T28	Modification 10613 10668	pyro-glutamic acid modification at N-terminal glutamine
+A4	Modification T28 variable
+T29	Modification 10674 10697	hydroxylation of lysine
+A5	Modification T29 variable
+T30	Modification 10674 10690;10702 10709	hydroxylation of proline
+A6	Modification T30 variable
+T4	Disease 3722 3740	omental metastases
+T8	OriginSiteDisease 3746 3778	high-grade serous ovarian cancer
+T31	OriginSiteDisease 3780 3785	HGSOC
+*	Equiv T8 T31

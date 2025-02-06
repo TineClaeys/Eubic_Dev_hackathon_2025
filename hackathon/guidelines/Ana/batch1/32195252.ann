@@ -1,0 +1,14 @@
+T1	CellLine 500 511	MDA-MB-435S
+T2	CellLine 7328 7339	MDA-MB-435S
+T3	Disease 481 489	melanoma
+T4	Disease 7309 7317	melanoma
+T5	Organism 7303 7308	Human
+T6	EnrichmentMethod 14788 14829	Integrin adhesion complexes were isolated
+T7	GeneticModification 8519 8526	2alphaV
+T8	GeneticModification 8531 8538	3alphaV
+T9	ReductionReagent 16440 16454	dithiothreitol
+T10	AlkylationReagent 16506 16519	iodoacetamide
+T11	Instrument 17597 17611	Orbitrap Elite
+T12	IonizationType 17673 17685	electrospray
+T13	FragmentMassTolerance 18098 18105	0.50 Da
+T14	PrecursorMassTolerance 18138 18143	5 PPM

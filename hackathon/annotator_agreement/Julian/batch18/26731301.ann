@@ -1,0 +1,78 @@
+T1	Organism 88 100	C57BL/6 mice
+T2	OriginSiteDisease 214 260	model of chronic obstructive pulmonary disease
+T3	Organism 262 274	C57BL/6 mice
+T4	SampleTreatment 350 389	prototype modified risk tobacco product
+T5	SampleTreatment 391 396	pMRTP
+*	Equiv T4 T5
+T6	SampleTreatment 586 605	reference cigarette
+T7	SampleTreatment 607 611	3R4F
+*	Equiv T6 T7
+T8	SampleTreatment 624 637	pMRTP aerosol
+T9	SampleTreatment 699 717	switching-to-pMRTP
+T10	SampleTreatment 777 784	control
+T11	SampleTreatment 786 803	fresh air-exposed
+*	Equiv T10 T11
+T12	SampleTreatment 858 876	switching to pMRTP
+*	Equiv T9 T12
+T13	Sex 2361 2367	Female
+T14	Treatment 2431 2435	Sham
+T15	Treatment 2437 2473	exposed to filtered, conditioned air
+*	Equiv T14 T15
+T16	FactorValue 2431 2435	Sham
+T17	Treatment 2479 2483	3R4F
+T18	FactorValue 2595 2600	pMRTP
+T19	FactorValue 2729 2738	Cessation
+T20	FactorValue 2835 2850	Switch to pMRTP
+T21	FactorValue 2479 2483	3R4F
+T22	Treatment 2595 2600	pMRTP
+T23	Treatment 2729 2738	Cessation
+T24	Treatment 2835 2850	Switch to pMRTP
+T25	Treatment 2485 2533	exposed to mainstream smoke from 3R4F cigarettes
+*	Equiv T17 T25
+T26	Treatment 2602 2637	exposed to a MRTP prototype aerosol
+*	Equiv T22 T26
+T27	Treatment 2740 2825	exposed to 3R4F for 2 months and then to filtered, conditioned air for up to 5 months
+*	Equiv T23 T27
+T28	Treatment 2852 2925	exposed to 3R4F for 2 months and then to pMRTP aerosol for up to 5 months
+*	Equiv T24 T28
+T29	OrganismPart 3678 3699	bronchoalveolar fluid
+T30	OrganismPart 56129 56140	right lungs
+T31	BiologicalReplicate 56160 56163	six
+T32	BiologicalReplicate 56144 56147	six
+T33	Organism 56148 56152	mice
+T34	Time 56269 56270	1
+T35	Time 56272 56273	3
+T36	Time 56275 56276	5
+T37	Time 56282 56283	7
+T38	Time 56324 56325	3
+T39	Time 56327 56328	5
+T40	Time 56334 56335	7
+T41	FactorValue 56288 56292	3R4F
+T42	FactorValue 56297 56302	pMRTP
+T43	FactorValue 56340 56349	cessation
+T44	FactorValue 56354 56360	switch
+T45	OrganismPart 56245 56256	Lung tissue
+T46	OrganismPart 56416 56447	inferior lobe of the right lung
+*	Equiv T30 T45 T46
+T47	FractionationMethod 56696 56751	two-dimensional (2D)-polyacrylamide gel electrophoresis
+T48	FractionationMethod 56753 56757	PAGE
+*	Equiv T47 T48
+T49	Label 56787 56839	isobaric tags for relative and absolute quantitation
+T50	Label 56841 56846	iTRAQ
+*	Equiv T49 T50
+T51	Staining 58284 58294	SYPRO Ruby
+T52	SampleTreatment 58632 58647	in-gel digested
+T53	CleavageAgent 58662 58699	Trypsin Gold, Mass Spectrometry Grade
+T54	IonizationType 58854 58897	matrix-assisted laser desorption/ionization
+T55	Instrument 58931 58962	(UltraFleXtrem MALDI-TOF/TOF-MS
+T56	Label 59612 59624	iTRAQ 8-plex
+T57	CleavageAgent 59712 59719	Trypsin
+T58	FactorValue 59941 59986	mix containing 50 mug of all protein extracts
+T59	Time 59992 60007	each time point
+T60	Label 60067 60084	iTRAQ channel 114
+T61	Label 60124 60129	iTRAQ
+T62	PooledSample 60139 60145	pooled
+T63	FractionationMethod 60642 60669	EASY-nanoLC 1000 instrument
+T64	Instrument 60692 60702	Q Exactive
+T65	FractionationMethod 60770 60797	50 cm C18RP RSLC EASY-spray
+T66	TechnicalReplicate 61020 61025	twice

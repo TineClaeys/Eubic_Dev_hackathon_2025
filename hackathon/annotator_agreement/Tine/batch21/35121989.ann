@@ -1,0 +1,26 @@
+T1	SupplementaryFile 34904 34937	Nature Research Reporting Summary
+T2	SupplementaryFile 35347 35368	Supplementary Table 7
+T3	CellLine 35286 35296	cell lines
+R1	IsInSuppl Arg1:T3 Arg2:T2	
+T4	CellLine 42138 42144	D-HEp3
+T5	CellLine 42164 42170	T-HEp3
+T6	CellLine 40231 40237	T-HEp3
+T7	CellLine 40251 40257	D-HEp3
+T8	GeneticModification 40679 40686	Control
+T9	FactorValue 40231 40237	T-HEp3
+T10	FactorValue 40251 40257	D-HEp3
+T11	GeneticModification 40690 40704	DDR1 knockdown
+T12	FactorValue 40679 40686	Control
+T13	FactorValue 40690 40704	DDR1 knockdown
+T14	ReductionReagent 41692 41695	DTT
+T15	AlkylationReagent 41739 41752	iodoacetamide
+T16	CleavageAgent 41869 41874	Lys-C
+T17	CleavageAgent 41888 41895	trypsin
+T18	GradientTime 42508 42518	140-minute
+T19	IonizationType 42535 42551	nanoelectrospray
+T20	Instrument 42560 42569	QExactive
+T21	CellLine 44299 44313	D-HEp3 sh CTRL
+T22	CellLine 44334 44347	D-HEp3 shDDR1
+T23	Instrument 44458 44476	Orbitrap Velos Pro
+T24	FactorValue 44299 44313	D-HEp3 sh CTRL
+T25	FactorValue 44334 44347	D-HEp3 shDDR1

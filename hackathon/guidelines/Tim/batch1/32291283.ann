@@ -1,0 +1,59 @@
+T1	Organism 27 32	Human
+T2	OrganismPart 33 38	Heart
+T3	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T4	Disease 432 453	mitral valve prolapse
+T5	Disease 455 458	MVP
+*	Equiv T5 T4
+T6	OrganismPart 713 724	right atria
+T7	OrganismPart 726 728	RA
+T8	OrganismPart 731 741	left atria
+T9	OrganismPart 743 745	LA
+T10	OrganismPart 751 765	left ventricle
+T11	OrganismPart 767 769	LV
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T10 T11
+T12	Disease 799 825	mitral valve regurgitation
+T13	Disease 661 680	atrial fibrillation
+T14	Disease 682 684	AF
+*	Equiv T14 T13
+T17	Instrument 1055 1077	Q-Exactive-HF Orbitrap
+T18	Disease 1515 1518	MVP
+T19	Disease 1590 1606	cardiomyopathies
+T20	Disease 1624 1634	dilated LA
+T21	Disease 1727 1729	AF
+T22	Disease 1931 1934	MVP
+T23	Sex 780 784	male
+T24	NumberOfSamples 774 779	seven
+T15	Disease 831 862	dilated LA but no history of AF
+T25	SupplementaryFile 5897 5920	Supplementary Materials
+T26	NumberOfBiologicalReplicates 5990 5995	seven
+T27	OrganismPart 6065 6067	LA
+T28	OrganismPart 6069 6071	RA
+T29	OrganismPart 6073 6075	LV
+T30	NumberOfSamples 6087 6089	21
+T31	NumberOfFractions 6116 6118	12
+T32	NumberOfTechnicalReplicates 6196 6198	No
+T33	NumberOfBiologicalReplicates 6522 6527	three
+T34	AlkylationReagent 8466 8495	Tris(2-carboxyethyl)phosphine
+T35	AlkylationReagent 8513 8528	chloroacetamide
+T36	AlkylationReagent 8497 8501	TCEP
+T37	AlkylationReagent 8530 8534	CAA)
+*	Equiv T34 T36
+*	Equiv T35 T37
+T38	CleavageAgent 8653 8673	endoproteinase Lys-C
+T41	FactorValue 6065 6067	LA
+T42	FactorValue 6069 6071	RA
+T43	FactorValue 6073 6075	LV
+T44	CleavageAgent 8843 8850	trypsin
+T39	FractionationFraction 8988 8995	Soluble
+T40	FractionationMethod 9206 9270	micro-flow reverse-phase ultrahigh pressure liquid chromatograpy
+T46	NumberOfFractions 9523 9525	12
+T47	FractionationMethod 9272 9276	UPLC
+*	Equiv T47 T40
+T16	Separation 9637 9680	online reversed-phase liquid chromatography
+T45	Instrument 9694 9752	Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer
+T48	AcquisitionMethod 10751 10765	data-dependent
+T49	FragmentationMethod 10867 10905	higher-energy collisional dissociation
+T50	FragmentationMethod 10907 10910	HCD
+*	Equiv T49 T50

@@ -1,0 +1,17 @@
+T1	Organism 124 142	Trypanosoma brucei
+T2	NumberOfBiologicalReplicates 48683 48687	four
+T3	Label 47925 47930	SILAC
+T4	CleavageAgent 50881 50888	trypsin
+T5	NumberOfMissedCleavages 50908 50911	two
+T6	PrecursorMassTolerance 50999 51006	4.5 ppm
+T7	FragmentMassTolerance 51043 51049	0.5 Da
+T8	Instrument 49361 49384	Orbitrap QExactive Plus
+T9	Separation 49446 49473	UltiMate 3000 RSLCnano HPLC
+T10	Modification 51067 51099	Carbamidomethylation of cysteine
+A1	Modification T10 fixed
+T11	Modification 51150 51173	oxidation of methionine
+A2	Modification T11 variable
+T12	Modification 51178 51215	acetylation of the protein N-terminus
+A3	Modification T12 variable
+T13	FactorValue 48749 48761	mini-p166-HA
+T14	FactorValue 48774 48793	mini-p166-DeltaC-HA

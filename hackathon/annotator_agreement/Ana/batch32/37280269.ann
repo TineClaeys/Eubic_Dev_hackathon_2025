@@ -1,0 +1,47 @@
+T2	OrganismPart 802 823	cell-free supernatant
+T1	OrganismPart 6943 6964	cell-free supernatant
+T3	OrganismPart 9406 9427	cell-free supernatant
+T4	OrganismPart 9842 9863	cell-free supernatant
+T5	OrganismPart 9916 9937	cell-free supernatant
+T6	OrganismPart 10711 10732	cell-free supernatant
+T7	OrganismPart 19558 19579	cell-free supernatant
+T8	Disease 15505 15514	infection
+T9	Disease 3951 3960	infection
+T10	Organism 98 121	Acinetobacter baumannii
+T11	Organism 145 168	Acinetobacter baumannii
+T12	Organism 1557 1580	Acinetobacter baumannii
+T13	CellType 1486 1494	bacteria
+T14	CellType 2247 2255	bacteria
+T15	CellType 4398 4406	bacteria
+T16	CellType 4796 4804	bacteria
+T17	CellType 4199 4207	bacteria
+T18	CellType 5361 5369	bacteria
+T19	CellType 5553 5561	bacteria
+T20	CellType 5049 5057	bacteria
+T21	CellType 6063 6071	bacteria
+T22	CellType 9583 9591	bacteria
+T23	CellType 9713 9721	bacteria
+T24	CellType 15025 15033	Bacteria
+T25	CellType 15139 15147	bacteria
+T26	CellType 15654 15662	bacteria
+T27	CellType 15968 15976	bacteria
+T28	CellType 16229 16230	e
+T29	CellType 18002 18010	bacteria
+T30	CellType 19827 19835	bacteria
+T31	CellType 20949 20957	bacteria
+T32	CellType 21217 21225	bacteria
+T33	CellType 22299 22307	bacteria
+T34	Instrument 25248 25260	TimsTof Pro2
+T35	CleavageAgent 24746 24753	trypsin
+T36	CleavageAgent 24781 24788	trypsin
+T37	FactorValue 9163 9168	TEM-1
+T38	FactorValue 10284 10289	TEM-1
+T39	FactorValue 10169 10174	TEM-1
+T40	FactorValue 10751 10756	TEM-1
+T41	FactorValue 11061 11064	TEM
+T42	FactorValue 11479 11484	TEM-1
+T43	FactorValue 22516 22521	TEM-1
+T44	FactorValue 22770 22775	TEM-1
+T45	FactorValue 14371 14375	amox
+T46	FactorValue 14351 14355	penG
+T47	FactorValue 14396 14400	pipe

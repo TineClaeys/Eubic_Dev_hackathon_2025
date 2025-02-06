@@ -1,0 +1,20 @@
+T1	Organism 7303 7308	Human
+T2	Disease 7309 7317	melanoma
+T3	CellLine 7328 7339	MDA-MB-435S
+T4	GradientTime 17731 17737	44 min
+T5	FractionationMethod 17524 17560	UltiMate(R) 3000 Rapid Separation LC
+T6	FractionationMethod 17562 17566	RSLC
+*	Equiv T5 T6
+T7	Instrument 17597 17611	Orbitrap Elite
+T8	IonizationType 17673 17685	electrospray
+T9	FlowRateChromatogram 17903 17909	300 nL
+T10	OutOfScope 18024 18061	Mascot (Matrix science, version 2.5.1
+T11	FragmentMassTolerance 18098 18105	0.50 Da
+T12	FragmentMassTolerance 18138 18143	5 PPM
+T13	OutOfScope 18196 18204	Scaffold
+T14	CleavageAgent 16657 16664	trypsin
+T15	Time 16721 16727	45 min
+T16	Temperature 16731 16740	4degreesC
+T17	Time 16757 16766	overnight
+T18	Temperature 16781 16791	37degreesC
+T19	AlkylationReagent 16837 16849	acetonitrile

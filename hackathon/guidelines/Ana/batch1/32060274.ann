@@ -1,0 +1,13 @@
+T1	Disease 104 112	melanoma
+T2	Treatment 141 154	immunotherapy
+T3	Disease 168 176	melanoma
+T4	TechnologyType 716 731	HLA peptidomics
+T5	Disease 554 562	melanoma
+T6	CellLine 37571 37574	12T
+T7	CellLine 37579 37583	108T
+T8	CellLine 37594 37598	TILs
+T9	SupplementaryFile 38148 38170	Supplementary Table 16
+T10	CellLine 37824 37828	A375
+T11	CellLine 38172 38195	EBV-transformed B-cells
+T12	CellLine 38260 38264	HB95
+T13	Disease 38782 38790	melanoma

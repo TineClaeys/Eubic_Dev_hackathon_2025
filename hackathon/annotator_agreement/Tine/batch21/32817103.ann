@@ -1,0 +1,47 @@
+T1	OrganismPart 81 95	Red Blood Cell
+T2	Disease 96 140	Invasion by Plasmodium falciparum Merozoites
+T3	OrganismPart 159 162	RBC
+T4	OrganismPart 143 157	Red blood cell
+*	Equiv T4 T3
+T5	Disease 276 300	P. falciparum merozoites
+T6	Organism 45916 45939	P. falciparum merozoite
+T7	CleavageAgent 47425 47432	trypsin
+T8	Label 47547 47557	label-free
+T9	FractionationMethod 47688 47700	Ion-exchange
+T10	FractionationMethod 47807 47829	strong cation exchange
+T11	FractionationMethod 47831 47834	SCX
+*	Equiv T10 T11
+T12	Label 48036 48051	Tandem mass tag
+T13	Label 48053 48056	TMT
+T14	FractionationMethod 48091 48136	hydrophilic interaction liquid chromatography
+T15	FractionationMethod 48138 48143	HILIC
+*	Equiv T14 T15
+*	Equiv T12 T13
+T16	CleavageAgent 48228 48235	trypsin
+T17	Label 48303 48306	128
+T18	Label 48308 48311	129
+T19	Label 48317 48320	130
+T20	NumberOfFractions 47911 47919	12 to 15
+T21	NumberOfFractions 48466 48474	12 to 15
+T22	Strain 45965 45968	3D7
+T23	FragmentationMethod 50193 50229	high-energy collisional dissociation
+T24	FragmentationMethod 50231 50234	HCD
+T25	Modification 50740 50773	carbamidomethylation of cysteines
+A1	Modification T25 fixed
+T26	Modification 50807 50830	oxidation of methionine
+T27	Modification 50832 50862	protein N-terminal acetylation
+T28	Modification 50868 50915	serine/threonine/tyrosine (STY) phosphorylation
+A2	Modification T26 variable
+A3	Modification T27 variable
+A4	Modification T28 variable
+T29	Experiment 50389 50392	TMT
+T30	Experiment 50397 50407	label-free
+T31	PrecursorMassTolerance 51000 51006	20 ppm
+T32	FragmentMassTolerance 51011 51017	0.5 Da
+T33	CellType 46080 46089	schizonts
+T34	Treatment 46305 46314	IC buffer
+T35	Treatment 46316 46325	EC buffer
+T36	Treatment 46419 46431	EC-BA buffer
+T37	Treatment 47279 47281	IC
+T38	Treatment 47284 47286	EC
+T39	Treatment 47293 47298	EC-BA

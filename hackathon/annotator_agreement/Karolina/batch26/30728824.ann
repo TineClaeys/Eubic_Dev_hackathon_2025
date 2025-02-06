@@ -1,0 +1,25 @@
+T1	Label 87 97	Label-Free
+T2	Disease 118 133	Schistosomiasis
+T3	Strain 2484 2490	Balb/c
+T4	Organism 2491 2495	mice
+T5	OrganismPart 2432 2438	spleen
+T6	Sex 8322 8328	female
+T7	Age 8346 8353	30 days
+T10	FactorValue 8790 8798	Infected
+T11	FactorValue 8803 8810	Control
+T8	AlkylationReagent 12437 12450	iodoacetamide
+T9	ReductionReagent 12296 12310	dithiothreitol
+T12	CleavageAgent 12629 12636	trypsin
+T13	NumberOfBiologicalReplicates 11848 11853;11890 11904	Three for each group
+T14	Separation 13642 13663	Acclaim PepMap18 RSLC
+T15	Separation 13241 13268	nanoUHPLC UltiMate(R) 3,000
+T16	Instrument 14279 14289	Q Exactive
+T17	FragmentationMethod 14855 14899	Higher Energy Collision Induced Dissociation
+T18	FragmentationMethod 14901 14904	HCD
+*	Equiv T17 T18
+T19	PrecursorMassTolerance 16376 16382	10 ppm
+T20	NumberOfMissedCleavages 16075 16076	2
+T21	Modification 16110 16139	cysteine carbamidomethylation
+A1	Modification T21 fixed
+T22	Modification 16168 16188	methionine oxidation
+A2	Modification T22 variable

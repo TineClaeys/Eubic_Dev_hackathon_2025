@@ -1,0 +1,8 @@
+T1	CellPart 24 39	Focal Adhesions
+T2	CellPart 43 55	Microtubules
+T3	OrganismPart 0 5	KANK2
+T4	CellPart 324 336	cytoskeleton
+T5	CellPart 250 277	integrin adhesion complexes
+T6	CellPart 279 283	IACs
+*	Equiv T5 T6
+T7	CellPart 420 431	microtubule

@@ -1,0 +1,16 @@
+T1	Organism 54951 54974	Cupriavidus necator H16
+T2	OrganismPart 55075 55080	Cells
+T3	Compound 55477 55487	D-fructose
+T4	Compound 55497 55506	succinate
+T5	Compound 55534 55545	formic acid
+T6	ConcentrationOfCompound 55469 55476	0.5 g/L
+T7	ConcentrationOfCompound 55489 55496	0.5 g/L
+T8	ConcentrationOfCompound 55511 55518	1.5 g/L
+T9	Label 10318 10328	label-free
+T10	Label 65855 65865	label-free
+T11	NumberOfBiologicalReplicates 61738 61742	four
+T12	Modification 66331 66351	Carbamidomethylation
+A1	Modification T12 fixed
+T13	Modification 66407 66416	oxidation
+A2	Modification T13 variable
+T14	PrecursorMassTolerance 66510 66516	10 ppm

@@ -1,0 +1,25 @@
+T1	Organism 1389 1394	human
+T2	Organism 1980 1985	human
+T3	Organism 9264 9269	human
+T4	OrganismPart 10998 11004	saliva
+T5	OrganismPart 11181 11187	saliva
+T6	OrganismPart 11066 11072	saliva
+T7	OrganismPart 11035 11041	plasma
+T8	OrganismPart 5125 5131	saliva
+T9	TechnologyType 7443 7467	liquid chromatography-MS
+T10	FractionationFraction 18494 18502	fraction
+T11	Label 10638 10648	label-free
+T12	Label 22074 22083	abel-free
+T13	Instrument 18581 18594	Q Exactive HF
+T14	Modification 9834 9854	carbamidomethylation
+A1	Modification T14 fixed
+T15	Modification 9765 9774	oxidation
+A2	Modification T15 variable
+T16	Modification 9709 9722	N-acetylation
+A3	Modification T16 variable
+T17	PrecursorMassTolerance 9647 9654	4.5 ppm
+T18	FragmentMassTolerance 9675 9681	0.5 Da
+T19	FactorValue 5125 5131	saliva
+T20	FactorValue 10998 11004	saliva
+T21	FactorValue 11035 11041	plasma
+T22	FactorValue 11066 11072	saliva

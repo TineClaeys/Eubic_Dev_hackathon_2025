@@ -1,0 +1,44 @@
+T1	OrganismPart 0 5	Brain
+T2	Disease 68 85	neuroinflammation
+T3	Disease 90 103	proteinopathy
+T4	Disease 107 155	Alzheimer's disease with cerebrovascular disease
+T5	Disease 272 280	dementia
+T6	Disease 304 352	Alzheimer's disease with cerebrovascular disease
+T9	Disease 394 402	dementia
+T10	Disease 482 490	dementia
+T11	Disease 6104 6106	AD
+T12	Disease 6109 6112	CVD
+T13	Disease 6083 6100	neuroinflammation
+T14	Disease 5991 6009	multiple sclerosis
+T15	Disease 6011 6013	MS
+T29	Disease 1306 1314	controls
+T7	Disease 354 362	AD + CVD
+*	Equiv T6 T7
+T8	Separation 1012 1094	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T30	Separation 1096 1104	UC-ERLIC
+*	Equiv T8 T30
+T18	Disease 2812 2820	dementia
+T19	Disease 2706 2725	Alzheimer's disease
+T22	Disease 2727 2729	AD
+T31	Disease 2923 2925	AD
+T27	Disease 1281 1289	AD + CVD
+T23	Disease 1396 1404	AD + CVD
+T24	Disease 1496 1504	AD + CVD
+T20	Disease 1948 1956	AD + CVD
+T16	Disease 2283 2291	AD + CVD
+T17	Disease 2929 2937	AD + CVD
+*	Equiv T19 T22
+T21	Disease 2884 2892	dementia
+T25	Disease 2828 2851	Cerebrovascular disease
+T26	Disease 2853 2856	CVD
+*	Equiv T25 T26
+T28	Disease 3130 3138	dementia
+T32	Modification 3508 3522	citrullination
+T33	Modification 3527 3540	carbamylation
+T34	Modification 3542 3556	Citrullination
+T35	Modification 3770 3783	Carbamylation
+T36	Modification 4277 4291	Citrullination
+T37	Disease 4940 4948	AD + CVD
+T38	Disease 5759 5767	AD + CVD
+T39	Modification 5843 5857	citrullination
+T40	Modification 5862 5875	carbamylation

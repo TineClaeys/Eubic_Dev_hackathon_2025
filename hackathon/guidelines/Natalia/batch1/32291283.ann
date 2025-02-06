@@ -1,0 +1,72 @@
+T1	Disease 107 155	Dilated Left Atrium Without Atrial Fibrillation.
+T2	Organism 27 32	Human
+T3	Disease 432 453	mitral valve prolapse
+T4	Disease 455 458	MVP
+*	Equiv T3 T4
+T5	Disease 593 613	left atrial dilation
+T6	Disease 661 680	atrial fibrillation
+T7	Disease 682 685	AF)
+*	Equiv T6 T7
+T8	OrganismPart 713 724	right atria
+T9	OrganismPart 726 728	RA
+*	Equiv T8 T9
+T10	OrganismPart 731 741	left atria
+T11	OrganismPart 743 745	LA
+*	Equiv T10 T11
+T12	OrganismPart 751 765	left ventricle
+T13	OrganismPart 767 769	LV
+*	Equiv T12 T13
+T14	SupplementaryFile 5897 5920	Supplementary Materials
+T15	Disease 799 825	mitral valve regurgitation
+T16	OrganismPart 839 841	LA
+T17	Disease 860 862	AF
+T18	TechnologyType 896 929	high-resolution mass spectrometry
+T19	TechnologyType 931 933	MS
+*	Equiv T18 T19
+T20	FractionationMethod 976 1025	reverse phase high-pressure liquid chromatography
+T21	TechnologyType 1035 1037	MS
+T22	Instrument 1055 1077	Q-Exactive-HF Orbitrap
+T23	NumberOfSamples 774 779	seven
+T24	Sex 780 784	male
+T25	NumberOfSamples 5990 5995	seven
+T26	OrganismPart 6065 6067	LA
+T27	OrganismPart 6069 6071	RA
+T28	OrganismPart 6073 6075	LV
+T29	NumberOfSamples 6087 6089	21
+T30	NumberOfFractions 6116 6118	12
+T31	TechnologyType 6136 6138	MS
+T32	NumberOfTechnicalReplicates 6196 6198	No
+T33	NumberOfBiologicalReplicates 6522 6527	three
+T34	ReductionReagent 8466 8495	Tris(2-carboxyethyl)phosphine
+T35	ReductionReagent 8497 8501	TCEP
+*	Equiv T34 T35
+T36	AlkylationReagent 8513 8528	chloroacetamide
+T37	AlkylationReagent 8530 8533	CAA
+*	Equiv T36 T37
+T38	CleavageAgent 8668 8673	Lys-C
+T39	CleavageAgent 8843 8850	trypsin
+T40	FractionationMethod 9206 9270	micro-flow reverse-phase ultrahigh pressure liquid chromatograpy
+T41	FractionationMethod 9272 9276	UPLC
+T42	FractionationFraction 8988 8995	Soluble
+T43	Separation 9637 9680	online reversed-phase liquid chromatography
+T44	Instrument 9694 9727	Q-Exactive HF quadrupole Orbitrap
+T45	NumberOfSamples 11756 11761	seven
+T46	Sex 11776 11780	male
+T47	Disease 11856 11882	mitral valve regurgitation
+T48	OrganismPart 11896 11906	left atria
+T49	OrganismPart 11920 11954	left ventricular ejection fraction
+T50	SupplementaryFile 11993 12001	Table S1
+T51	NumberOfSamples 12187 12190	ten
+T52	MaterialType 12405 12421	Cardiac biopsies
+T53	OrganismPart 12446 12448	RA
+T54	OrganismPart 12450 12452	LA
+T55	OrganismPart 12458 12460	LV
+T56	OrganismPart 12468 12480	mitral valve
+T57	CleavageAgent 12766 12771	Lys-C
+T58	CleavageAgent 12776 12783	trypsin
+T59	Instrument 12928 12950	Q-Exactive HF Orbitrap
+T60	Label 11397 11407	label-free
+T61	Label 11424 11427	LFQ
+*	Equiv T60 T61
+T62	AcquisitionMethod 10751 10765	data-dependent
+T63	MS2MassAnalyzer 11054 11062	Orbitrap

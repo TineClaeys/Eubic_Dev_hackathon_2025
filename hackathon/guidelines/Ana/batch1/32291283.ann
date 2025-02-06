@@ -1,0 +1,55 @@
+T1	OrganismPart 713 724	right atria
+T2	OrganismPart 726 728	RA
+*	Equiv T1 T2
+T3	Organism 27 32	Human
+T4	OrganismPart 33 38	Heart
+T5	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T6	OrganismPart 731 741	left atria
+T7	OrganismPart 743 745	LA
+T8	OrganismPart 751 765	left ventricle
+T9	OrganismPart 767 769	LV
+*	Equiv T6 T7
+*	Equiv T8 T9
+T10	SupplementaryFile 5897 5920	Supplementary Materials
+T11	NumberOfBiologicalReplicates 5990 5995	seven
+T12	OrganismPart 6065 6067	LA
+T13	FactorValue 6069 6071	RA
+T14	OrganismPart 6073 6075	LV
+T15	FractionationMethod 976 1025	reverse phase high-pressure liquid chromatography
+T16	Disease 831 841	dilated LA
+T17	Sex 780 784	male
+T18	NumberOfSamples 6087 6089	21
+T19	Disease 432 453	mitral valve prolapse
+T20	Disease 455 458	MVP
+*	Equiv T19 T20
+T21	Instrument 1055 1077	Q-Exactive-HF Orbitrap
+T22	NumberOfFractions 6116 6118	12
+T23	NumberOfTechnicalReplicates 6196 6198	No
+T24	NumberOfBiologicalReplicates 774 779	seven
+T25	FactorValue 6065 6067	LA
+T26	ReductionReagent 8466 8495	Tris(2-carboxyethyl)phosphine
+T27	AlkylationReagent 8513 8528	chloroacetamide
+T28	CleavageAgent 8668 8673	Lys-C
+T29	CleavageAgent 8843 8850	trypsin
+T30	FractionationMethod 9206 9270	micro-flow reverse-phase ultrahigh pressure liquid chromatograpy
+T31	FractionationMethod 9272 9276	UPLC
+*	Equiv T30 T31
+T32	ReductionReagent 8497 8501	TCEP
+*	Equiv T26 T32
+T33	AlkylationReagent 8530 8533	CAA
+*	Equiv T27 T33
+T34	FractionationFraction 8988 8995	Soluble
+T35	Separation 9637 9680	online reversed-phase liquid chromatography
+T36	Instrument 9694 9752	Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer
+T37	NumberOfFractions 9523 9525	12
+T40	AcquisitionMethod 10751 10765	data-dependent
+T41	FragmentationMethod 10867 10905	higher-energy collisional dissociation
+T42	FragmentationMethod 10907 10910	HCD
+*	Equiv T41 T42
+T43	Label 11397 11407	label-free
+T44	Label 11424 11427	LFQ
+*	Equiv T44 T43
+T38	IonizationType 10479 10496	nano-electrospray
+T45	MS2MassAnalyzer 11054 11062	Orbitrap
+T39	OrganismPart 6069 6071	RA
+T46	FactorValue 6073 6075	LV

@@ -1,0 +1,94 @@
+T1	Organism 27 32	Human
+T2	OrganismPart 33 38	Heart
+T3	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T4	Disease 432 453	mitral valve prolapse
+T5	Disease 455 458	MVP
+*	Equiv T4 T5
+T6	OrganismPart 713 724	right atria
+T7	OrganismPart 726 728	RA
+T8	OrganismPart 731 741	left atria
+T9	OrganismPart 743 745	LA
+T10	OrganismPart 767 769	LV
+T11	OrganismPart 751 765	left ventricle
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T11 T10
+T12	Sex 780 784	male
+T13	NumberOfBiologicalReplicates 774 779	seven
+T14	Disease 831 862	dilated LA but no history of AF
+T15	SupplementaryFile 5897 5920	Supplementary Materials
+T16	NumberOfBiologicalReplicates 5990 5995	seven
+T17	OrganismPart 6065 6067	LA
+T18	OrganismPart 6069 6071	RA
+T19	OrganismPart 6073 6075	LV
+T20	NumberOfSamples 6087 6097	21 samples
+T21	FractionationMethod 990 1025	high-pressure liquid chromatography
+T22	Instrument 1055 1077	Q-Exactive-HF Orbitrap
+T24	OrganismPart 7298 7300	LA
+T25	OrganismPart 7302 7304	RA
+T26	OrganismPart 7309 7311	LV
+T27	ConcentrationOfCompound 7746 7751	50 mm
+T23	NumberOfTechnicalReplicates 6196 6198	No
+T28	Compound 7752 7760	Tris-HCl
+T29	ConcentrationOfCompound 7761 7767	pH 8.5
+T30	ConcentrationOfCompound 7769 7773	5 mm
+T31	ConcentrationOfCompound 7780 7786	150 mm
+T32	ConcentrationOfCompound 7793 7798	10 mm
+T33	ConcentrationOfCompound 7804 7806	1%
+T34	ConcentrationOfCompound 7821 7825	5 mm
+T35	ConcentrationOfCompound 7831 7835	5 mm
+T36	ConcentrationOfCompound 7859 7863	1 mm
+T37	ConcentrationOfCompound 7893 7895	1x
+T38	ConcentrationOfCompound 8238 8240	6M
+T39	ConcentrationOfCompound 8249 8254	50 mm
+T40	ConcentrationOfCompound 8264 8270	pH 8.5
+T41	ConcentrationOfCompound 8272 8276	5 mm
+T42	ConcentrationOfCompound 8282 8286	5 mm
+T43	ConcentrationOfCompound 8310 8314	1 mm
+T44	ConcentrationOfCompound 8344 8346	1x
+T45	Compound 7774 7778	EDTA
+T46	Compound 7787 7791	NaCl
+T47	Compound 7799 7802	KCl
+T48	Compound 7807 7819	Triton X-100
+T49	Compound 7836 7857	beta-glycerophosphate
+T50	Compound 7864 7880	Na-orthovanadate
+T51	Compound 7911 7929	protease inhibitor
+T52	Compound 8233 8236	HCl
+T53	Compound 8244 8247	HCl
+T54	Compound 8255 8263	Tris HCl
+T55	Compound 8277 8280	NaF
+T56	Compound 8287 8308	beta-glycerophosphate
+T57	Compound 8315 8331	Na-orthovanadate
+T58	Compound 8362 8380	protease inhibitor
+T59	ReductionReagent 8466 8495	Tris(2-carboxyethyl)phosphine
+T60	ReductionReagent 8497 8501	TCEP
+*	Equiv T59 T60
+T61	ConcentrationOfCompound 8461 8465	5 mm
+T62	AlkylationReagent 8513 8528	chloroacetamide
+T63	AlkylationReagent 8530 8533	CAA
+*	Equiv T62 T63
+T64	Time 8586 8592	15 min
+T65	FactorValue 6065 6067	LA
+T66	FactorValue 6069 6071	RA
+T67	FactorValue 6073 6075	LV
+T68	CleavageAgent 8668 8673	Lys-C
+T69	CleavageAgent 8843 8850	trypsin
+T70	Compound 8966 8986	trifluoroacetic acid
+T71	FractionationMethod 9206 9270	micro-flow reverse-phase ultrahigh pressure liquid chromatograpy
+T72	FractionationMethod 9272 9276	UPLC
+*	Equiv T71 T72
+T73	Chromatography 9284 9309	Dionex UltiMate 3000 UPLC
+T74	FractionationFraction 8988 8995	Soluble
+T75	Instrument 9694 9752	Q-Exactive HF quadrupole Orbitrap tandem mass spectrometer
+T76	IonizationType 10479 10496	nano-electrospray
+T77	FractionationMethod 10766 10771	Top12
+T78	Label 11397 11407	label-free
+T79	Label 11424 11427	LFQ
+*	Equiv T78 T79
+T80	Age 11782 11793	middle aged
+T81	Age 11803 11811	50 years
+T83	Disease 11856 11954	mitral valve regurgitation with dilated left atria and a normal left ventricular ejection fraction
+T84	Disease 12094 12113	atrial fibrillation
+T85	CleavageAgent 12766 12771	Lys-C
+T86	CleavageAgent 12776 12783	trypsin
+T82	SupplementaryFile 11993 12001	Table S1

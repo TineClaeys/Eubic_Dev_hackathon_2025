@@ -1,0 +1,41 @@
+T1	Organism 745 758	Sparus aurata
+T2	OrganismPart 878 883	liver
+T3	SampleTreatment 34484 34496	overcrowding
+T4	SampleTreatment 34480 34482	OC
+*	Equiv T4 T3
+T5	SampleTreatment 34498 34501	NET
+T6	SampleTreatment 34503 34553	repetitive net handling, coupled with air exposure
+*	Equiv T6 T5
+T7	SampleTreatment 34559 34562	HYP
+T8	SampleTreatment 34564 34571	hypoxia
+*	Equiv T7 T8
+T9	FactorValue 34480 34482	OC
+T10	FactorValue 34498 34501	NET
+T11	FactorValue 34559 34562	HYP
+T12	SampleTreatment 34626 34639	control group
+T13	SampleTreatment 34641 34645	CTRL
+*	Equiv T12 T13
+T14	FactorValue 34641 34645	CTRL
+T15	NumberOfTechnicalReplicates 34673 34683	Triplicate
+T16	AcquisitionMethod 39613 39616	DDA
+T17	AcquisitionMethod 39585 39599	data-dependent
+*	Equiv T17 T16
+T18	CleavageAgent 37908 37920	Trypsin/LysC
+T19	Instrument 38705 38742	Q-Exactive Hybrid Quadrupole-Orbitrap
+T20	Separation 38666 38689	UltiMate TM 3000 system
+T21	IonizationType 39801 39804	ESI
+T22	FragmentationMethod 39701 39704	HCD
+T23	PrecursorMassTolerance 40944 40950	10 ppm
+T24	FragmentMassTolerance 40974 40981	0.02 Da
+T25	NumberOfMissedCleavages 41016 41019	two
+T26	Modification 41124 41153	Cysteine carbamidomethylation
+A1	Modification T26 fixed
+T27	Label 41598 41608	label-free
+T28	Modification 41192 41212	Methionine oxidation
+A2	Modification T28 variable
+T29	Modification 41222 41244	N-terminus acetylation
+T30	Modification 41250 41268	loss of methionine
+T31	Modification 41273 41288	Met-loss+Acetyl
+A3	Modification T29 variable
+A4	Modification T30 variable
+A5	Modification T31 variable

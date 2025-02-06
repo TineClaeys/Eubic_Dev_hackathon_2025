@@ -1,0 +1,41 @@
+T1	OrganismPart 3647 3652	liver
+T2	OrganismPart 5556 5561	liver
+T3	OrganismPart 5927 5932	liver
+T4	OrganismPart 26280 26285	liver
+T5	OrganismPart 32782 32787	liver
+T6	OrganismPart 33915 33920	liver
+T7	OrganismPart 40789 40794	liver
+T8	Sex 39758 39762	Male
+T9	Age 15601 15609	eighteen
+T10	Age 15966 15974	eighteen
+T11	Age 16214 16222	eighteen
+T12	Age 17400 17403	one
+T13	Age 17407 17411	nine
+T14	Age 20060 20068	eighteen
+T15	Age 20624 20632	eighteen
+T16	Age 26901 26909	eighteen
+T17	Age 35788 35792	nine
+T18	Age 35811 35815	five
+T19	Age 40436 40438	18
+T20	Age 40430 40431	9
+T21	Age 40551 40552	9
+T22	Age 40557 40559	18
+T23	Age 41002 41003	9
+T24	Age 41008 41010	18
+T25	Age 41909 41910	n
+T26	Age 42044 42052	eighteen
+T27	Age 49214 49222	eighteen
+T28	Instrument 45101 45120	Orbitrap Q-Exactive
+T29	CleavageAgent 45072 45079	trypsin
+T30	Disease 524 555	nduced hepatocellular carcinoma
+T31	Disease 557 560	HCC
+*	Equiv T30 T31
+T32	Disease 3399 3423	hepatocellular carcinoma
+T33	Disease 3425 3428	HCC
+*	Equiv T32 T33
+T34	Disease 4448 4472	hepatocellular carcinoma
+T35	Disease 4655 4679	hepatocellular carcinoma
+T36	Disease 5063 5087	hepatocellular carcinoma
+T37	Disease 31131 31155	hepatocellular carcinoma
+T38	Disease 39370 39394	hepatocellular carcinoma
+T39	Disease 4841 4850	untreated

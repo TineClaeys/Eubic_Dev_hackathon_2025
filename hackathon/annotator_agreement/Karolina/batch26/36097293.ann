@@ -1,0 +1,16 @@
+T1	Organism 549 573	Saccharomyces cerevisiae
+T2	Separation 51030 51050	EASY-nLC 1200 system
+T3	Instrument 50939 50962	Orbitrap Fusion Tribrid
+T4	MS2MassAnalyzer 51744 51752	ion trap
+T5	FragmentationMethod 51597 51600	CID
+T6	PrecursorMassTolerance 51947 51953	10 ppm
+T7	CleavageAgent 50138 50145	trypsin
+T8	EnrichmentMethod 50312 50341	size exclusion chromatography
+T9	EnrichmentMethod 50343 50346	SEC
+*	Equiv T8 T9
+T10	NumberOfFractions 50506 50510	four
+T11	NumberOfTechnicalReplicates 50548 50558	duplicates
+T12	FactorValue 49274 49324	1.5 mM isotopically labeled crosslinking reagent A
+T13	FactorValue 49406 49455	1.5 mM isotopically labeled Crosslinker reagent B
+T14	FactorValue 49575 49595	without crosslinking
+T15	Label 49281 49301	isotopically labeled

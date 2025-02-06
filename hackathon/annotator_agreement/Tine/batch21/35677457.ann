@@ -1,0 +1,45 @@
+T1	Organism 85 89	mice
+T2	Strain 200 204	Chr2
+T3	Disease 253 270	optic nerve crush
+T4	Disease 272 275	ONC
+T5	Treatment 219 236	light stimulation
+*	Equiv T3 T4
+T6	FactorValue 272 275	ONC
+T7	FactorValue 253 270	optic nerve crush
+T8	Label 540 557	TMTpro(TM) 16plex
+T9	CleavageAgent 630 637	trypsin
+T10	Separation 720 740	Easy-nLC 1000 liquid
+T11	Instrument 768 778	Q Exactive
+T12	Strain 1206 1220	Thy1-Chr2-eYFP
+T13	Strain 1230 1238	C57BL/6J
+T14	Disease 1239 1246	control
+T15	FactorValue 1239 1246	control
+T16	NumberOfSamples 2438 2440	36
+T17	NumberOfBiologicalReplicates 2399 2400	3
+T18	PooledSample 2642 2648	pooled
+T19	Strain 4966 4980	Thy1-Chr2-eYFP
+T20	Strain 4985 4993	C57BL/6J
+T21	Treatment 6298 6320	blue light stimulation
+T22	Treatment 6625 6645	no light stimulation
+T23	FactorValue 4966 4980	Thy1-Chr2-eYFP
+T24	FactorValue 4985 4993	C57BL/6J
+T25	FactorValue 6298 6320	blue light stimulation
+T26	FactorValue 6625 6645	no light stimulation
+T27	CleavageAgent 7407 7414	trypsin
+T28	Label 7519 7522	TMT
+T29	NumberOfBiologicalReplicates 7593 7598	three
+T30	NumberOfBiologicalReplicates 7550 7552	12
+T31	CollisionEnergy 9208 9210	32
+T32	NumberOfMissedCleavages 9527 9528	2
+T33	PrecursorMassTolerance 9598 9604	10 ppm
+T34	FragmentMassTolerance 9636 9643	0.02 Da
+T35	Modification 9687 9696	oxidation
+A1	Modification T35 variable
+T36	Modification 9698 9709	acetylation
+A2	Modification T36 variable
+T37	Modification 9711 9731	carbamidomethylation
+A3	Modification T37 variable
+T38	Modification 9737 9743	TMTpro
+A4	Modification T38 variable
+T39	IonizationType 8663 8677	EASY-Spray(TM)
+T40	Instrument 8698 8708	Q Exactive

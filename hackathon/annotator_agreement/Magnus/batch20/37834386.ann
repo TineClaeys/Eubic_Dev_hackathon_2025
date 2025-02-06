@@ -1,0 +1,33 @@
+T1	Disease 24 38	Bladder Cancer
+T2	Disease 151 154	BCa
+*	Equiv T2 T1
+T3	Disease 395 398	BCa
+T4	TumorStage 385 394	low-stage
+T5	TumorGrade 371 380	low-grade
+T6	Disease 560 563	BCa
+T7	Disease 831 834	BCa
+T8	Disease 1464 1467	BCa
+T9	Disease 1194 1197	BCa
+T10	TumorGrade 1159 1168	low-grade
+T11	TumorGrade 1183 1193	high-grade
+T12	TumorStage 1146 1158	non-invasive
+T13	TumorStage 1174 1182	invasive
+T14	Label 37144 37154	label-free
+T15	AcquisitionMethod 37155 37171	data-independent
+T16	NumberOfSamples 37193 37195	18
+T17	NumberOfBiologicalReplicates 37251 37252	6
+T18	FactorValue 37280 37286	Ta, G1
+T19	FactorValue 37302 37311	T1, G2-G3
+T20	FactorValue 37330 37339	T2-T3, G3
+T21	Organism 37342 37350	Patients
+T22	OrganismPart 37564 37569	urine
+T23	Disease 37583 37586	BCa
+T24	Organism 37587 37595	patients
+T25	OrganismPart 38510 38515	urine
+T26	OrganismPart 38571 38576	urine
+T27	OrganismPart 38159 38164	urine
+T28	OrganismPart 38280 38285	urine
+T29	OrganismPart 37795 37800	urine
+T30	OrganismPart 37632 37637	urine
+T31	OrganismPart 37869 37874	urine
+T33	OrganismPart 39894 39940	SYNAPT G2-Si High Definition Mass Spectrometer

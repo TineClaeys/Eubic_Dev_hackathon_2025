@@ -1,0 +1,17 @@
+T1	Organism 27 32	Human
+T2	OrganismPart 33 38	Heart
+T3	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T4	Disease 432 453	mitral valve prolapse
+T5	Disease 455 458	MVP
+*	Equiv T4 T5
+T6	OrganismPart 713 724	right atria
+T7	OrganismPart 726 728	RA
+T8	Organism 732 741	eft atria
+T9	Organism 743 745	LA
+T10	Organism 767 769	LV
+T11	Organism 751 765	left ventricle
+*	Equiv T6 T7
+*	Equiv T8 T9
+T12	NumberOfSamples 774 779	seven
+T13	Sex 780 784	male
+T14	Disease 831 862	dilated LA but no history of AF

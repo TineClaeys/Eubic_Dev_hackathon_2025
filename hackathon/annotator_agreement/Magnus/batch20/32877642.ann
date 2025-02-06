@@ -1,0 +1,67 @@
+T1	Organism 53 63	SARS-CoV-2
+T2	Organism 833 843	SARS-CoV-2
+T3	Organism 1100 1110	SARS-CoV-2
+T4	Disease 303 323	SARS-CoV-2 infection
+T5	Disease 362 382	SARS-CoV-2 infection
+T6	Disease 78 99	SARS-CoV-2 infections
+T7	Disease 1018 1038	SARS-CoV-2 infection
+T8	Disease 1157 1165	COVID-19
+T9	Organism 897 902	viral
+T10	Organism 925 930	viral
+T11	Organism 478 483	viral
+T12	Organism 405 410	human
+T13	CellLine 31365 31371	CaCo-2
+T14	Organism 31415 31425	SARS-CoV-2
+T15	Organism 31439 31444	Virus
+T16	Organism 32403 32408	viral
+T17	Organism 32511 32516	Viral
+T18	Organism 33405 33410	viral
+T19	Organism 33462 33467	viral
+T20	CellType 31654 31660	Caco-2
+T21	CellType 32371 32377	CaCo-2
+T22	CellType 32144 32152	UKF-RC-2
+T23	CellType 32289 32297	UKF-RC-2
+T24	CellType 34335 34341	Caco-2
+T25	SamplingTime 33675 33679	48 h
+T26	Organism 33586 33596	SARS-CoV-1
+T27	Label 34983 34994	TMT labeled
+T28	FractionationFraction 35944 35946	5%
+T29	FractionationFraction 35948 35952	7.5%
+T30	FractionationFraction 35954 35957	10%
+T31	FractionationFraction 35959 35964	12.5%
+T32	FractionationFraction 35966 35969	15%
+T33	FractionationFraction 35971 35976	17.5%
+T34	FractionationFraction 35978 35981	20%
+T36	FractionationFraction 35983 35986	50%
+T35	NumberOfFractions 35993 35998	eight
+T37	NumberOfFractions 36032 36036	four
+T38	NumberOfFractions 36588 36590	96
+T39	NumberOfFractions 36637 36639	24
+T40	Label 36216 36227	TMT-labeled
+T41	FractionationMethod 36329 36332	C18
+T42	FractionationMethod 35667 35670	C18
+T43	FractionationMethod 35625 35627	C1
+T44	Instrument 36787 36808	Orbitrap Fusion Lumos
+T45	Chromatography 36844 36874	easy-nLC 1200 nano HPLC system
+T46	IonizationType 36883 36902	nanoFlex ion source
+T47	Separation 37209 37212	C18
+T48	AcquisitionMethod 38070 38076	Top 20
+T49	FragmentationMethod 38278 38281	CID
+T50	MS2MassAnalyzer 38170 38178	Ion trap
+T51	AcquisitionMethod 38331 38338	SPS-MS3
+T52	AcquisitionMethod 39332 39338	Top 20
+T53	Organism 40266 40278	Homo sapiens
+T54	CleavageAgent 40249 40256	trypsin
+T55	Organism 40299 40309	SARS-CoV-2
+T56	Label 40375 40379	TMT6
+T57	Modification 40547 40560	Oxidation (M)
+A1	Modification T57 variable
+T58	Modification 40562 40579	Phospho (S, T, Y)
+A2	Modification T58 variable
+T59	Modification 40581 40610	Met-loss (Protein N terminus)
+A3	Modification T59 variable
+T60	Modification 40612 40639	Acetyl (Protein N terminus)
+A4	Modification T60 variable
+T61	Modification 40644 40680	Met-loss acetyl (Protein N terminus)
+A5	Modification T61 variable
+T62	OutOfScope 40744 40799	phosphorylation was not allowed as dynamic modification

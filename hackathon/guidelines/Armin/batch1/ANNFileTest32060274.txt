@@ -1,0 +1,29 @@
+T1	Biomarker 0 27	        Immunoproteasome expression
+T2	Outcome 49 67	        better prognosis
+T3	Treatment 84 106	    checkpoint therapies
+T4	Disease 110 118	    melanoma
+T5	Gene 130 136	        PSMB8
+T6	Gene 141 147	        PSMB9
+T7	Treatment 155 185	    immune-checkpoint inhibitors
+T8	AnalysisMethod 210 226	HLA peptidomics
+T9	Cytokine 310 327	    interferon gamma
+T10	Cytokine 329 337	    IFNgamma
+R1	Equiv T9 T10
+T11	DataSource 450 454	    TCGA
+T12	DataSource 460 483	    GTEX healthy controls
+T13	StatisticalAnalysis 520 538	Kaplan–Meier plot
+T14	ComputationalTool 545 556	CIBERSORT
+T15	Outcome 600 616	    improved survival
+T16	Outcome 618 660	    better response to immune-checkpoint inhibitors
+T17	FactorValue 680 693	    overexpression
+T18	FactorValue 695 697	    OE
+T19	FactorValue 699 701	    EV
+T20	CellLine 720 723	    12T
+T21	CellLine 725 730	    108T
+T22	CellLine 732 737	    A375
+T23	CellPopulation 740 768	tumor infiltrating lymphocytes
+T24	Treatment 850 868	    anti-CTLA4 therapy
+T25	Treatment 870 888	    anti-PD1 therapy
+T26	SupplementaryFile 950 971	Supplementary Table 1
+T27	SupplementaryFile 975 998	Supplementary Table 2
+T28	SupplementaryFile 1000 1018	Supplementary Fig. 1

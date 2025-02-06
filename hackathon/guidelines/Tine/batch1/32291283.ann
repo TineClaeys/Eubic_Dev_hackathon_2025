@@ -1,0 +1,54 @@
+T1	Organism 27 32	Human
+T2	OrganismPart 33 38	Heart
+T3	Disease 107 154	Dilated Left Atrium Without Atrial Fibrillation
+T4	Disease 432 453	mitral valve prolapse
+T5	Disease 455 458	MVP
+*	Equiv T4 T5
+T6	OrganismPart 713 724	right atria
+T7	OrganismPart 726 728	RA
+T8	OrganismPart 731 741	left atria
+T9	OrganismPart 743 745	LA
+T10	OrganismPart 751 765	left ventricle
+T11	OrganismPart 767 769	LV
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T10 T11
+T12	NumberOfSamples 774 779	seven
+T13	Sex 780 784	male
+T14	Disease 831 862	dilated LA but no history of AF
+T15	Instrument 1055 1077	Q-Exactive-HF Orbitrap
+T16	FractionationMethod 976 1025	reverse phase high-pressure liquid chromatography
+T17	SupplementaryFile 5897 5920	Supplementary Materials
+T18	NumberOfBiologicalReplicates 5990 5995	seven
+T19	OrganismPart 6065 6067	LA
+T20	OrganismPart 6069 6071	RA
+T21	OrganismPart 6073 6075	LV
+T22	NumberOfSamples 6087 6089	21
+T23	NumberOfFractions 6116 6118	12
+T24	NumberOfTechnicalReplicates 6196 6198	No
+T25	NumberOfBiologicalReplicates 6522 6527	three
+T26	ReductionReagent 8466 8495	Tris(2-carboxyethyl)phosphine
+T27	AlkylationReagent 8513 8528	chloroacetamide
+T28	ReductionReagent 8497 8501	TCEP
+*	Equiv T26 T28
+T29	AlkylationReagent 8530 8533	CAA
+*	Equiv T27 T29
+T30	FactorValue 6065 6067	LA
+T31	FactorValue 6069 6071	RA
+T32	FactorValue 6073 6075	LV
+T33	CleavageAgent 8668 8673	Lys-C
+T34	CleavageAgent 8843 8850	trypsin
+T35	FractionationFraction 8988 8995	Soluble
+T36	FractionationMethod 9206 9270	micro-flow reverse-phase ultrahigh pressure liquid chromatograpy
+T37	FractionationMethod 9272 9276	UPLC
+*	Equiv T36 T37
+T38	Separation 9637 9680	online reversed-phase liquid chromatography
+T39	Instrument 9694 9727	Q-Exactive HF quadrupole Orbitrap
+T40	IonizationType 10479 10507	nano-electrospray ionization
+T41	AcquisitionMethod 10751 10765	data-dependent
+T42	FragmentationMethod 10867 10905	higher-energy collisional dissociation
+T43	FragmentationMethod 10907 10910	HCD
+*	Equiv T42 T43
+T44	Label 11397 11407	label-free
+T45	Label 11424 11427	LFQ
+*	Equiv T44 T45

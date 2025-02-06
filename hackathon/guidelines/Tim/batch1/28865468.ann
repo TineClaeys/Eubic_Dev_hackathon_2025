@@ -1,0 +1,71 @@
+T1	Disease 107 155	Alzheimer's disease with cerebrovascular disease
+T2	Disease 304 352	Alzheimer's disease with cerebrovascular disease
+T3	Disease 354 362	AD + CVD
+*	Equiv T2 T3
+T4	Separation 1012 1094	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T5	Disease 1281 1289	AD + CVD
+T6	Disease 1294 1314	age-matched controls
+T7	FractionationFraction 1203 1210	soluble
+T8	FractionationFraction 1215 1226	particulate
+T9	Disease 1396 1404	AD + CVD
+T10	FractionationFraction 1476 1483	soluble
+T11	Disease 1496 1504	AD + CVD
+T12	FractionationFraction 1584 1595	particulate
+T13	Disease 1608 1616	AD + CVD
+T14	FractionationFraction 1695 1702	soluble
+T15	FractionationFraction 1923 1934	particulate
+T16	Disease 1948 1956	AD + CVD
+T17	Disease 2283 2291	AD + CVD
+T18	CleavageAgent 8182 8215	sequencing-grade-modified trypsin
+T19	Disease 8288 8296	AD + CVD
+T20	Disease 8301 8328	healthy age-matched control
+T21	Disease 8330 8334	Ctrl
+*	Equiv T21 T20
+T22	OrganismPart 8367 8387	middle temporal lobe
+T23	OrganismPart 8389 8400	BA21 region
+T24	Disease 8575 8583	AD + CVD
+T25	SupplementaryFile 8728 8755	Additional file 1: Table S1
+T26	NumberOfBiologicalReplicates 8757 8762	Three
+T27	FractionationFraction 8860 8867	soluble
+T28	FractionationFraction 8872 8883	particulate
+T29	OrganismPart 9016 9033	BA21 brain region
+T30	FractionationFraction 10291 10298	soluble
+T31	FractionationFraction 10303 10314	particulate
+T32	Separation 10334 10342	UC-ERLIC
+T33	Separation 1096 1104	UC-ERLIC
+*	Equiv T4 T33
+T34	FractionationFraction 10343 10350	Soluble
+T35	FractionationFraction 10355 10366	particulate
+T36	Separation 10423 10505	ultracentrifugation-electrostatic repulsion hydrophilic interaction chromatography
+T37	Separation 10507 10515	UC-ERLIC
+*	Equiv T36 T37
+T38	CleavageAgent 11352 11381	In-solution tryptic digestion
+T39	FractionationFraction 11406 11413	Soluble
+T40	FractionationFraction 11422 11423	i
+T41	CleavageAgent 11456 11485	in-solution tryptic digestion
+T42	AlkylationReagent 11658 11672	dithiothreitol
+T43	AlkylationReagent 11674 11677	DTT
+*	Equiv T43 T42
+T44	AlkylationReagent 11744 11757	iodoacetamide
+T45	AlkylationReagent 11897 11900	DTT
+T46	CleavageAgent 12037 12070	sequencing-grade-modified trypsin
+T47	FractionationFraction 13148 13168	sarcosyl particulate
+T48	CleavageAgent 13906 13939	sequencing-grade-modified trypsin
+T49	AlkylationReagent 13540 13543	DTT
+T50	Chromatography 14445 14459	PolyWAX column
+T51	Chromatography 14517 14548	Shimadzu Prominence UFLC system
+T52	Instrument 15295 15309	Orbitrap Elite
+T53	Chromatography 15343 15376	Dionex UltiMate 3000 UHPLC system
+T54	Chromatography 15485 15524	reverse phase Acclaim PepMap RSL column
+T55	Instrument 16297 16311	Orbitrap Elite
+T56	FragmentationMethod 16799 16835	high-energy collisional dissociation
+T57	FragmentationMethod 16837 16840	HCD
+*	Equiv T57 T56
+T58	Modification 17294 17326	Carbamidomethylation of cysteine
+A1	Modification T58 fixed
+T59	FractionationFraction 17633 17644	particulate
+T60	FractionationFraction 17964 17971	soluble
+T61	FractionationFraction 17976 17987	particulate
+T62	Disease 18152 18160	AD + CVD
+T63	Disease 18483 18491	AD + CVD
+T64	Disease 18936 18944	AD + CVD

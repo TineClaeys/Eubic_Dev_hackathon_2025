@@ -1,0 +1,42 @@
+T1	Organism 6412 6424	Oryza sativa
+T2	OrganismPart 9199 9203	leaf
+T3	OrganismPart 10596 10600	leaf
+T4	OrganismPart 10450 10454	leaf
+T5	OrganismPart 15049 15053	leaf
+T6	OrganismPart 15131 15135	leaf
+T7	OrganismPart 36499 36503	leaf
+T8	OrganismPart 36673 36677	leaf
+T9	OrganismPart 37073 37077	leaf
+T11	Disease 172 201	Xanthomonas oryzae pv. oryzae
+T12	Disease 6600 6629	Xanthomonas oryzae pv. oryzae
+T13	Disease 203 206	Xoo
+*	Equiv T11 T13
+T14	Disease 6631 6634	Xoo
+*	Equiv T12 T14
+T10	Disease 36129 36158	Xanthomonas oryzae pv. oryzae
+T15	Disease 36160 36163	Xoo
+T16	Strain 35921 35926	IRBB5
+T17	Strain 36012 36017	IRBB5
+T18	Strain 36184 36189	IRBB5
+T19	Strain 36376 36381	IRBB5
+T20	Strain 36778 36783	IRBB5
+T21	Strain 37725 37730	IRBB5
+T22	Strain 8338 8343	IRBB5
+T23	Strain 8395 8400	IRBB5
+T24	Strain 8447 8452	IRBB5
+T25	Strain 8529 8534	IRBB5
+T26	Strain 8574 8579	IRBB5
+T27	Strain 8683 8688	IRBB5
+T28	Strain 8843 8848	IRBB5
+T29	Strain 9130 9135	IRBB5
+T30	Strain 9040 9045	IRBB5
+T31	Strain 10466 10471	IRBB5
+T32	Strain 41587 41592	IRBB5
+T33	Instrument 39891 39901	Q Exactive
+T34	CleavageAgent 38895 38902	trypsin
+T35	CleavageAgent 40477 40484	trypsin
+T36	Modification 40407 40422	Carbamidomethyl
+T37	Modification 40309 40318	Oxidation
+T38	Modification 40324 40330	Acetyl
+T39	Modification 40353 40360	Phospho
+T40	PrecursorMassTolerance 40231 40237	20 ppm

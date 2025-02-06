@@ -1,0 +1,51 @@
+T1	AcquisitionMethod 72799 72813	data-dependent
+T2	SampleTreatment 411 432	non-lethal heat shock
+T3	Label 6655 6660	SILAC
+T4	Treatment 7842 7852	heat shock
+T5	Treatment 7869 7879	mock shock
+T6	FactorValue 7842 7852	heat shock
+T7	FactorValue 7869 7879	mock shock
+T8	Label 8189 8192	TMT
+T9	Treatment 8898 8905	control
+T10	FactorValue 8898 8905	control
+T11	Treatment 9169 9179	heat shock
+T12	SamplingTime 9590 9619	directly after heat treatment
+T13	SamplingTime 9643 9644;9658 9659	1 h
+T14	SamplingTime 9646 9647;9658 9659	2 h
+T15	SamplingTime 9649 9650;9658 9659	3 h
+T17	CleavageAgent 9815 9832	tryptic digestion
+T18	Label 9861 9869	TMT tags
+T19	CleavageAgent 68966 68973	trypsin
+T20	CleavageAgent 69006 69011	Lys-C
+T21	SampleTreatment 69806 69826	mock-shocked samples
+T22	SampleTreatment 69871 69888	pre-shock control
+T23	SampleTreatment 69893 69913	heat-shocked samples
+T24	SamplingTime 69828 69838	mock shock
+T25	SamplingTime 69840 69841;69855 69856	1 h
+T26	SamplingTime 69843 69844;69855 69856	2 h
+T27	SamplingTime 69846 69847;69855 69856	3 h
+T28	SamplingTime 69853 69856	5 h
+T16	SamplingTime 9656 9659	5 h
+T29	SamplingTime 69915 69925	heat shock
+T30	SamplingTime 69927 69928;69942 69943	1 h
+T31	SamplingTime 69930 69931;69942 69943	2 h
+T32	SamplingTime 69933 69934;69942 69943	3 h
+T33	SamplingTime 69940 69943	5 h
+T34	Separation 71157 71190	UltiMate 3000 RSLC nano LC system
+T35	Instrument 72162 72186	Q Exactive Plus Orbitrap
+T36	Instrument 72226 72247	Orbitrap Fusion Lumos
+T37	IonizationType 72266 72275	Nanospray
+T38	GradientTime 71867 71874	120 min
+T39	NumberOfMissedCleavages 73561 73566	three
+T40	FragmentMassTolerance 73585 73591	10 ppm
+T41	Modification 73640 73673	carbamidomethylation of cysteines
+T42	Modification 73678 73698	TMT labels on lysine
+A1	Modification T41 fixed
+T43	FragmentMassTolerance 73615 73622	0.02 Da
+A2	Modification T42 fixed
+T44	Modification 73723 73748	acetylation of N-terminus
+A3	Modification T44 variable
+T45	Modification 73750 73770	methionine oxidation
+A4	Modification T45 variable
+T46	Modification 73776 73799	TMT label on N-terminus
+A5	Modification T46 variable

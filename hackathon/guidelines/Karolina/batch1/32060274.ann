@@ -1,0 +1,24 @@
+T1	Disease 104 112	melanoma
+T2	DiseaseTreatment 80 100	checkpoint therapies
+T6	DiseaseTreatment 1019 1040	checkpoint inhibitors
+T3	DiseaseTreatment 141 164	immunotherapy treatment
+T4	AcquisitionMethod 44885 44899	data-dependent
+T5	FragmentationMethod 44945 44983	higher-energy collisional dissociation
+T7	FragmentationMethod 44985 44988	HCD
+*	Equiv T5 T7
+T8	IonizationType 44626 44638	electrospray
+T9	Instrument 44670 44685	Q-Exactive-Plus
+T10	GradientTime 44771 44774	2 h
+T11	NumberOfTechnicalReplicates 42782 42787	three
+T12	SampleTreatment 42851 42863	empty vector
+T13	SampleTreatment 42865 42891	overexpression and treated
+T14	SampleTreatment 42893 42910	non-treated cells
+T15	EnrichmentMethod 43413 43436;43457 43484;43537 43582	immunoaffinity purified with the pan-HLA-I antibody covalently bound to Protein-A Sepharose beads
+T16	FactorValue 42851 42863	empty vector
+T17	FactorValue 42865 42891	overexpression and treated
+T18	FactorValue 42893 42910	non-treated cells
+T19	Separation 44531 44576	UltiMate 3000 RSLCnano-capillary UHPLC system
+T20	Modification 45638 45660	N-terminal acetylation
+A1	Modification T20 variable
+T21	Modification 45680 45700	methionine oxidation
+A2	Modification T21 variable

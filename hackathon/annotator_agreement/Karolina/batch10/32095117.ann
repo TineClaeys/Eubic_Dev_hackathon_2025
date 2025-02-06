@@ -1,0 +1,29 @@
+T1	OrganismPart 53 57	lung
+T9	CellLine 13727 13731	A549
+T2	SampleTreatment 13755 13764	siControl
+T3	FactorValue 13768 13781	siKMT9alpha#1
+T4	FactorValue 13755 13764	siControl
+T5	SampleTreatment 13768 13781	siKMT9alpha#1
+T6	ReductionReagent 14747 14761	dithiothreitol
+T7	ReductionReagent 14763 14766	DTT
+*	Equiv T6 T7
+T8	AlkylationReagent 14879 14894	2-iodoacetamide
+T10	AlkylationReagent 14896 14899	IAM
+*	Equiv T8 T10
+T11	Label 15980 15991	TMT-10-plex
+T12	FractionationMethod 16142 16179	high pH reversed phase chromatography
+T13	NumberOfFractions 16416 16418	24
+T14	NumberOfFractions 16466 16478	12 fractions
+T15	SpikedCompound 15882 15903	11 synthetic peptides
+T16	Instrument 17573 17606	Q-Exactive Plus mass spectrometer
+T17	Separation 16908 16938	EASY-nLC(TM) 1000 UHPLC system
+T18	AcquisitionMethod 17656 17670	data dependent
+T19	Disease 53 64	lung cancer
+T20	NumberOfMissedCleavages 18621 18624	two
+T21	CleavageAgent 15040 15047	trypsin
+T22	Modification 18706 18724	N-term acetylation
+A1	Modification T22 variable
+T23	Modification 18729 18752	oxidation of methionine
+A2	Modification T23 variable
+T24	Modification 18796 18828	carbamidomethylation of cysteine
+A3	Modification T24 fixed

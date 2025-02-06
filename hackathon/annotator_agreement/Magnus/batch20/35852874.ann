@@ -1,0 +1,22 @@
+T1	CellType 12 24	fibroblastic
+T2	CellType 1118 1126	basaloid
+T3	CellType 395 409	myofibroblasts
+T4	CellType 340 352	fibroblastic
+T5	Disease 118 140	interstitial pneumonia
+T6	Disease 142 145	UIP
+*	Equiv T6 T5
+T7	Disease 191 220	idiopathic pulmonary fibrosis
+T8	Disease 222 225	IPF
+*	Equiv T8 T7
+T9	Disease 1501 1509	fibrosis
+T10	Disease 930 938	fibrosis
+T11	Disease 1020 1031	nonfibrotic
+T12	OrganismPart 281 285	lung
+T13	CleavageAgent 35228 35235	trypsin
+T14	Instrument 36134 36147	Q Exactive HF
+T15	Modification 36531 36551	methionine oxidation
+A1	Modification T15 variable
+T16	Modification 36556 36578	N-terminal acetylation
+A2	Modification T16 variable
+T17	Modification 36609 36641	carbamidomethylation of cysteine
+A3	Modification T17 fixed
