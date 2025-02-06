@@ -18,5 +18,5 @@ After loading the supplementary tables, columns whose names match entity names o
 
 Extracted information are saved into a .json file.
 
-### Limitation
+### Limitations
 This supplement parser is currently only able to extract information from tables. Information included in descriptive text passages cannot be parsed.
