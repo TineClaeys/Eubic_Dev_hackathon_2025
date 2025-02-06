@@ -1,0 +1,114 @@
+{
+    "origin file": "https://github.com/bigbio/proteomics-sample-metadata/blob/master/annotated-projects/PXD017710/PXD017710-tmt.sdrf.tsv",
+
+    "samples": {
+        "sample 1" : {
+            "name": "Sample 1",
+            "biological replicate": "1",
+            "infection": "bridge mixed pool",
+            "time": "none",
+        },
+        "sample 2" : {
+            "name": "Sample 2",
+            "biological replicate": "1",
+            "infection": "none",
+            "time": "2 hour",
+        }, 
+        ... , 
+        "sample 9" : {
+            
+        }
+    },
+
+    "runs": {
+        "run 1": {
+            "assays" : [
+                {
+                    "sample": "sample 1",
+                    "label": "TMT131",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "bridge mixed pool",
+                        "time": "none"
+                    }
+                },
+                {
+                    "sample": "sample 2",
+                    "label": "TMT127N",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "infect": "none",
+                        "time": "2 hour"
+                    }
+                },
+                ...
+            ],
+            "file uri": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F1.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F1.raw"
+        },
+        "run 2": {
+            "assays" : [
+                {
+                    "sample": "sample 1",
+                    "fraction": "2",
+                    "technical replicate": "1"
+                },
+                {
+                    "sample": "sample 2",
+                    "fraction": "2",
+                    "technical replicate": "1",
+                },
+                ...
+            ],
+            "file": "https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/03/PXD017710/20200219_KKL_SARS_CoV2_pool1_F2.raw",
+            "data file": "20200219_KKL_SARS_CoV2_pool1_F2.raw"
+        }
+    },
+    
+    "factor values": {
+        "infect": {
+            "desc": "blabla",
+        },
+        "time": {
+            "desc": "blabal"
+        }
+    },
+
+    "sample characteristics": {
+        "sample_chara_1": {
+            "apply": "ALL",
+            "organism": "Homo sapiens",
+            "organism part": "colon",
+            "sex": "male",
+            "age": "72 years",
+            "developmental stage": "adult",
+            "ancestry category": "caucasian",
+            "cell taype": "not available",
+            "disease": "colon cancer",
+            "cell line": "CaCo-2",
+            "material type": "cell",
+            "technology type": "proteomic profiling by mass spectrometry"
+        }
+    },
+
+    "assay characteristics": {
+        "charas": {
+            "apply": "ALL",
+            "instrument": "NT=Q Exactive HF",
+            "modification parameters": [
+                "NT=TMT6plex;PP=Any N-term;AC=UNIMOD:737;MT=fixed",
+                "NT=Carbamidomethyl;TA=C;AC=UNIMOD:4;MT=fixed",
+                "NT=Oxidation;TA=M;AC=UNIMOD:35;MT=variable",
+                "NT=13C6-15N4;TA=R;AC=UNIMOD:267;MT=variable"
+            ],
+            "cleavage agent details": [
+                "NT=Trypsin",
+                "NT=Lys-C"
+            ],
+            "fragment mass tolerance": "not available",
+            "precursor mass tolerance": "not available"
+        }
+    }
+}
