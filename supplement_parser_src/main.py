@@ -2,7 +2,7 @@ from src.read_file import read_supplementary_file
 from src.match_entities import match_entities
 
 def main():
-    PATH = PATH = "/Users/webermac/Downloads/Hackathon_Mind_the_Gap/12974_2017_946_MOESM1_ESM.docx"
+    PATH = #input test file
     supp_table_list = read_supplementary_file(PATH)
     found_entities = match_entities(supp_table_list)
     print(found_entities)
