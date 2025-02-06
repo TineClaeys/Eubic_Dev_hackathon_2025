@@ -9,4 +9,4 @@ A draft annotation.conf has been added to this repo, it contains entities based 
 
 https://mindthegap.cubimed.rub.de/
 
-![alt text](https://github.com/[TineClaeys]/[Eubic_Dev_hackathon_2025]/blob/master/flowchart-of-plans.png?raw=true)
+![alt text](https://github.com/TineClaeys/Eubic_Dev_hackathon_2025/blob/master/flowchart-of-plans.png?raw=true)
