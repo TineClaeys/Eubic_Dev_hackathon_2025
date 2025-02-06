@@ -1,0 +1,25 @@
+T1	Title	0	47	Proteomic Atlas of the Human Brain in Alzheimer's Disease	Explicit
+T2	OrganismPart	107	112	brain	Explicit
+T3	Disease	226	246	Alzheimer's disease (AD)	Explicit
+T4	Instrument	531	556	mass spectrometry	Explicit
+T5	Disease	721	724	AD	Explicit
+T6	Protein	880	883	tau	Explicit
+T7	SampleTreatment	1025	1030	dry ice	Explicit
+T8	EnrichmentMethod	1095	1106	stained	Explicit
+T9	Modification	1142	1169	alpha-phosphorylated tau	Explicit
+T10	CleavageAgent	1528	1535	Trypsin	Explicit
+T11	ReductionReagent	1621	1624	TCEP	Explicit
+T12	AlkylationReagent	1630	1633	CAA	Explicit
+T13	FractionationMethod	1782	1786	HPLC	Explicit
+T14	Instrument	1788	1813	Agilent, Infinity 2000	Explicit
+T15	FractionationMethod	1865	1867	C18	Explicit
+T16	FlowRateChromatogram	2338	2346	0.35 ul/min	Explicit
+T17	GradientTime	2389	2392	75 min	Explicit
+T18	Instrument	2445	2470	Thermo Orbitrap Fusion Lumos	Explicit
+T19	PrecursorMassTolerance	2661	2666	25ppm	Explicit
+T20	FragmentationMethod	2684	2709	Tandem MS	Explicit
+T21	CollisionEnergy	2734	2736	30	Explicit
+T22	MS2MassAnalyzer	2765	2771	rapid	Explicit
+T23	Software	2811	2820	MaxQuant	Explicit
+T24	TechnologyType	2901	2914	label-free	Explicit
+T25	SupplementaryFile	3218	3226	PXD010603	Explicit
