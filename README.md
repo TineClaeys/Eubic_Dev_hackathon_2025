@@ -8,3 +8,5 @@ Annotationday_2101 contains folders per annotator with three batches. Each annot
 A draft annotation.conf has been added to this repo, it contains entities based on SDRF columns, attribute for modification type and the relationship between factor value and number of samples. This should be updated. 
 
 https://mindthegap.cubimed.rub.de/
+
+![alt text](https://github.com/[TineClaeys]/[Eubic_Dev_hackathon_2025]/blob/master/flowchart-of-plans.emf?raw=true)
