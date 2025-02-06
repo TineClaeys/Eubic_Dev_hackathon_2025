@@ -16,7 +16,9 @@ Example:
 ### Extraction of sample relevant information
 After loading the supplementary tables, columns whose names match entity names or allowed synonyms are extracted. Entity name synonyms are replaced with the entity names (e.g. *mass spectrometer* will be replaced with *Instrument*).
 
+Protein expression tables will not be considered relevant for metadata information extraction.
+
 Extracted information are saved into a .json file.
 
 ### Limitation
-This supplement parser is currently only able to extract information from tables. Information included in descriptive text passages cannot be parsed.
+This supplement parser is currently only able to extract information from tables. Information included in descriptive text passages cannot be parsed and will be saved as a separate .txt file. 
