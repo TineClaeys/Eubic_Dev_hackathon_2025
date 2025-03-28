@@ -1,0 +1,49 @@
+T1	Organism: Homo sapiens
+T2	Organism: Capsaspora owczarzaki
+T3	Organism: Physcomitrella patens
+T4	Organism: Sycon ciliatum
+T5	Organism: Phytophthora infestans
+T6	Organism: Corallochytrium limacisporum
+T7	Organism: Creolimax fragrantissima
+T8	Organism: Spizellomyces punctatus
+T9	Organism: Thecamonas trahens
+T10	Organism: Chlamydomonas reinhardtii
+T11	Organism: Guillardia theta
+T12	Organism: Emiliania huxleyi
+T13	Organism: Thalassiosira pseudonana
+T14	Organism: Bigelowiella natans
+T15	Organism: Naegleria gruberi
+T16	Organism: Gefionella okellyi
+T17	Organism: Fabomonas tropica
+T18	Organism: Methanobrevibacter cuticularis
+T19	Organism: Methanospirillum stamsii
+T20	Organism: Methanosarcina spelaei
+T21	Organism: Nitrososphaera viennensis
+T22	OrganismPart: cells
+T23	OrganismPart: tissue
+T24	Instrument: LTQ-Orbitrap Fusion Lumos mass spectrometer
+T25	Instrument: EASY-nLC 1000
+T26	AcquisitionMethod: data dependent acquisition
+T27	CleavageAgent: trypsin
+T28	EnrichmentMethod: C18 ultramicrospin columns
+T29	SampleTreatment: derivatized with propionic anhydride
+T30	SampleTreatment: derivatized again with phenylisocyanate
+T31	SampleTreatment: digested with trypsin
+T32	SampleTreatment: acid histone extraction
+T33	SampleTreatment: high-salt + HCl extraction protocol
+T34	SampleTreatment: resuspended in High Salt Extraction Buffer
+T35	SampleTreatment: resuspended in 0.4N H2SO4
+T36	SampleTreatment: trichloroacetic Acid precipitation
+T37	Modification: Propionylation on N-terminal
+T38	Modification: Propionylation on Lysines
+T39	Modification: Phenylisocyanate on N-terminal
+T40	Modification: Dimethyl lysine
+T41	Modification: trimethyl lysine
+T42	Modification: propionyl + methyl lysine
+T43	Modification: acetyl lysine
+T44	Modification: crotonyl lysine
+T45	Label: Phenylisocyanate
+T46	IonizationType: positive ionization
+T47	MS2MassAnalyzer: Orbitrap
+T48	PrecursorMassTolerance: 7 ppm
+T49	NumberOfMissedCleavages: 5
