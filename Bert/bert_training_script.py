@@ -4,7 +4,6 @@ import torch
 from torch.utils.data import Dataset, DataLoader
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import AdamW, get_linear_schedule_with_warmup
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from seqeval.metrics import f1_score, precision_score, recall_score, classification_report
 import argparse
 from tqdm import tqdm
