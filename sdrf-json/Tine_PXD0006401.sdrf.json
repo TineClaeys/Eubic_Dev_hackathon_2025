@@ -1,0 +1,524 @@
+{
+    "origin file": "https://github.com/bigbio/proteomics-sample-metadata/blob/c3a56b076ef381280dfcb0140d2520126ace53ff/annotated-projects/PXD006401/sdrf.tsv",
+
+    "samples": {
+        "sample 1" : {
+            "name": "Sample 1",
+            "biological replicate": "1"
+        },
+        "sample 2" : {
+            "name": "Sample 2",
+            "biological replicate": "2"
+        }, 
+        "sample 3" : {
+            "name": "Sample 3",
+            "biological replicate": "3"
+        },
+        "sample 4" : {
+            "name": "Sample 4",
+            "biological replicate": "2"
+        },
+        "sample 5" : {
+            "name": "Sample 5",
+            "biological replicate": "3"
+        },
+        "sample 6" : {
+            "name": "Sample 6",
+            "biological replicate": "2"
+        },
+        "sample 7" : {
+            "name": "Sample 7",
+            "biological replicate": "3"
+        },
+        "sample 8" : {
+            "name": "Sample 8",
+            "biological replicate": "2"
+        },
+        "sample 9" : {
+            "name": "Sample 9",
+            "biological replicate": "3"
+        }
+        
+    },
+
+    "runs": {
+        "run 1": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_DTR1.raw",
+            "data file": "1_DTR1.raw"
+        },
+        "run 2": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_DTR2.raw",
+            "data file": "2_DTR2.raw"
+        },
+        "run 3": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "3",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_DTR3.raw",
+            "data file": "3_DTR3.raw"
+        },
+        "run 4": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "4",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_DTR4.raw",
+            "data file": "4_DTR4.raw"
+        },
+        "run 5": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "5",
+                    "factor values": {
+                        "protocol": "FASP 10k",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_FASP10k_1.raw",
+            "data file": "5_FASP10k_1.raw"
+        },
+        "run 6": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "6",
+                    "factor values": {
+                        "protocol": "FASP 10k",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_FASP10k_2.raw",
+            "data file": "6_FASP10k_2.raw"
+        },
+        "run 7": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "7",
+                    "factor values": {
+                        "protocol": "FASP 10k",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_FASP10k_3.raw",
+            "data file": "7_FASP10k_3.raw"
+        },
+        "run 8": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "8",
+                    "factor values": {
+                        "protocol": "FASP 10k",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_FASP10k_4.raw",
+            "data file": "8_FASP10k_4.raw"
+        },
+        "run 9": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "9",
+                    "factor values": {
+                        "protocol": "FASP 30k",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_FASP30k_1.raw",
+            "data file": "9_FASP30k_1.raw"
+        },
+        "run 10": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "10",
+                    "factor values": {
+                        "protocol": "FASP 30k",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_FASP30k_2.raw",
+            "data file": "10_FASP30k_2.raw"
+        },
+        "run 11": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "11",
+                    "factor values": {
+                        "protocol": "FASP 30k",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_FASP30k_3.raw",
+            "data file": "11_FASP30k_3.raw"
+        },
+        "run 12": {
+            "assays" : [
+                {
+                    "sample": "Sample 1",
+                    "fraction": "1",
+                    "technical replicate": "12",
+                    "factor values": {
+                        "protocol": "FASP 30k",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_FASP30k_4.raw",
+            "data file": "12_FASP30k_4.raw"
+        },
+        "run 13": {
+            "assays": [
+                {
+                    "sample": "Sample 2",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "H&E"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_HE1_1.raw",
+            "data file": "1_HE1_1.raw"
+        },
+        "run 14": {
+            "assays": [
+                {
+                    "sample": "Sample 2",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "H&E"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_HE1_2.raw",
+            "data file": "2_HE1_2.raw"
+        },
+        "run 15": {
+            "assays": [
+                {
+                    "sample": "Sample 3",
+                    "fraction" : "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "H&E"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_HE2_1.raw",
+            "data file": "9_HE2_1.raw"
+        },
+        "run 16": {
+            "assasys": [
+                {
+                    "sample": "Sample 3",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "H&E"
+                    }
+                }
+            ],
+            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_HE2_2.raw",
+            "data file": "10_HE2_2.raw"
+        },
+        "run 17":
+        {
+            "assays": [
+                {
+                    "sample": "Sample 4",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "hematoxylin"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_hematoxylin1_1.raw",
+            "data file": "3_hematoxylin1_1.raw"
+        },
+        "run 18":
+        {
+            "assays": [
+                {
+                    "sample": "Sample 4",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "hematoxylin"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_hematoxylin2_2.raw",
+            "data file": "4_hematoxylin1_2.raw"
+        },
+        "run 19":
+        {
+            "assays": [
+                {
+                    "sample": "Sample 5",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "hematoxylin"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_hematoxylin2_1.raw",
+            "data file": "11_hematoxylin2_1.raw"
+        },
+        "run 20":
+        {
+            "assays": [
+                {
+                    "sample": "Sample 5",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "hematoxylin"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_hematoxylin2_2.raw",
+            "data file": "12_hematoxylin2_2.raw"
+        },
+        "run 21":
+        {
+            "assays": [
+                {
+                    "sample": "Sample 6",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "hemalum"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_hemalaun1_1.raw",
+            "data file": "5_hemalaun1_1.raw"
+        },
+        "run 22":
+        {
+            "assays": [
+                {
+                    "sample": "Sample 6",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "hemalum"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_hemalaun1_2.raw",
+            "data file": "6_hemalaun1_2.raw"
+        },
+        "run 23":
+        {
+            "assays": [
+                {
+                    "sample": "Sample 7",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "hemalum"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/13_hemalaun2_1.raw",
+            "data file": "13_hemalaun2_1.raw"
+        },
+        "run 24":
+        {
+            "assays": [
+                {
+                    "sample": "Sample 7",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "hemalum"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/14_hemalaun2_2.raw",
+            "data file": "14_hemalaun2_2.raw"
+        },
+        "run 25":
+        {
+            "assays":[
+                {
+                    "sample": "Sample 8",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_unstained1_1.raw",
+            "data file": "7_unstained1_1.raw"
+        },
+        "run 26":
+        {
+            "assays":[
+                {
+                    "sample": "Sample 8",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_unstained1_2.raw",
+            "data file": "8_unstained1_2.raw"
+        },
+        "run 27":
+        {
+            "assays":[
+                {
+                    "sample": "Sample 9",
+                    "fraction": "1",
+                    "technical replicate": "1",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/15_unstained2_1.raw",
+            "data file": "15_unstained2_1.raw"
+        },
+        "run 28":
+        {
+            "assays":[
+                {
+                    "sample": "Sample 9",
+                    "fraction": "1",
+                    "technical replicate": "2",
+                    "factor values": {
+                        "protocol": "DTR",
+                        "staining": "unstained"
+                    }
+                }
+            ],
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/16_unstained2_2.raw",
+            "data file": "16_unstained2_2.raw"
+        }
+    },
+    
+    "factor values": {
+        "protocol": ["DTR", "FASP 10k", "FASP 30k"],
+        "staining": ["unstained", "H&E", "hematoxylin", "hemalum"]
+    },
+
+    "sample characteristics": {
+        "sample_chara_1": {
+            "apply": "Sample 1",
+            "organism": "mus musculus",
+            "organism part": "kidney",
+            "cell type": "not applicable",
+            "sex": "male",
+            "age": "6 months",
+            "developmental stage": "not available",
+            "ancestry category": "not applicable",
+            "disease": "not available",
+            "technology type": "proteomic profiling by mass spectrometry"
+        },
+        "sample_chara_2": {
+            "apply": ["Sample 2", "Sample 3", "Sample 4", "Sample 5", "Sample 6", "Sample 7", "Sample 8", "Sample 9"],
+            "organism": "homo sapiens",
+            "organism part": "tonsil",
+            "cell type":"not applicable",
+            "ancestry category":"not applicable",
+            "age": "not available", 
+            "sex": "not available", 
+            "disease": "not available",
+            "developmental stage": "not available"
+        }
+    },
+
+    "assay characteristics": {
+        "common": {
+            "apply": "ALL",
+            "instrument": "AC=MS:1002634;NT=Q Exactive Plus",
+            "modification parameters":[
+                "NT=Carbamidomethyl;AC=UNIMOD:4;TA=C;MT=Fixed"
+            ],
+            "cleavage agent details": "AC=MS:1001251;NT=Trypsin",
+            "material type": "Formalin-fixed paraffin-embedded tissue",
+            "label": "AC=MS:1002038;NT=label free sample",
+            "fragment mass tolerance": "20 ppm",
+            "precursor mass tolerance": "4.5 ppm"
+        }
+    }
+}
