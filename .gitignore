@@ -1,8 +1,3 @@
 # Ignore the folder combined_all
 /Unique_github/
 /Unique_PRIDE/
-
-# Ignore Test_outs
-/Test_outs/
-# Ignore evaluation 
-/Bert/evaluation/
