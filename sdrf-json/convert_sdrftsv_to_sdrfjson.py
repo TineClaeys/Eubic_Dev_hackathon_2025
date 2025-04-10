@@ -231,6 +231,6 @@ def convert_sdrf(sdrf_basis):
     json_string = json.dumps(json_data, indent=4)
     return json_string
 
-df = pd.read_csv('/home/compomics/git/Eubic_Dev_hackathon_2025/sdrf-json/PXD017710-tmt.sdrf.tsv', sep='\t')
+df = pd.read_csv('/home/compomics/git/Eubic_Dev_hackathon_2025/sdrf-json/PXD006401_sdrf.tsv', sep='\t')
 json_output = convert_sdrf(df)
 
