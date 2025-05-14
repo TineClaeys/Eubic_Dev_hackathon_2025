@@ -2,47 +2,38 @@
     "origin file": "https://github.com/bigbio/proteomics-sample-metadata/blob/c3a56b076ef381280dfcb0140d2520126ace53ff/annotated-projects/PXD006401/sdrf.tsv",
 
     "samples": {
-        "sample 1" : {
-            "name": "Sample 1",
+        "Sample 1" : {
             "biological replicate": "1"
         },
-        "sample 2" : {
-            "name": "Sample 2",
+        "Sample 2" : {
             "biological replicate": "2"
         }, 
-        "sample 3" : {
-            "name": "Sample 3",
+        "Sample 3" : {
             "biological replicate": "3"
         },
-        "sample 4" : {
-            "name": "Sample 4",
+        "Sample 4" : {
             "biological replicate": "2"
         },
-        "sample 5" : {
-            "name": "Sample 5",
+        "Sample 5" : {
             "biological replicate": "3"
         },
-        "sample 6" : {
-            "name": "Sample 6",
+        "Sample 6" : {
             "biological replicate": "2"
         },
-        "sample 7" : {
-            "name": "Sample 7",
+        "Sample 7" : {
             "biological replicate": "3"
         },
-        "sample 8" : {
-            "name": "Sample 8",
+        "Sample 8" : {
             "biological replicate": "2"
         },
-        "sample 9" : {
-            "name": "Sample 9",
+        "Sample 9" : {
             "biological replicate": "3"
         }
         
     },
 
     "runs": {
-        "run 1": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_DTR1.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -57,7 +48,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_DTR1.raw",
             "data file": "1_DTR1.raw"
         },
-        "run 2": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_DTR2.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -72,7 +63,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_DTR2.raw",
             "data file": "2_DTR2.raw"
         },
-        "run 3": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_DTR3.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -87,7 +78,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_DTR3.raw",
             "data file": "3_DTR3.raw"
         },
-        "run 4": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_DTR4.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -102,7 +93,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_DTR4.raw",
             "data file": "4_DTR4.raw"
         },
-        "run 5": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_FASP10k_1.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -117,7 +108,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_FASP10k_1.raw",
             "data file": "5_FASP10k_1.raw"
         },
-        "run 6": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_FASP10k_2.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -132,7 +123,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_FASP10k_2.raw",
             "data file": "6_FASP10k_2.raw"
         },
-        "run 7": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_FASP10k_3.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -147,7 +138,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_FASP10k_3.raw",
             "data file": "7_FASP10k_3.raw"
         },
-        "run 8": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_FASP10k_4.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -162,7 +153,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_FASP10k_4.raw",
             "data file": "8_FASP10k_4.raw"
         },
-        "run 9": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_FASP30k_1.raw 9": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -177,7 +168,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_FASP30k_1.raw",
             "data file": "9_FASP30k_1.raw"
         },
-        "run 10": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_FASP30k_2.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -192,7 +183,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_FASP30k_2.raw",
             "data file": "10_FASP30k_2.raw"
         },
-        "run 11": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_FASP30k_3.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -207,7 +198,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_FASP30k_3.raw",
             "data file": "11_FASP30k_3.raw"
         },
-        "run 12": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_FASP30k_4.raw": {
             "assays" : [
                 {
                     "sample": "Sample 1",
@@ -222,7 +213,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_FASP30k_4.raw",
             "data file": "12_FASP30k_4.raw"
         },
-        "run 13": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_HE1_1.raw": {
             "assays": [
                 {
                     "sample": "Sample 2",
@@ -237,7 +228,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_HE1_1.raw",
             "data file": "1_HE1_1.raw"
         },
-        "run 14": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_HE1_2.raw": {
             "assays": [
                 {
                     "sample": "Sample 2",
@@ -252,7 +243,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_HE1_2.raw",
             "data file": "2_HE1_2.raw"
         },
-        "run 15": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_HE2_1.raw": {
             "assays": [
                 {
                     "sample": "Sample 3",
@@ -267,7 +258,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_HE2_1.raw",
             "data file": "9_HE2_1.raw"
         },
-        "run 16": {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_HE2_2.raw": {
             "assasys": [
                 {
                     "sample": "Sample 3",
@@ -282,8 +273,7 @@
             "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_HE2_2.raw",
             "data file": "10_HE2_2.raw"
         },
-        "run 17":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_hematoxylin1_1.raw":{
             "assays": [
                 {
                     "sample": "Sample 4",
@@ -298,8 +288,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_hematoxylin1_1.raw",
             "data file": "3_hematoxylin1_1.raw"
         },
-        "run 18":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_hematoxylin1_2.raw.raw":{
             "assays": [
                 {
                     "sample": "Sample 4",
@@ -311,11 +300,10 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_hematoxylin2_2.raw",
+            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_hematoxylin1_2.raw.raw",
             "data file": "4_hematoxylin1_2.raw"
         },
-        "run 19":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_hematoxylin2_1.raw":{
             "assays": [
                 {
                     "sample": "Sample 5",
@@ -330,8 +318,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_hematoxylin2_1.raw",
             "data file": "11_hematoxylin2_1.raw"
         },
-        "run 20":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_hematoxylin2_2.raw":{
             "assays": [
                 {
                     "sample": "Sample 5",
@@ -346,8 +333,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_hematoxylin2_2.raw",
             "data file": "12_hematoxylin2_2.raw"
         },
-        "run 21":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_hemalaun1_1.raw":{
             "assays": [
                 {
                     "sample": "Sample 6",
@@ -362,8 +348,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_hemalaun1_1.raw",
             "data file": "5_hemalaun1_1.raw"
         },
-        "run 22":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_hemalaun1_2.raw":{
             "assays": [
                 {
                     "sample": "Sample 6",
@@ -378,8 +363,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_hemalaun1_2.raw",
             "data file": "6_hemalaun1_2.raw"
         },
-        "run 23":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/13_hemalaun2_1.raw":{
             "assays": [
                 {
                     "sample": "Sample 7",
@@ -394,8 +378,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/13_hemalaun2_1.raw",
             "data file": "13_hemalaun2_1.raw"
         },
-        "run 24":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/14_hemalaun2_2.raw":{
             "assays": [
                 {
                     "sample": "Sample 7",
@@ -410,8 +393,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/14_hemalaun2_2.raw",
             "data file": "14_hemalaun2_2.raw"
         },
-        "run 25":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_unstained1_1.raw":{
             "assays":[
                 {
                     "sample": "Sample 8",
@@ -426,8 +408,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_unstained1_1.raw",
             "data file": "7_unstained1_1.raw"
         },
-        "run 26":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_unstained1_2.raw":{
             "assays":[
                 {
                     "sample": "Sample 8",
@@ -442,8 +423,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_unstained1_2.raw",
             "data file": "8_unstained1_2.raw"
         },
-        "run 27":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/15_unstained2_1.raw":{
             "assays":[
                 {
                     "sample": "Sample 9",
@@ -458,8 +438,7 @@
             "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/15_unstained2_1.raw",
             "data file": "15_unstained2_1.raw"
         },
-        "run 28":
-        {
+        "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/16_unstained2_2.raw":{
             "assays":[
                 {
                     "sample": "Sample 9",
@@ -481,7 +460,7 @@
         "staining": ["unstained", "H&E", "hematoxylin", "hemalum"]
     },
 
-    "sample characteristics": {
+    "sample parameters": {
         "sample_chara_1": {
             "apply": "Sample 1",
             "organism": "mus musculus",
@@ -507,7 +486,7 @@
         }
     },
 
-    "assay characteristics": {
+    "assay parameters": {
         "common": {
             "apply": "ALL",
             "instrument": "AC=MS:1002634;NT=Q Exactive Plus",
