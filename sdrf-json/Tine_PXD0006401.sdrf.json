@@ -45,7 +45,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_DTR1.raw",
             "data file": "1_DTR1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_DTR2.raw": {
@@ -60,7 +59,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_DTR2.raw",
             "data file": "2_DTR2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_DTR3.raw": {
@@ -75,7 +73,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_DTR3.raw",
             "data file": "3_DTR3.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_DTR4.raw": {
@@ -90,7 +87,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_DTR4.raw",
             "data file": "4_DTR4.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_FASP10k_1.raw": {
@@ -105,7 +101,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_FASP10k_1.raw",
             "data file": "5_FASP10k_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_FASP10k_2.raw": {
@@ -120,7 +115,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_FASP10k_2.raw",
             "data file": "6_FASP10k_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_FASP10k_3.raw": {
@@ -135,7 +129,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_FASP10k_3.raw",
             "data file": "7_FASP10k_3.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_FASP10k_4.raw": {
@@ -150,7 +143,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_FASP10k_4.raw",
             "data file": "8_FASP10k_4.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_FASP30k_1.raw 9": {
@@ -165,7 +157,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_FASP30k_1.raw",
             "data file": "9_FASP30k_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_FASP30k_2.raw": {
@@ -180,7 +171,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_FASP30k_2.raw",
             "data file": "10_FASP30k_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_FASP30k_3.raw": {
@@ -195,7 +185,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_FASP30k_3.raw",
             "data file": "11_FASP30k_3.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_FASP30k_4.raw": {
@@ -210,7 +199,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_FASP30k_4.raw",
             "data file": "12_FASP30k_4.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_HE1_1.raw": {
@@ -225,7 +213,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/1_HE1_1.raw",
             "data file": "1_HE1_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_HE1_2.raw": {
@@ -240,7 +227,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/2_HE1_2.raw",
             "data file": "2_HE1_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_HE2_1.raw": {
@@ -255,7 +241,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/9_HE2_1.raw",
             "data file": "9_HE2_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_HE2_2.raw": {
@@ -270,7 +255,6 @@
                     }
                 }
             ],
-            "file uri": "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/10_HE2_2.raw",
             "data file": "10_HE2_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_hematoxylin1_1.raw":{
@@ -285,7 +269,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/3_hematoxylin1_1.raw",
             "data file": "3_hematoxylin1_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_hematoxylin1_2.raw.raw":{
@@ -300,7 +283,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/4_hematoxylin1_2.raw.raw",
             "data file": "4_hematoxylin1_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_hematoxylin2_1.raw":{
@@ -315,7 +297,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/11_hematoxylin2_1.raw",
             "data file": "11_hematoxylin2_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_hematoxylin2_2.raw":{
@@ -330,7 +311,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/12_hematoxylin2_2.raw",
             "data file": "12_hematoxylin2_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_hemalaun1_1.raw":{
@@ -345,7 +325,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/5_hemalaun1_1.raw",
             "data file": "5_hemalaun1_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_hemalaun1_2.raw":{
@@ -360,7 +339,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/6_hemalaun1_2.raw",
             "data file": "6_hemalaun1_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/13_hemalaun2_1.raw":{
@@ -375,7 +353,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/13_hemalaun2_1.raw",
             "data file": "13_hemalaun2_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/14_hemalaun2_2.raw":{
@@ -390,7 +367,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/14_hemalaun2_2.raw",
             "data file": "14_hemalaun2_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_unstained1_1.raw":{
@@ -405,7 +381,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/7_unstained1_1.raw",
             "data file": "7_unstained1_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_unstained1_2.raw":{
@@ -420,7 +395,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/8_unstained1_2.raw",
             "data file": "8_unstained1_2.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/15_unstained2_1.raw":{
@@ -435,7 +409,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/15_unstained2_1.raw",
             "data file": "15_unstained2_1.raw"
         },
         "ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/16_unstained2_2.raw":{
@@ -450,7 +423,6 @@
                     }
                 }
             ],
-            "file uri":"ftp://ftp.pride.ebi.ac.uk/pride/data/archive/2018/08/PXD006401/16_unstained2_2.raw",
             "data file": "16_unstained2_2.raw"
         }
     },
