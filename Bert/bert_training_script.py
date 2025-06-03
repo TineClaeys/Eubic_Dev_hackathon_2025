@@ -138,6 +138,20 @@ class WeightedLossTrainer(Trainer):
         loss = loss_fct(logits.view(-1, self.model.config.num_labels), labels.view(-1))
         return (loss, outputs) if return_outputs else loss
 
+
+def sampling_pos_class(dataset):
+    """
+    Sample positive class examples from the dataset.
+    This function assumes that the dataset is a list of dictionaries with a 'labels' key.
+    """
+    pos_samples = []
+    for item in dataset:
+        if any(label != -100 for label in item['labels']):
+            pos_samples.append(item)
+    return pos_samples
+
+
+
 import torch.nn.functional as F
 
 class HingeLossTrainer(Trainer):
@@ -166,7 +180,6 @@ class HingeLossTrainer(Trainer):
         return (hinge_loss, outputs) if return_outputs else hinge_loss
 
 
-
 def main():
     parser = argparse.ArgumentParser(description="Train a BERT-based NER model with weighted loss")
     parser.add_argument("--input_file", type=str, required=True)
@@ -191,11 +204,14 @@ def main():
     with open(args.input_file, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # entity_data = [item for item in data if any(tag != "O" for _, tag in item["tokens"])]
-    # random.shuffle(entity_data)
-    # data = entity_data
+
+    entity_data = [item for item in data if any(tag != "O" for _, tag in item["tokens"])]
+    random.shuffle(entity_data)
+    data = entity_data
     train_size = int(len(data) * args.train_split)
     train_data, val_data = data[:train_size], data[train_size:]
+
+    print(data)
 
     logger.info(f"Training on {len(train_data)} examples, validating on {len(val_data)} examples")
 

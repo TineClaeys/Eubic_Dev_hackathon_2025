@@ -3,3 +3,7 @@
 /Unique_PRIDE/
 /Test_outs/
 /Bert/wandb/
+sdrf_tagged_api/
+GPT_all_models_annotated_filtered/
+compare_across_models.ipynb
+move_files.ipynb

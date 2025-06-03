@@ -1,0 +1,634 @@
+2025-06-02 13:24:29,752 INFO Processing file: 35425721.txt, Token count: 13660
+2025-06-02 13:24:29,752 INFO Processing file: 35425721.txt, Token count: 13660
+2025-06-02 13:25:01,670 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:25:01,673 INFO Processed 35425721.txt, output: o4-mini-2025-04-16_35425721.sdrf
+2025-06-02 13:25:01,675 INFO Processing file: 37439347.txt, Token count: 1147
+2025-06-02 13:25:01,675 INFO Processing file: 37439347.txt, Token count: 1147
+2025-06-02 13:25:10,187 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:25:10,188 INFO Processed 37439347.txt, output: o4-mini-2025-04-16_37439347.sdrf
+2025-06-02 13:25:10,199 INFO Processing file: 37207340.txt, Token count: 17094
+2025-06-02 13:25:10,199 INFO Processing file: 37207340.txt, Token count: 17094
+2025-06-02 13:25:58,882 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:25:58,883 INFO Processed 37207340.txt, output: o4-mini-2025-04-16_37207340.sdrf
+2025-06-02 13:25:58,884 INFO Processing file: 30245083.txt, Token count: 988
+2025-06-02 13:25:58,884 INFO Processing file: 30245083.txt, Token count: 988
+2025-06-02 13:26:14,943 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:26:14,945 INFO Processed 30245083.txt, output: o4-mini-2025-04-16_30245083.sdrf
+2025-06-02 13:26:14,958 INFO Processing file: 36653852.txt, Token count: 12908
+2025-06-02 13:26:14,958 INFO Processing file: 36653852.txt, Token count: 12908
+2025-06-02 13:27:07,716 INFO Processing file: 35425721.txt, Token count: 13660
+2025-06-02 13:27:07,716 INFO Processing file: 35425721.txt, Token count: 13660
+2025-06-02 13:27:48,660 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:27:48,663 INFO Processed 35425721.txt, output: o4-mini-2025-04-16_35425721.sdrf
+2025-06-02 13:27:48,664 INFO Processing file: 37439347.txt, Token count: 1147
+2025-06-02 13:27:48,664 INFO Processing file: 37439347.txt, Token count: 1147
+2025-06-02 13:28:00,507 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:28:00,508 INFO Processed 37439347.txt, output: o4-mini-2025-04-16_37439347.sdrf
+2025-06-02 13:28:00,518 INFO Processing file: 37207340.txt, Token count: 17094
+2025-06-02 13:28:00,518 INFO Processing file: 37207340.txt, Token count: 17094
+2025-06-02 13:28:43,498 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:28:43,499 INFO Processed 37207340.txt, output: o4-mini-2025-04-16_37207340.sdrf
+2025-06-02 13:28:43,500 INFO Processing file: 30245083.txt, Token count: 988
+2025-06-02 13:28:43,500 INFO Processing file: 30245083.txt, Token count: 988
+2025-06-02 13:28:52,550 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:28:52,551 INFO Processed 30245083.txt, output: o4-mini-2025-04-16_30245083.sdrf
+2025-06-02 13:28:52,562 INFO Processing file: 36653852.txt, Token count: 12908
+2025-06-02 13:28:52,562 INFO Processing file: 36653852.txt, Token count: 12908
+2025-06-02 13:29:19,923 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:29:19,924 INFO Processed 36653852.txt, output: o4-mini-2025-04-16_36653852.sdrf
+2025-06-02 13:29:19,928 INFO Processing file: 36702456.txt, Token count: 7806
+2025-06-02 13:29:19,928 INFO Processing file: 36702456.txt, Token count: 7806
+2025-06-02 13:29:39,741 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:29:39,742 INFO Processed 36702456.txt, output: o4-mini-2025-04-16_36702456.sdrf
+2025-06-02 13:29:39,751 INFO Processing file: 34416233.txt, Token count: 14381
+2025-06-02 13:29:39,751 INFO Processing file: 34416233.txt, Token count: 14381
+2025-06-02 13:30:18,437 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:30:18,439 INFO Processed 34416233.txt, output: o4-mini-2025-04-16_34416233.sdrf
+2025-06-02 13:30:18,440 INFO Processing file: 25886026.txt, Token count: 1207
+2025-06-02 13:30:18,440 INFO Processing file: 25886026.txt, Token count: 1207
+2025-06-02 13:30:31,201 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:30:31,203 INFO Processed 25886026.txt, output: o4-mini-2025-04-16_25886026.sdrf
+2025-06-02 13:30:31,212 INFO Processing file: 36097293.txt, Token count: 17151
+2025-06-02 13:30:31,212 INFO Processing file: 36097293.txt, Token count: 17151
+2025-06-02 13:31:18,214 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:31:18,215 INFO Processed 36097293.txt, output: o4-mini-2025-04-16_36097293.sdrf
+2025-06-02 13:31:18,227 INFO Processing file: 32284562.txt, Token count: 22315
+2025-06-02 13:31:18,227 INFO Processing file: 32284562.txt, Token count: 22315
+2025-06-02 13:31:58,454 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:31:58,456 INFO Processed 32284562.txt, output: o4-mini-2025-04-16_32284562.sdrf
+2025-06-02 13:31:58,472 INFO Processing file: 36983784.txt, Token count: 14160
+2025-06-02 13:31:58,473 INFO Processing file: 36983784.txt, Token count: 14160
+2025-06-02 13:32:24,255 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:32:24,256 INFO Processed 36983784.txt, output: o4-mini-2025-04-16_36983784.sdrf
+2025-06-02 13:32:24,260 INFO Processing file: 31185456.txt, Token count: 8135
+2025-06-02 13:32:24,260 INFO Processing file: 31185456.txt, Token count: 8135
+2025-06-02 13:32:41,667 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:32:41,669 INFO Processed 31185456.txt, output: o4-mini-2025-04-16_31185456.sdrf
+2025-06-02 13:32:41,672 INFO Processing file: 36525778.txt, Token count: 1228
+2025-06-02 13:32:41,672 INFO Processing file: 36525778.txt, Token count: 1228
+2025-06-02 13:32:56,056 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:32:56,057 INFO Processed 36525778.txt, output: o4-mini-2025-04-16_36525778.sdrf
+2025-06-02 13:32:56,064 INFO Processing file: 31733513.txt, Token count: 11923
+2025-06-02 13:32:56,064 INFO Processing file: 31733513.txt, Token count: 11923
+2025-06-02 13:33:16,322 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:33:16,324 INFO Processed 31733513.txt, output: o4-mini-2025-04-16_31733513.sdrf
+2025-06-02 13:33:16,346 INFO Processing file: 36220102.txt, Token count: 15293
+2025-06-02 13:33:16,346 INFO Processing file: 36220102.txt, Token count: 15293
+2025-06-02 13:33:42,456 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:33:42,457 INFO Processed 36220102.txt, output: o4-mini-2025-04-16_36220102.sdrf
+2025-06-02 13:33:42,468 INFO Processing file: 37854702.txt, Token count: 20711
+2025-06-02 13:33:42,468 INFO Processing file: 37854702.txt, Token count: 20711
+2025-06-02 13:34:02,466 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:34:02,468 INFO Processed 37854702.txt, output: o4-mini-2025-04-16_37854702.sdrf
+2025-06-02 13:34:02,471 INFO Processing file: 38154689.txt, Token count: 1275
+2025-06-02 13:34:02,471 INFO Processing file: 38154689.txt, Token count: 1275
+2025-06-02 13:34:13,571 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:34:13,573 INFO Processed 38154689.txt, output: o4-mini-2025-04-16_38154689.sdrf
+2025-06-02 13:34:13,574 INFO Processing file: 26572953.txt, Token count: 1010
+2025-06-02 13:34:13,574 INFO Processing file: 26572953.txt, Token count: 1010
+2025-06-02 13:34:22,705 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:34:22,707 INFO Processed 26572953.txt, output: o4-mini-2025-04-16_26572953.sdrf
+2025-06-02 13:34:22,727 INFO Processing file: 31642809.txt, Token count: 13096
+2025-06-02 13:34:22,727 INFO Processing file: 31642809.txt, Token count: 13096
+2025-06-02 13:35:02,360 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:35:02,362 INFO Processed 31642809.txt, output: o4-mini-2025-04-16_31642809.sdrf
+2025-06-02 13:35:02,365 INFO Processing file: 36940913.txt, Token count: 1167
+2025-06-02 13:35:02,365 INFO Processing file: 36940913.txt, Token count: 1167
+2025-06-02 13:35:10,595 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:35:10,597 INFO Processed 36940913.txt, output: o4-mini-2025-04-16_36940913.sdrf
+2025-06-02 13:35:10,612 INFO Processing file: 35852874.txt, Token count: 9608
+2025-06-02 13:35:10,612 INFO Processing file: 35852874.txt, Token count: 9608
+2025-06-02 13:35:50,998 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:35:51,000 INFO Processed 35852874.txt, output: o4-mini-2025-04-16_35852874.sdrf
+2025-06-02 13:35:51,020 INFO Processing file: 28091603.txt, Token count: 13356
+2025-06-02 13:35:51,021 INFO Processing file: 28091603.txt, Token count: 13356
+2025-06-02 13:36:11,155 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:36:11,157 INFO Processed 28091603.txt, output: o4-mini-2025-04-16_28091603.sdrf
+2025-06-02 13:36:11,168 INFO Processing file: 28071813.txt, Token count: 6822
+2025-06-02 13:36:11,168 INFO Processing file: 28071813.txt, Token count: 6822
+2025-06-02 13:36:45,848 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:36:45,852 INFO Processed 28071813.txt, output: o4-mini-2025-04-16_28071813.sdrf
+2025-06-02 13:36:45,855 INFO Processing file: 20089766.txt, Token count: 1210
+2025-06-02 13:36:45,855 INFO Processing file: 20089766.txt, Token count: 1210
+2025-06-02 13:37:02,769 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:37:02,771 INFO Processed 20089766.txt, output: o4-mini-2025-04-16_20089766.sdrf
+2025-06-02 13:37:02,793 INFO Processing file: 35402076.txt, Token count: 14466
+2025-06-02 13:37:02,793 INFO Processing file: 35402076.txt, Token count: 14466
+2025-06-02 13:37:28,588 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:37:28,590 INFO Processed 35402076.txt, output: o4-mini-2025-04-16_35402076.sdrf
+2025-06-02 13:37:28,593 INFO Processing file: 25405705.txt, Token count: 1137
+2025-06-02 13:37:28,593 INFO Processing file: 25405705.txt, Token count: 1137
+2025-06-02 13:37:52,865 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:37:52,867 INFO Processed 25405705.txt, output: o4-mini-2025-04-16_25405705.sdrf
+2025-06-02 13:37:52,870 INFO Processing file: 33596053.txt, Token count: 1055
+2025-06-02 13:37:52,870 INFO Processing file: 33596053.txt, Token count: 1055
+2025-06-02 13:38:08,713 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:38:08,716 INFO Processed 33596053.txt, output: o4-mini-2025-04-16_33596053.sdrf
+2025-06-02 13:38:08,718 INFO Processing file: 38063474.txt, Token count: 1204
+2025-06-02 13:38:08,719 INFO Processing file: 38063474.txt, Token count: 1204
+2025-06-02 13:38:20,677 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:38:20,679 INFO Processed 38063474.txt, output: o4-mini-2025-04-16_38063474.sdrf
+2025-06-02 13:38:20,682 INFO Processing file: 38047073.txt, Token count: 1073
+2025-06-02 13:38:20,682 INFO Processing file: 38047073.txt, Token count: 1073
+2025-06-02 13:38:34,988 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:38:34,998 INFO Processed 38047073.txt, output: o4-mini-2025-04-16_38047073.sdrf
+2025-06-02 13:38:35,035 INFO Processing file: 35236989.txt, Token count: 18671
+2025-06-02 13:38:35,035 INFO Processing file: 35236989.txt, Token count: 18671
+2025-06-02 13:38:58,130 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:38:58,133 INFO Processed 35236989.txt, output: o4-mini-2025-04-16_35236989.sdrf
+2025-06-02 13:38:58,147 INFO Processing file: 36741463.txt, Token count: 13908
+2025-06-02 13:38:58,147 INFO Processing file: 36741463.txt, Token count: 13908
+2025-06-02 13:39:37,999 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:39:38,001 INFO Processed 36741463.txt, output: o4-mini-2025-04-16_36741463.sdrf
+2025-06-02 13:39:38,013 INFO Processing file: 32877642.txt, Token count: 10595
+2025-06-02 13:39:38,013 INFO Processing file: 32877642.txt, Token count: 10595
+2025-06-02 13:40:03,540 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:40:03,542 INFO Processed 32877642.txt, output: o4-mini-2025-04-16_32877642.sdrf
+2025-06-02 13:40:03,561 INFO Processing file: 31699904.txt, Token count: 14873
+2025-06-02 13:40:03,561 INFO Processing file: 31699904.txt, Token count: 14873
+2025-06-02 13:41:02,307 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:41:02,309 INFO Processed 31699904.txt, output: o4-mini-2025-04-16_31699904.sdrf
+2025-06-02 13:41:02,331 INFO Processing file: 28680058.txt, Token count: 17043
+2025-06-02 13:41:02,331 INFO Processing file: 28680058.txt, Token count: 17043
+2025-06-02 13:41:33,223 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:41:33,225 INFO Processed 28680058.txt, output: o4-mini-2025-04-16_28680058.sdrf
+2025-06-02 13:41:33,228 INFO Processing file: 38154691.txt, Token count: 1057
+2025-06-02 13:41:33,228 INFO Processing file: 38154691.txt, Token count: 1057
+2025-06-02 13:41:43,054 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:41:43,056 INFO Processed 38154691.txt, output: o4-mini-2025-04-16_38154691.sdrf
+2025-06-02 13:41:43,071 INFO Processing file: 36979426.txt, Token count: 10281
+2025-06-02 13:41:43,071 INFO Processing file: 36979426.txt, Token count: 10281
+2025-06-02 13:42:10,855 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:42:10,858 INFO Processed 36979426.txt, output: o4-mini-2025-04-16_36979426.sdrf
+2025-06-02 13:42:10,861 INFO Processing file: 31424513.txt, Token count: 1189
+2025-06-02 13:42:10,861 INFO Processing file: 31424513.txt, Token count: 1189
+2025-06-02 13:42:25,701 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:42:25,703 INFO Processed 31424513.txt, output: o4-mini-2025-04-16_31424513.sdrf
+2025-06-02 13:42:25,717 INFO Processing file: 36212541.txt, Token count: 9610
+2025-06-02 13:42:25,717 INFO Processing file: 36212541.txt, Token count: 9610
+2025-06-02 13:42:42,380 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:42:42,382 INFO Processed 36212541.txt, output: o4-mini-2025-04-16_36212541.sdrf
+2025-06-02 13:42:42,398 INFO Processing file: 31816881.txt, Token count: 10497
+2025-06-02 13:42:42,398 INFO Processing file: 31816881.txt, Token count: 10497
+2025-06-02 13:43:03,020 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:43:03,022 INFO Processed 31816881.txt, output: o4-mini-2025-04-16_31816881.sdrf
+2025-06-02 13:43:03,025 INFO Processing file: 38253038.txt, Token count: 1185
+2025-06-02 13:43:03,025 INFO Processing file: 38253038.txt, Token count: 1185
+2025-06-02 13:43:19,537 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:43:19,539 INFO Processed 38253038.txt, output: o4-mini-2025-04-16_38253038.sdrf
+2025-06-02 13:43:19,560 INFO Processing file: 37301900.txt, Token count: 14526
+2025-06-02 13:43:19,560 INFO Processing file: 37301900.txt, Token count: 14526
+2025-06-02 13:44:04,590 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:44:04,592 INFO Processed 37301900.txt, output: o4-mini-2025-04-16_37301900.sdrf
+2025-06-02 13:44:04,607 INFO Processing file: 34604665.txt, Token count: 10417
+2025-06-02 13:44:04,607 INFO Processing file: 34604665.txt, Token count: 10417
+2025-06-02 13:44:40,260 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:44:40,262 INFO Processed 34604665.txt, output: o4-mini-2025-04-16_34604665.sdrf
+2025-06-02 13:44:40,273 INFO Processing file: 31699905.txt, Token count: 7010
+2025-06-02 13:44:40,274 INFO Processing file: 31699905.txt, Token count: 7010
+2025-06-02 13:45:05,108 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:45:05,121 INFO Processed 31699905.txt, output: o4-mini-2025-04-16_31699905.sdrf
+2025-06-02 13:45:05,139 INFO Processing file: 25100859.txt, Token count: 11935
+2025-06-02 13:45:05,139 INFO Processing file: 25100859.txt, Token count: 11935
+2025-06-02 13:45:38,720 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:45:38,721 INFO Processed 25100859.txt, output: o4-mini-2025-04-16_25100859.sdrf
+2025-06-02 13:45:38,731 INFO Processing file: 36089606.txt, Token count: 18788
+2025-06-02 13:45:38,731 INFO Processing file: 36089606.txt, Token count: 18788
+2025-06-02 13:46:05,480 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:46:05,482 INFO Processed 36089606.txt, output: o4-mini-2025-04-16_36089606.sdrf
+2025-06-02 13:46:05,504 INFO Processing file: 37094092.txt, Token count: 14826
+2025-06-02 13:46:05,505 INFO Processing file: 37094092.txt, Token count: 14826
+2025-06-02 13:46:57,966 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:46:57,967 INFO Processed 37094092.txt, output: o4-mini-2025-04-16_37094092.sdrf
+2025-06-02 13:46:57,968 INFO Processing file: 26801919.txt, Token count: 1295
+2025-06-02 13:46:57,968 INFO Processing file: 26801919.txt, Token count: 1295
+2025-06-02 13:47:22,186 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:47:22,187 INFO Processed 26801919.txt, output: o4-mini-2025-04-16_26801919.sdrf
+2025-06-02 13:47:22,188 INFO Processing file: 38390966.txt, Token count: 969
+2025-06-02 13:47:22,188 INFO Processing file: 38390966.txt, Token count: 969
+2025-06-02 13:47:33,739 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:47:33,740 INFO Processed 38390966.txt, output: o4-mini-2025-04-16_38390966.sdrf
+2025-06-02 13:47:33,741 INFO Processing file: 31814417.txt, Token count: 1137
+2025-06-02 13:47:33,741 INFO Processing file: 31814417.txt, Token count: 1137
+2025-06-02 13:47:44,282 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:47:44,283 INFO Processed 31814417.txt, output: o4-mini-2025-04-16_31814417.sdrf
+2025-06-02 13:47:44,285 INFO Processing file: 35677457.txt, Token count: 3176
+2025-06-02 13:47:44,285 INFO Processing file: 35677457.txt, Token count: 3176
+2025-06-02 13:48:09,100 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:48:09,101 INFO Processed 35677457.txt, output: o4-mini-2025-04-16_35677457.sdrf
+2025-06-02 13:48:09,104 INFO Processing file: 28675934.txt, Token count: 5609
+2025-06-02 13:48:09,105 INFO Processing file: 28675934.txt, Token count: 5609
+2025-06-02 13:49:17,788 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:49:17,789 INFO Processed 28675934.txt, output: o4-mini-2025-04-16_28675934.sdrf
+2025-06-02 13:49:17,795 INFO Processing file: 33918763.txt, Token count: 11939
+2025-06-02 13:49:17,795 INFO Processing file: 33918763.txt, Token count: 11939
+2025-06-02 13:49:56,435 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:49:56,436 INFO Processed 33918763.txt, output: o4-mini-2025-04-16_33918763.sdrf
+2025-06-02 13:49:56,437 INFO Processing file: 26081835.txt, Token count: 1065
+2025-06-02 13:49:56,437 INFO Processing file: 26081835.txt, Token count: 1065
+2025-06-02 13:50:06,000 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:50:06,001 INFO Processed 26081835.txt, output: o4-mini-2025-04-16_26081835.sdrf
+2025-06-02 13:50:06,002 INFO Processing file: 29678115.txt, Token count: 1118
+2025-06-02 13:50:06,002 INFO Processing file: 29678115.txt, Token count: 1118
+2025-06-02 13:50:25,467 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:50:25,469 INFO Processed 29678115.txt, output: o4-mini-2025-04-16_29678115.sdrf
+2025-06-02 13:50:25,483 INFO Processing file: 26725330.txt, Token count: 9442
+2025-06-02 13:50:25,483 INFO Processing file: 26725330.txt, Token count: 9442
+2025-06-02 13:50:47,934 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:50:47,936 INFO Processed 26725330.txt, output: o4-mini-2025-04-16_26725330.sdrf
+2025-06-02 13:50:47,950 INFO Processing file: 26076430.txt, Token count: 9163
+2025-06-02 13:50:47,950 INFO Processing file: 26076430.txt, Token count: 9163
+2025-06-02 13:51:14,652 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:51:14,654 INFO Processed 26076430.txt, output: o4-mini-2025-04-16_26076430.sdrf
+2025-06-02 13:51:14,671 INFO Processing file: 31316139.txt, Token count: 11162
+2025-06-02 13:51:14,671 INFO Processing file: 31316139.txt, Token count: 11162
+2025-06-02 13:51:43,838 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:51:43,840 INFO Processed 31316139.txt, output: o4-mini-2025-04-16_31316139.sdrf
+2025-06-02 13:51:43,863 INFO Processing file: 37063823.txt, Token count: 15442
+2025-06-02 13:51:43,863 INFO Processing file: 37063823.txt, Token count: 15442
+2025-06-02 13:52:17,169 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:52:17,170 INFO Processed 37063823.txt, output: o4-mini-2025-04-16_37063823.sdrf
+2025-06-02 13:52:17,180 INFO Processing file: 31075098.txt, Token count: 18687
+2025-06-02 13:52:17,180 INFO Processing file: 31075098.txt, Token count: 18687
+2025-06-02 13:52:39,338 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:52:39,340 INFO Processed 31075098.txt, output: o4-mini-2025-04-16_31075098.sdrf
+2025-06-02 13:52:39,343 INFO Processing file: 31009805.txt, Token count: 1234
+2025-06-02 13:52:39,343 INFO Processing file: 31009805.txt, Token count: 1234
+2025-06-02 13:52:49,299 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:52:49,301 INFO Processed 31009805.txt, output: o4-mini-2025-04-16_31009805.sdrf
+2025-06-02 13:52:49,304 INFO Processing file: 34866441.txt, Token count: 1167
+2025-06-02 13:52:49,304 INFO Processing file: 34866441.txt, Token count: 1167
+2025-06-02 13:53:05,493 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:53:05,496 INFO Processed 34866441.txt, output: o4-mini-2025-04-16_34866441.sdrf
+2025-06-02 13:53:05,503 INFO Processing file: 36426076.txt, Token count: 4658
+2025-06-02 13:53:05,504 INFO Processing file: 36426076.txt, Token count: 4658
+2025-06-02 13:53:37,294 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:53:37,297 INFO Processed 36426076.txt, output: o4-mini-2025-04-16_36426076.sdrf
+2025-06-02 13:53:37,299 INFO Processing file: 37093976.txt, Token count: 966
+2025-06-02 13:53:37,300 INFO Processing file: 37093976.txt, Token count: 966
+2025-06-02 13:53:54,636 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:53:54,637 INFO Processed 37093976.txt, output: o4-mini-2025-04-16_37093976.sdrf
+2025-06-02 13:53:54,641 INFO Processing file: 28424693.txt, Token count: 9874
+2025-06-02 13:53:54,641 INFO Processing file: 28424693.txt, Token count: 9874
+2025-06-02 13:54:38,565 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:54:38,568 INFO Processed 28424693.txt, output: o4-mini-2025-04-16_28424693.sdrf
+2025-06-02 13:54:38,571 INFO Processing file: 28382632.txt, Token count: 1092
+2025-06-02 13:54:38,571 INFO Processing file: 28382632.txt, Token count: 1092
+2025-06-02 13:54:51,970 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:54:51,972 INFO Processed 28382632.txt, output: o4-mini-2025-04-16_28382632.sdrf
+2025-06-02 13:54:51,975 INFO Processing file: 34962809.txt, Token count: 1143
+2025-06-02 13:54:51,975 INFO Processing file: 34962809.txt, Token count: 1143
+2025-06-02 13:55:02,321 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:55:02,323 INFO Processed 34962809.txt, output: o4-mini-2025-04-16_34962809.sdrf
+2025-06-02 13:55:02,342 INFO Processing file: 35709300.txt, Token count: 12978
+2025-06-02 13:55:02,342 INFO Processing file: 35709300.txt, Token count: 12978
+2025-06-02 13:55:31,816 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:55:31,818 INFO Processed 35709300.txt, output: o4-mini-2025-04-16_35709300.sdrf
+2025-06-02 13:55:31,847 INFO Processing file: 35680998.txt, Token count: 19637
+2025-06-02 13:55:31,847 INFO Processing file: 35680998.txt, Token count: 19637
+2025-06-02 13:56:43,316 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:56:43,319 INFO Processed 35680998.txt, output: o4-mini-2025-04-16_35680998.sdrf
+2025-06-02 13:56:43,343 INFO Processing file: 37330510.txt, Token count: 16240
+2025-06-02 13:56:43,343 INFO Processing file: 37330510.txt, Token count: 16240
+2025-06-02 13:57:45,370 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:57:45,372 INFO Processed 37330510.txt, output: o4-mini-2025-04-16_37330510.sdrf
+2025-06-02 13:57:45,397 INFO Processing file: 37266577.txt, Token count: 17501
+2025-06-02 13:57:45,398 INFO Processing file: 37266577.txt, Token count: 17501
+2025-06-02 13:58:16,712 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:58:16,715 INFO Processed 37266577.txt, output: o4-mini-2025-04-16_37266577.sdrf
+2025-06-02 13:58:16,717 INFO Processing file: 38363107.txt, Token count: 1062
+2025-06-02 13:58:16,717 INFO Processing file: 38363107.txt, Token count: 1062
+2025-06-02 13:58:31,795 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:58:31,797 INFO Processed 38363107.txt, output: o4-mini-2025-04-16_38363107.sdrf
+2025-06-02 13:58:31,815 INFO Processing file: 34383828.txt, Token count: 12244
+2025-06-02 13:58:31,815 INFO Processing file: 34383828.txt, Token count: 12244
+2025-06-02 13:59:16,300 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:59:16,303 INFO Processed 34383828.txt, output: o4-mini-2025-04-16_34383828.sdrf
+2025-06-02 13:59:16,305 INFO Processing file: 38185415.txt, Token count: 1150
+2025-06-02 13:59:16,306 INFO Processing file: 38185415.txt, Token count: 1150
+2025-06-02 13:59:27,449 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:59:27,451 INFO Processed 38185415.txt, output: o4-mini-2025-04-16_38185415.sdrf
+2025-06-02 13:59:27,453 INFO Processing file: 32694149.txt, Token count: 1157
+2025-06-02 13:59:27,454 INFO Processing file: 32694149.txt, Token count: 1157
+2025-06-02 13:59:38,521 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 13:59:38,523 INFO Processed 32694149.txt, output: o4-mini-2025-04-16_32694149.sdrf
+2025-06-02 13:59:38,545 INFO Processing file: 34360674.txt, Token count: 14387
+2025-06-02 13:59:38,545 INFO Processing file: 34360674.txt, Token count: 14387
+2025-06-02 14:00:15,789 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:00:15,791 INFO Processed 34360674.txt, output: o4-mini-2025-04-16_34360674.sdrf
+2025-06-02 14:00:15,807 INFO Processing file: 37328468.txt, Token count: 10251
+2025-06-02 14:00:15,807 INFO Processing file: 37328468.txt, Token count: 10251
+2025-06-02 14:00:44,165 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:00:44,168 INFO Processed 37328468.txt, output: o4-mini-2025-04-16_37328468.sdrf
+2025-06-02 14:00:44,169 INFO Processing file: 26360816.txt, Token count: 1182
+2025-06-02 14:00:44,169 INFO Processing file: 26360816.txt, Token count: 1182
+2025-06-02 14:01:05,449 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:01:05,451 INFO Processed 26360816.txt, output: o4-mini-2025-04-16_26360816.sdrf
+2025-06-02 14:01:05,453 INFO Processing file: 30300549.txt, Token count: 1028
+2025-06-02 14:01:05,454 INFO Processing file: 30300549.txt, Token count: 1028
+2025-06-02 14:01:16,435 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:01:16,437 INFO Processed 30300549.txt, output: o4-mini-2025-04-16_30300549.sdrf
+2025-06-02 14:01:16,454 INFO Processing file: 31862015.txt, Token count: 11497
+2025-06-02 14:01:16,454 INFO Processing file: 31862015.txt, Token count: 11497
+2025-06-02 14:02:16,180 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:02:16,182 INFO Processed 31862015.txt, output: o4-mini-2025-04-16_31862015.sdrf
+2025-06-02 14:02:16,197 INFO Processing file: 32095117.txt, Token count: 9792
+2025-06-02 14:02:16,197 INFO Processing file: 32095117.txt, Token count: 9792
+2025-06-02 14:03:03,151 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:03:03,153 INFO Processed 32095117.txt, output: o4-mini-2025-04-16_32095117.sdrf
+2025-06-02 14:03:03,169 INFO Processing file: 26112675.txt, Token count: 10450
+2025-06-02 14:03:03,169 INFO Processing file: 26112675.txt, Token count: 10450
+2025-06-02 14:03:26,743 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:03:26,745 INFO Processed 26112675.txt, output: o4-mini-2025-04-16_26112675.sdrf
+2025-06-02 14:03:26,760 INFO Processing file: 37293069.txt, Token count: 9864
+2025-06-02 14:03:26,760 INFO Processing file: 37293069.txt, Token count: 9864
+2025-06-02 14:03:54,060 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:03:54,063 INFO Processed 37293069.txt, output: o4-mini-2025-04-16_37293069.sdrf
+2025-06-02 14:03:54,081 INFO Processing file: 37834386.txt, Token count: 11712
+2025-06-02 14:03:54,081 INFO Processing file: 37834386.txt, Token count: 11712
+2025-06-02 14:04:08,038 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:04:08,041 INFO Processed 37834386.txt, output: o4-mini-2025-04-16_37834386.sdrf
+2025-06-02 14:04:08,063 INFO Processing file: 37611092.txt, Token count: 15039
+2025-06-02 14:04:08,063 INFO Processing file: 37611092.txt, Token count: 15039
+2025-06-02 14:04:38,778 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:04:38,781 INFO Processed 37611092.txt, output: o4-mini-2025-04-16_37611092.sdrf
+2025-06-02 14:04:38,793 INFO Processing file: 34572998.txt, Token count: 7966
+2025-06-02 14:04:38,793 INFO Processing file: 34572998.txt, Token count: 7966
+2025-06-02 14:05:11,802 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:05:11,805 INFO Processed 34572998.txt, output: o4-mini-2025-04-16_34572998.sdrf
+2025-06-02 14:05:11,807 INFO Processing file: 34077720.txt, Token count: 1047
+2025-06-02 14:05:11,807 INFO Processing file: 34077720.txt, Token count: 1047
+2025-06-02 14:05:30,666 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:05:30,668 INFO Processed 34077720.txt, output: o4-mini-2025-04-16_34077720.sdrf
+2025-06-02 14:05:30,671 INFO Processing file: 33658224.txt, Token count: 1034
+2025-06-02 14:05:30,671 INFO Processing file: 33658224.txt, Token count: 1034
+2025-06-02 14:05:39,541 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:05:39,543 INFO Processed 33658224.txt, output: o4-mini-2025-04-16_33658224.sdrf
+2025-06-02 14:05:39,558 INFO Processing file: 37374181.txt, Token count: 9459
+2025-06-02 14:05:39,558 INFO Processing file: 37374181.txt, Token count: 9459
+2025-06-02 14:06:20,750 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:06:20,752 INFO Processed 37374181.txt, output: o4-mini-2025-04-16_37374181.sdrf
+2025-06-02 14:06:20,771 INFO Processing file: 24657495.txt, Token count: 12619
+2025-06-02 14:06:20,771 INFO Processing file: 24657495.txt, Token count: 12619
+2025-06-02 14:07:03,679 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:07:03,681 INFO Processed 24657495.txt, output: o4-mini-2025-04-16_24657495.sdrf
+2025-06-02 14:07:03,684 INFO Processing file: 24776597.txt, Token count: 1272
+2025-06-02 14:07:03,684 INFO Processing file: 24776597.txt, Token count: 1272
+2025-06-02 14:07:25,437 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:07:25,439 INFO Processed 24776597.txt, output: o4-mini-2025-04-16_24776597.sdrf
+2025-06-02 14:07:25,459 INFO Processing file: 36980356.txt, Token count: 13401
+2025-06-02 14:07:25,459 INFO Processing file: 36980356.txt, Token count: 13401
+2025-06-02 14:07:57,271 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:07:57,273 INFO Processed 36980356.txt, output: o4-mini-2025-04-16_36980356.sdrf
+2025-06-02 14:07:57,295 INFO Processing file: 30594554.txt, Token count: 14712
+2025-06-02 14:07:57,295 INFO Processing file: 30594554.txt, Token count: 14712
+2025-06-02 14:08:45,038 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:08:45,041 INFO Processed 30594554.txt, output: o4-mini-2025-04-16_30594554.sdrf
+2025-06-02 14:08:45,058 INFO Processing file: 29681787.txt, Token count: 11394
+2025-06-02 14:08:45,058 INFO Processing file: 29681787.txt, Token count: 11394
+2025-06-02 14:09:11,289 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:09:11,291 INFO Processed 29681787.txt, output: o4-mini-2025-04-16_29681787.sdrf
+2025-06-02 14:09:11,294 INFO Processing file: 30798302.txt, Token count: 1224
+2025-06-02 14:09:11,294 INFO Processing file: 30798302.txt, Token count: 1224
+2025-06-02 14:09:26,823 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:09:26,824 INFO Processed 30798302.txt, output: o4-mini-2025-04-16_30798302.sdrf
+2025-06-02 14:09:26,830 INFO Processing file: 35037038.txt, Token count: 10678
+2025-06-02 14:09:26,830 INFO Processing file: 35037038.txt, Token count: 10678
+2025-06-02 14:10:05,958 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:10:05,960 INFO Processed 35037038.txt, output: o4-mini-2025-04-16_35037038.sdrf
+2025-06-02 14:10:05,963 INFO Processing file: 36317652.txt, Token count: 1134
+2025-06-02 14:10:05,963 INFO Processing file: 36317652.txt, Token count: 1134
+2025-06-02 14:10:27,936 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:10:27,938 INFO Processed 36317652.txt, output: o4-mini-2025-04-16_36317652.sdrf
+2025-06-02 14:10:27,940 INFO Processing file: 3970414.txt, Token count: 1025
+2025-06-02 14:10:27,941 INFO Processing file: 3970414.txt, Token count: 1025
+2025-06-02 14:10:46,333 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:10:46,334 INFO Processed 3970414.txt, output: o4-mini-2025-04-16_3970414.sdrf
+2025-06-02 14:10:46,340 INFO Processing file: 27102203.txt, Token count: 10089
+2025-06-02 14:10:46,340 INFO Processing file: 27102203.txt, Token count: 10089
+2025-06-02 14:11:32,605 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:11:32,606 INFO Processed 27102203.txt, output: o4-mini-2025-04-16_27102203.sdrf
+2025-06-02 14:11:32,609 INFO Processing file: 37280269.txt, Token count: 6772
+2025-06-02 14:11:32,609 INFO Processing file: 37280269.txt, Token count: 6772
+2025-06-02 14:11:58,459 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:11:58,459 INFO Processed 37280269.txt, output: o4-mini-2025-04-16_37280269.sdrf
+2025-06-02 14:11:58,466 INFO Processing file: 26149123.txt, Token count: 15551
+2025-06-02 14:11:58,466 INFO Processing file: 26149123.txt, Token count: 15551
+2025-06-02 14:12:16,007 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:12:16,010 INFO Processed 26149123.txt, output: o4-mini-2025-04-16_26149123.sdrf
+2025-06-02 14:12:16,028 INFO Processing file: 32785189.txt, Token count: 12357
+2025-06-02 14:12:16,029 INFO Processing file: 32785189.txt, Token count: 12357
+2025-06-02 14:12:35,241 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:12:35,244 INFO Processed 32785189.txt, output: o4-mini-2025-04-16_32785189.sdrf
+2025-06-02 14:12:35,267 INFO Processing file: 35236848.txt, Token count: 16152
+2025-06-02 14:12:35,267 INFO Processing file: 35236848.txt, Token count: 16152
+2025-06-02 14:13:05,685 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:13:05,686 INFO Processed 35236848.txt, output: o4-mini-2025-04-16_35236848.sdrf
+2025-06-02 14:13:05,701 INFO Processing file: 36240066.txt, Token count: 18755
+2025-06-02 14:13:05,702 INFO Processing file: 36240066.txt, Token count: 18755
+2025-06-02 14:13:32,560 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:13:32,563 INFO Processed 36240066.txt, output: o4-mini-2025-04-16_36240066.sdrf
+2025-06-02 14:13:32,586 INFO Processing file: 26731301.txt, Token count: 17800
+2025-06-02 14:13:32,586 INFO Processing file: 26731301.txt, Token count: 17800
+2025-06-02 14:14:27,165 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:14:27,167 INFO Processed 26731301.txt, output: o4-mini-2025-04-16_26731301.sdrf
+2025-06-02 14:14:27,170 INFO Processing file: 26035336.txt, Token count: 1174
+2025-06-02 14:14:27,170 INFO Processing file: 26035336.txt, Token count: 1174
+2025-06-02 14:14:49,016 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:14:49,018 INFO Processed 26035336.txt, output: o4-mini-2025-04-16_26035336.sdrf
+2025-06-02 14:14:49,021 INFO Processing file: 38367664.txt, Token count: 1220
+2025-06-02 14:14:49,021 INFO Processing file: 38367664.txt, Token count: 1220
+2025-06-02 14:15:09,079 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:15:09,080 INFO Processed 38367664.txt, output: o4-mini-2025-04-16_38367664.sdrf
+2025-06-02 14:15:09,081 INFO Processing file: 25515538.txt, Token count: 1165
+2025-06-02 14:15:09,081 INFO Processing file: 25515538.txt, Token count: 1165
+2025-06-02 14:15:25,395 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:15:25,398 INFO Processed 25515538.txt, output: o4-mini-2025-04-16_25515538.sdrf
+2025-06-02 14:15:25,417 INFO Processing file: 36499720.txt, Token count: 12662
+2025-06-02 14:15:25,417 INFO Processing file: 36499720.txt, Token count: 12662
+2025-06-02 14:16:06,021 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:16:06,023 INFO Processed 36499720.txt, output: o4-mini-2025-04-16_36499720.sdrf
+2025-06-02 14:16:06,026 INFO Processing file: 26496610.txt, Token count: 1005
+2025-06-02 14:16:06,026 INFO Processing file: 26496610.txt, Token count: 1005
+2025-06-02 14:16:15,070 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:16:15,072 INFO Processed 26496610.txt, output: o4-mini-2025-04-16_26496610.sdrf
+2025-06-02 14:16:15,084 INFO Processing file: 36982475.txt, Token count: 8125
+2025-06-02 14:16:15,084 INFO Processing file: 36982475.txt, Token count: 8125
+2025-06-02 14:16:54,431 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:16:54,433 INFO Processed 36982475.txt, output: o4-mini-2025-04-16_36982475.sdrf
+2025-06-02 14:16:54,463 INFO Processing file: 31395880.txt, Token count: 19831
+2025-06-02 14:16:54,463 INFO Processing file: 31395880.txt, Token count: 19831
+2025-06-02 14:17:29,169 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:17:29,170 INFO Processed 31395880.txt, output: o4-mini-2025-04-16_31395880.sdrf
+2025-06-02 14:17:29,171 INFO Processing file: 26306861.txt, Token count: 1115
+2025-06-02 14:17:29,171 INFO Processing file: 26306861.txt, Token count: 1115
+2025-06-02 14:17:42,019 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:17:42,020 INFO Processed 26306861.txt, output: o4-mini-2025-04-16_26306861.sdrf
+2025-06-02 14:17:42,021 INFO Processing file: 25316064.txt, Token count: 1126
+2025-06-02 14:17:42,021 INFO Processing file: 25316064.txt, Token count: 1126
+2025-06-02 14:17:58,680 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:17:58,682 INFO Processed 25316064.txt, output: o4-mini-2025-04-16_25316064.sdrf
+2025-06-02 14:17:58,704 INFO Processing file: 34576262.txt, Token count: 14521
+2025-06-02 14:17:58,704 INFO Processing file: 34576262.txt, Token count: 14521
+2025-06-02 14:18:21,631 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:18:21,633 INFO Processed 34576262.txt, output: o4-mini-2025-04-16_34576262.sdrf
+2025-06-02 14:18:21,635 INFO Processing file: 34762820.txt, Token count: 1145
+2025-06-02 14:18:21,636 INFO Processing file: 34762820.txt, Token count: 1145
+2025-06-02 14:18:33,817 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:18:33,819 INFO Processed 34762820.txt, output: o4-mini-2025-04-16_34762820.sdrf
+2025-06-02 14:18:33,837 INFO Processing file: 33266304.txt, Token count: 11372
+2025-06-02 14:18:33,837 INFO Processing file: 33266304.txt, Token count: 11372
+2025-06-02 14:18:55,061 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:18:55,062 INFO Processed 33266304.txt, output: o4-mini-2025-04-16_33266304.sdrf
+2025-06-02 14:18:55,071 INFO Processing file: 37774976.txt, Token count: 21549
+2025-06-02 14:18:55,072 INFO Processing file: 37774976.txt, Token count: 21549
+2025-06-02 14:19:20,951 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:19:20,952 INFO Processed 37774976.txt, output: o4-mini-2025-04-16_37774976.sdrf
+2025-06-02 14:19:20,953 INFO Processing file: 25755297.txt, Token count: 1251
+2025-06-02 14:19:20,953 INFO Processing file: 25755297.txt, Token count: 1251
+2025-06-02 14:19:26,739 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:19:26,741 INFO Processed 25755297.txt, output: o4-mini-2025-04-16_25755297.sdrf
+2025-06-02 14:19:26,742 INFO Processing file: 25074045.txt, Token count: 1107
+2025-06-02 14:19:26,742 INFO Processing file: 25074045.txt, Token count: 1107
+2025-06-02 14:19:42,547 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:19:42,548 INFO Processed 25074045.txt, output: o4-mini-2025-04-16_25074045.sdrf
+2025-06-02 14:19:42,549 INFO Processing file: 21081695.txt, Token count: 1149
+2025-06-02 14:19:42,549 INFO Processing file: 21081695.txt, Token count: 1149
+2025-06-02 14:19:52,156 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:19:52,157 INFO Processed 21081695.txt, output: o4-mini-2025-04-16_21081695.sdrf
+2025-06-02 14:19:52,158 INFO Processing file: 27027324.txt, Token count: 1190
+2025-06-02 14:19:52,158 INFO Processing file: 27027324.txt, Token count: 1190
+2025-06-02 14:20:07,833 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:20:07,834 INFO Processed 27027324.txt, output: o4-mini-2025-04-16_27027324.sdrf
+2025-06-02 14:20:07,835 INFO Processing file: 31773964.txt, Token count: 1226
+2025-06-02 14:20:07,835 INFO Processing file: 31773964.txt, Token count: 1226
+2025-06-02 14:20:17,758 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:20:17,759 INFO Processed 31773964.txt, output: o4-mini-2025-04-16_31773964.sdrf
+2025-06-02 14:20:17,765 INFO Processing file: 25218447.txt, Token count: 12893
+2025-06-02 14:20:17,765 INFO Processing file: 25218447.txt, Token count: 12893
+2025-06-02 14:21:03,849 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:21:03,851 INFO Processed 25218447.txt, output: o4-mini-2025-04-16_25218447.sdrf
+2025-06-02 14:21:03,869 INFO Processing file: 34723797.txt, Token count: 19942
+2025-06-02 14:21:03,869 INFO Processing file: 34723797.txt, Token count: 19942
+2025-06-02 14:21:36,644 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:21:36,645 INFO Processed 34723797.txt, output: o4-mini-2025-04-16_34723797.sdrf
+2025-06-02 14:21:36,647 INFO Processing file: 38415248.txt, Token count: 946
+2025-06-02 14:21:36,647 INFO Processing file: 38415248.txt, Token count: 946
+2025-06-02 14:21:40,900 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:21:40,902 INFO Processed 38415248.txt, output: o4-mini-2025-04-16_38415248.sdrf
+2025-06-02 14:21:40,915 INFO Processing file: 37253964.txt, Token count: 12888
+2025-06-02 14:21:40,916 INFO Processing file: 37253964.txt, Token count: 12888
+2025-06-02 14:22:05,369 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:22:05,371 INFO Processed 37253964.txt, output: o4-mini-2025-04-16_37253964.sdrf
+2025-06-02 14:22:05,373 INFO Processing file: 38130664.txt, Token count: 1106
+2025-06-02 14:22:05,373 INFO Processing file: 38130664.txt, Token count: 1106
+2025-06-02 14:22:18,858 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:22:18,860 INFO Processed 38130664.txt, output: o4-mini-2025-04-16_38130664.sdrf
+2025-06-02 14:22:18,877 INFO Processing file: 21183079.txt, Token count: 10847
+2025-06-02 14:22:18,877 INFO Processing file: 21183079.txt, Token count: 10847
+2025-06-02 14:22:38,676 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:22:38,679 INFO Processed 21183079.txt, output: o4-mini-2025-04-16_21183079.sdrf
+2025-06-02 14:22:38,699 INFO Processing file: 30728824.txt, Token count: 13534
+2025-06-02 14:22:38,699 INFO Processing file: 30728824.txt, Token count: 13534
+2025-06-02 14:23:38,457 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:23:38,460 INFO Processed 30728824.txt, output: o4-mini-2025-04-16_30728824.sdrf
+2025-06-02 14:23:38,462 INFO Processing file: 36773646.txt, Token count: 1085
+2025-06-02 14:23:38,462 INFO Processing file: 36773646.txt, Token count: 1085
+2025-06-02 14:24:03,779 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:24:03,779 INFO Processed 36773646.txt, output: o4-mini-2025-04-16_36773646.sdrf
+2025-06-02 14:24:03,785 INFO Processing file: 34138841.txt, Token count: 15546
+2025-06-02 14:24:03,785 INFO Processing file: 34138841.txt, Token count: 15546
+2025-06-02 14:24:39,508 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:24:39,517 INFO Processed 34138841.txt, output: o4-mini-2025-04-16_34138841.sdrf
+2025-06-02 14:24:39,525 INFO Processing file: 36604600.txt, Token count: 14227
+2025-06-02 14:24:39,525 INFO Processing file: 36604600.txt, Token count: 14227
+2025-06-02 14:25:19,178 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:25:19,181 INFO Processed 36604600.txt, output: o4-mini-2025-04-16_36604600.sdrf
+2025-06-02 14:25:19,183 INFO Processing file: 28960076.txt, Token count: 1056
+2025-06-02 14:25:19,183 INFO Processing file: 28960076.txt, Token count: 1056
+2025-06-02 14:25:33,219 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:25:33,222 INFO Processed 28960076.txt, output: o4-mini-2025-04-16_28960076.sdrf
+2025-06-02 14:25:33,232 INFO Processing file: 33630598.txt, Token count: 6517
+2025-06-02 14:25:33,232 INFO Processing file: 33630598.txt, Token count: 6517
+2025-06-02 14:26:22,369 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:26:22,371 INFO Processed 33630598.txt, output: o4-mini-2025-04-16_33630598.sdrf
+2025-06-02 14:26:22,396 INFO Processing file: 26609137.txt, Token count: 16736
+2025-06-02 14:26:22,396 INFO Processing file: 26609137.txt, Token count: 16736
+2025-06-02 14:27:08,124 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:27:08,125 INFO Processed 26609137.txt, output: o4-mini-2025-04-16_26609137.sdrf
+2025-06-02 14:27:08,135 INFO Processing file: 35963242.txt, Token count: 20280
+2025-06-02 14:27:08,135 INFO Processing file: 35963242.txt, Token count: 20280
+2025-06-02 14:27:38,301 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:27:38,303 INFO Processed 35963242.txt, output: o4-mini-2025-04-16_35963242.sdrf
+2025-06-02 14:27:38,326 INFO Processing file: 35131898.txt, Token count: 15811
+2025-06-02 14:27:38,326 INFO Processing file: 35131898.txt, Token count: 15811
+2025-06-02 14:28:15,771 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:28:15,773 INFO Processed 35131898.txt, output: o4-mini-2025-04-16_35131898.sdrf
+2025-06-02 14:28:15,776 INFO Processing file: 26760575.txt, Token count: 1135
+2025-06-02 14:28:15,776 INFO Processing file: 26760575.txt, Token count: 1135
+2025-06-02 14:28:20,326 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:28:20,329 INFO Processed 26760575.txt, output: o4-mini-2025-04-16_26760575.sdrf
+2025-06-02 14:28:20,344 INFO Processing file: 28054942.txt, Token count: 9444
+2025-06-02 14:28:20,344 INFO Processing file: 28054942.txt, Token count: 9444
+2025-06-02 14:28:41,513 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:28:41,516 INFO Processed 28054942.txt, output: o4-mini-2025-04-16_28054942.sdrf
+2025-06-02 14:28:41,535 INFO Processing file: 37681923.txt, Token count: 12657
+2025-06-02 14:28:41,535 INFO Processing file: 37681923.txt, Token count: 12657
+2025-06-02 14:29:42,956 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:29:42,959 INFO Processed 37681923.txt, output: o4-mini-2025-04-16_37681923.sdrf
+2025-06-02 14:29:42,978 INFO Processing file: 34128081.txt, Token count: 13244
+2025-06-02 14:29:42,978 INFO Processing file: 34128081.txt, Token count: 13244
+2025-06-02 14:30:30,950 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:30:30,952 INFO Processed 34128081.txt, output: o4-mini-2025-04-16_34128081.sdrf
+2025-06-02 14:30:30,971 INFO Processing file: 36674559.txt, Token count: 12554
+2025-06-02 14:30:30,972 INFO Processing file: 36674559.txt, Token count: 12554
+2025-06-02 14:31:21,292 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:31:21,302 INFO Processed 36674559.txt, output: o4-mini-2025-04-16_36674559.sdrf
+2025-06-02 14:31:21,321 INFO Processing file: 37047404.txt, Token count: 11929
+2025-06-02 14:31:21,321 INFO Processing file: 37047404.txt, Token count: 11929
+2025-06-02 14:31:47,333 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:31:47,336 INFO Processed 37047404.txt, output: o4-mini-2025-04-16_37047404.sdrf
+2025-06-02 14:31:47,353 INFO Processing file: 37778379.txt, Token count: 11404
+2025-06-02 14:31:47,353 INFO Processing file: 37778379.txt, Token count: 11404
+2025-06-02 14:32:14,953 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:32:14,955 INFO Processed 37778379.txt, output: o4-mini-2025-04-16_37778379.sdrf
+2025-06-02 14:32:14,969 INFO Processing file: 32860207.txt, Token count: 8954
+2025-06-02 14:32:14,969 INFO Processing file: 32860207.txt, Token count: 8954
+2025-06-02 14:32:34,265 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:32:34,267 INFO Processed 32860207.txt, output: o4-mini-2025-04-16_32860207.sdrf
+2025-06-02 14:32:34,270 INFO Processing file: 28364001.txt, Token count: 1099
+2025-06-02 14:32:34,270 INFO Processing file: 28364001.txt, Token count: 1099
+2025-06-02 14:32:50,882 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:32:50,884 INFO Processed 28364001.txt, output: o4-mini-2025-04-16_28364001.sdrf
+2025-06-02 14:32:50,900 INFO Processing file: 28439285.txt, Token count: 9860
+2025-06-02 14:32:50,900 INFO Processing file: 28439285.txt, Token count: 9860
+2025-06-02 14:33:18,390 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:33:18,393 INFO Processed 28439285.txt, output: o4-mini-2025-04-16_28439285.sdrf
+2025-06-02 14:33:18,412 INFO Processing file: 36292738.txt, Token count: 12821
+2025-06-02 14:33:18,412 INFO Processing file: 36292738.txt, Token count: 12821
+2025-06-02 14:34:03,910 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:34:03,912 INFO Processed 36292738.txt, output: o4-mini-2025-04-16_36292738.sdrf
+2025-06-02 14:34:03,929 INFO Processing file: 28709472.txt, Token count: 11524
+2025-06-02 14:34:03,929 INFO Processing file: 28709472.txt, Token count: 11524
+2025-06-02 14:34:31,289 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:34:31,291 INFO Processed 28709472.txt, output: o4-mini-2025-04-16_28709472.sdrf
+2025-06-02 14:34:31,308 INFO Processing file: 36269744.txt, Token count: 11857
+2025-06-02 14:34:31,308 INFO Processing file: 36269744.txt, Token count: 11857
+2025-06-02 14:35:08,362 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:35:08,364 INFO Processed 36269744.txt, output: o4-mini-2025-04-16_36269744.sdrf
+2025-06-02 14:35:08,392 INFO Processing file: 30794532.txt, Token count: 19726
+2025-06-02 14:35:08,392 INFO Processing file: 30794532.txt, Token count: 19726
+2025-06-02 14:35:28,167 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:35:28,169 INFO Processed 30794532.txt, output: o4-mini-2025-04-16_30794532.sdrf
+2025-06-02 14:35:28,185 INFO Processing file: 27068479.txt, Token count: 10263
+2025-06-02 14:35:28,185 INFO Processing file: 27068479.txt, Token count: 10263
+2025-06-02 14:35:48,831 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:35:48,833 INFO Processed 27068479.txt, output: o4-mini-2025-04-16_27068479.sdrf
+2025-06-02 14:35:48,854 INFO Processing file: 32817103.txt, Token count: 15182
+2025-06-02 14:35:48,854 INFO Processing file: 32817103.txt, Token count: 15182
+2025-06-02 14:36:17,999 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:36:18,001 INFO Processed 32817103.txt, output: o4-mini-2025-04-16_32817103.sdrf
+2025-06-02 14:36:18,027 INFO Processing file: 33855848.txt, Token count: 17625
+2025-06-02 14:36:18,027 INFO Processing file: 33855848.txt, Token count: 17625
+2025-06-02 14:37:00,294 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 14:37:00,297 INFO Processed 33855848.txt, output: o4-mini-2025-04-16_33855848.sdrf

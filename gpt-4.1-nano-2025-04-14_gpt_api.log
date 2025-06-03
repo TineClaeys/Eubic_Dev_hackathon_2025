@@ -1,0 +1,619 @@
+2025-06-02 17:32:36,926 INFO Processing file: 35425721.txt, Token count: 13660
+2025-06-02 17:32:36,926 INFO Processing file: 35425721.txt, Token count: 13660
+2025-06-02 17:32:37,260 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-06-02 17:32:54,908 INFO Processing file: 35425721.txt, Token count: 13660
+2025-06-02 17:32:54,908 INFO Processing file: 35425721.txt, Token count: 13660
+2025-06-02 17:33:03,134 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:03,140 INFO Processed 35425721.txt, output: gpt-4.1-nano-2025-04-14_35425721.sdrf
+2025-06-02 17:33:03,141 INFO Processing file: 37439347.txt, Token count: 1147
+2025-06-02 17:33:03,141 INFO Processing file: 37439347.txt, Token count: 1147
+2025-06-02 17:33:04,631 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:04,636 INFO Processed 37439347.txt, output: gpt-4.1-nano-2025-04-14_37439347.sdrf
+2025-06-02 17:33:04,648 INFO Processing file: 37207340.txt, Token count: 17094
+2025-06-02 17:33:04,648 INFO Processing file: 37207340.txt, Token count: 17094
+2025-06-02 17:33:12,879 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:12,883 INFO Processed 37207340.txt, output: gpt-4.1-nano-2025-04-14_37207340.sdrf
+2025-06-02 17:33:12,885 INFO Processing file: 30245083.txt, Token count: 988
+2025-06-02 17:33:12,885 INFO Processing file: 30245083.txt, Token count: 988
+2025-06-02 17:33:13,519 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:13,532 INFO Processed 30245083.txt, output: gpt-4.1-nano-2025-04-14_30245083.sdrf
+2025-06-02 17:33:13,551 INFO Processing file: 36653852.txt, Token count: 12908
+2025-06-02 17:33:13,551 INFO Processing file: 36653852.txt, Token count: 12908
+2025-06-02 17:33:18,427 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:18,429 INFO Processed 36653852.txt, output: gpt-4.1-nano-2025-04-14_36653852.sdrf
+2025-06-02 17:33:18,441 INFO Processing file: 36702456.txt, Token count: 7806
+2025-06-02 17:33:18,441 INFO Processing file: 36702456.txt, Token count: 7806
+2025-06-02 17:33:21,592 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:21,595 INFO Processed 36702456.txt, output: gpt-4.1-nano-2025-04-14_36702456.sdrf
+2025-06-02 17:33:21,619 INFO Processing file: 34416233.txt, Token count: 14381
+2025-06-02 17:33:21,619 INFO Processing file: 34416233.txt, Token count: 14381
+2025-06-02 17:33:31,537 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:31,539 INFO Processed 34416233.txt, output: gpt-4.1-nano-2025-04-14_34416233.sdrf
+2025-06-02 17:33:31,542 INFO Processing file: 25886026.txt, Token count: 1207
+2025-06-02 17:33:31,542 INFO Processing file: 25886026.txt, Token count: 1207
+2025-06-02 17:33:34,610 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:34,612 INFO Processed 25886026.txt, output: gpt-4.1-nano-2025-04-14_25886026.sdrf
+2025-06-02 17:33:34,637 INFO Processing file: 36097293.txt, Token count: 17151
+2025-06-02 17:33:34,637 INFO Processing file: 36097293.txt, Token count: 17151
+2025-06-02 17:33:52,852 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:52,860 INFO Processed 36097293.txt, output: gpt-4.1-nano-2025-04-14_36097293.sdrf
+2025-06-02 17:33:52,889 INFO Processing file: 32284562.txt, Token count: 22315
+2025-06-02 17:33:52,889 INFO Processing file: 32284562.txt, Token count: 22315
+2025-06-02 17:33:57,219 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:33:57,226 INFO Processed 32284562.txt, output: gpt-4.1-nano-2025-04-14_32284562.sdrf
+2025-06-02 17:33:57,247 INFO Processing file: 36983784.txt, Token count: 14160
+2025-06-02 17:33:57,247 INFO Processing file: 36983784.txt, Token count: 14160
+2025-06-02 17:34:02,097 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:02,099 INFO Processed 36983784.txt, output: gpt-4.1-nano-2025-04-14_36983784.sdrf
+2025-06-02 17:34:02,111 INFO Processing file: 31185456.txt, Token count: 8135
+2025-06-02 17:34:02,112 INFO Processing file: 31185456.txt, Token count: 8135
+2025-06-02 17:34:15,399 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:15,401 INFO Processed 31185456.txt, output: gpt-4.1-nano-2025-04-14_31185456.sdrf
+2025-06-02 17:34:15,404 INFO Processing file: 36525778.txt, Token count: 1228
+2025-06-02 17:34:15,404 INFO Processing file: 36525778.txt, Token count: 1228
+2025-06-02 17:34:17,568 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:17,570 INFO Processed 36525778.txt, output: gpt-4.1-nano-2025-04-14_36525778.sdrf
+2025-06-02 17:34:17,587 INFO Processing file: 31733513.txt, Token count: 11923
+2025-06-02 17:34:17,588 INFO Processing file: 31733513.txt, Token count: 11923
+2025-06-02 17:34:22,395 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:22,397 INFO Processed 31733513.txt, output: gpt-4.1-nano-2025-04-14_31733513.sdrf
+2025-06-02 17:34:22,419 INFO Processing file: 36220102.txt, Token count: 15293
+2025-06-02 17:34:22,419 INFO Processing file: 36220102.txt, Token count: 15293
+2025-06-02 17:34:27,421 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:27,423 INFO Processed 36220102.txt, output: gpt-4.1-nano-2025-04-14_36220102.sdrf
+2025-06-02 17:34:27,453 INFO Processing file: 37854702.txt, Token count: 20711
+2025-06-02 17:34:27,453 INFO Processing file: 37854702.txt, Token count: 20711
+2025-06-02 17:34:37,185 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:37,189 INFO Processed 37854702.txt, output: gpt-4.1-nano-2025-04-14_37854702.sdrf
+2025-06-02 17:34:37,191 INFO Processing file: 38154689.txt, Token count: 1275
+2025-06-02 17:34:37,191 INFO Processing file: 38154689.txt, Token count: 1275
+2025-06-02 17:34:39,050 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:39,053 INFO Processed 38154689.txt, output: gpt-4.1-nano-2025-04-14_38154689.sdrf
+2025-06-02 17:34:39,055 INFO Processing file: 26572953.txt, Token count: 1010
+2025-06-02 17:34:39,055 INFO Processing file: 26572953.txt, Token count: 1010
+2025-06-02 17:34:41,582 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:41,585 INFO Processed 26572953.txt, output: gpt-4.1-nano-2025-04-14_26572953.sdrf
+2025-06-02 17:34:41,604 INFO Processing file: 31642809.txt, Token count: 13096
+2025-06-02 17:34:41,604 INFO Processing file: 31642809.txt, Token count: 13096
+2025-06-02 17:34:46,991 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:46,993 INFO Processed 31642809.txt, output: gpt-4.1-nano-2025-04-14_31642809.sdrf
+2025-06-02 17:34:46,996 INFO Processing file: 36940913.txt, Token count: 1167
+2025-06-02 17:34:46,996 INFO Processing file: 36940913.txt, Token count: 1167
+2025-06-02 17:34:47,936 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:47,938 INFO Processed 36940913.txt, output: gpt-4.1-nano-2025-04-14_36940913.sdrf
+2025-06-02 17:34:47,953 INFO Processing file: 35852874.txt, Token count: 9608
+2025-06-02 17:34:47,953 INFO Processing file: 35852874.txt, Token count: 9608
+2025-06-02 17:34:55,105 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:34:55,107 INFO Processed 35852874.txt, output: gpt-4.1-nano-2025-04-14_35852874.sdrf
+2025-06-02 17:34:55,126 INFO Processing file: 28091603.txt, Token count: 13356
+2025-06-02 17:34:55,127 INFO Processing file: 28091603.txt, Token count: 13356
+2025-06-02 17:35:00,194 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:00,196 INFO Processed 28091603.txt, output: gpt-4.1-nano-2025-04-14_28091603.sdrf
+2025-06-02 17:35:00,206 INFO Processing file: 28071813.txt, Token count: 6822
+2025-06-02 17:35:00,206 INFO Processing file: 28071813.txt, Token count: 6822
+2025-06-02 17:35:05,650 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:05,653 INFO Processed 28071813.txt, output: gpt-4.1-nano-2025-04-14_28071813.sdrf
+2025-06-02 17:35:05,655 INFO Processing file: 20089766.txt, Token count: 1210
+2025-06-02 17:35:05,655 INFO Processing file: 20089766.txt, Token count: 1210
+2025-06-02 17:35:08,377 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:08,379 INFO Processed 20089766.txt, output: gpt-4.1-nano-2025-04-14_20089766.sdrf
+2025-06-02 17:35:08,400 INFO Processing file: 35402076.txt, Token count: 14466
+2025-06-02 17:35:08,400 INFO Processing file: 35402076.txt, Token count: 14466
+2025-06-02 17:35:17,634 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:17,636 INFO Processed 35402076.txt, output: gpt-4.1-nano-2025-04-14_35402076.sdrf
+2025-06-02 17:35:17,639 INFO Processing file: 25405705.txt, Token count: 1137
+2025-06-02 17:35:17,639 INFO Processing file: 25405705.txt, Token count: 1137
+2025-06-02 17:35:19,522 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:19,525 INFO Processed 25405705.txt, output: gpt-4.1-nano-2025-04-14_25405705.sdrf
+2025-06-02 17:35:19,527 INFO Processing file: 33596053.txt, Token count: 1055
+2025-06-02 17:35:19,527 INFO Processing file: 33596053.txt, Token count: 1055
+2025-06-02 17:35:21,315 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:21,319 INFO Processed 33596053.txt, output: gpt-4.1-nano-2025-04-14_33596053.sdrf
+2025-06-02 17:35:21,321 INFO Processing file: 38063474.txt, Token count: 1204
+2025-06-02 17:35:21,321 INFO Processing file: 38063474.txt, Token count: 1204
+2025-06-02 17:35:23,664 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:23,666 INFO Processed 38063474.txt, output: gpt-4.1-nano-2025-04-14_38063474.sdrf
+2025-06-02 17:35:23,668 INFO Processing file: 38047073.txt, Token count: 1073
+2025-06-02 17:35:23,669 INFO Processing file: 38047073.txt, Token count: 1073
+2025-06-02 17:35:25,805 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:25,807 INFO Processed 38047073.txt, output: gpt-4.1-nano-2025-04-14_38047073.sdrf
+2025-06-02 17:35:25,833 INFO Processing file: 35236989.txt, Token count: 18671
+2025-06-02 17:35:25,833 INFO Processing file: 35236989.txt, Token count: 18671
+2025-06-02 17:35:39,961 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:39,963 INFO Processed 35236989.txt, output: gpt-4.1-nano-2025-04-14_35236989.sdrf
+2025-06-02 17:35:39,984 INFO Processing file: 36741463.txt, Token count: 13908
+2025-06-02 17:35:39,984 INFO Processing file: 36741463.txt, Token count: 13908
+2025-06-02 17:35:46,119 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:46,124 INFO Processed 36741463.txt, output: gpt-4.1-nano-2025-04-14_36741463.sdrf
+2025-06-02 17:35:46,140 INFO Processing file: 32877642.txt, Token count: 10595
+2025-06-02 17:35:46,140 INFO Processing file: 32877642.txt, Token count: 10595
+2025-06-02 17:35:50,835 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:35:50,837 INFO Processed 32877642.txt, output: gpt-4.1-nano-2025-04-14_32877642.sdrf
+2025-06-02 17:35:50,858 INFO Processing file: 31699904.txt, Token count: 14873
+2025-06-02 17:35:50,859 INFO Processing file: 31699904.txt, Token count: 14873
+2025-06-02 17:36:02,012 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:02,016 INFO Processed 31699904.txt, output: gpt-4.1-nano-2025-04-14_31699904.sdrf
+2025-06-02 17:36:02,039 INFO Processing file: 28680058.txt, Token count: 17043
+2025-06-02 17:36:02,040 INFO Processing file: 28680058.txt, Token count: 17043
+2025-06-02 17:36:15,613 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:15,615 INFO Processed 28680058.txt, output: gpt-4.1-nano-2025-04-14_28680058.sdrf
+2025-06-02 17:36:15,618 INFO Processing file: 38154691.txt, Token count: 1057
+2025-06-02 17:36:15,618 INFO Processing file: 38154691.txt, Token count: 1057
+2025-06-02 17:36:17,500 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:17,505 INFO Processed 38154691.txt, output: gpt-4.1-nano-2025-04-14_38154691.sdrf
+2025-06-02 17:36:17,521 INFO Processing file: 36979426.txt, Token count: 10281
+2025-06-02 17:36:17,521 INFO Processing file: 36979426.txt, Token count: 10281
+2025-06-02 17:36:22,682 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:22,684 INFO Processed 36979426.txt, output: gpt-4.1-nano-2025-04-14_36979426.sdrf
+2025-06-02 17:36:22,687 INFO Processing file: 31424513.txt, Token count: 1189
+2025-06-02 17:36:22,687 INFO Processing file: 31424513.txt, Token count: 1189
+2025-06-02 17:36:25,338 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:25,342 INFO Processed 31424513.txt, output: gpt-4.1-nano-2025-04-14_31424513.sdrf
+2025-06-02 17:36:25,356 INFO Processing file: 36212541.txt, Token count: 9610
+2025-06-02 17:36:25,357 INFO Processing file: 36212541.txt, Token count: 9610
+2025-06-02 17:36:34,115 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:34,122 INFO Processed 36212541.txt, output: gpt-4.1-nano-2025-04-14_36212541.sdrf
+2025-06-02 17:36:34,137 INFO Processing file: 31816881.txt, Token count: 10497
+2025-06-02 17:36:34,138 INFO Processing file: 31816881.txt, Token count: 10497
+2025-06-02 17:36:41,159 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:41,162 INFO Processed 31816881.txt, output: gpt-4.1-nano-2025-04-14_31816881.sdrf
+2025-06-02 17:36:41,164 INFO Processing file: 38253038.txt, Token count: 1185
+2025-06-02 17:36:41,164 INFO Processing file: 38253038.txt, Token count: 1185
+2025-06-02 17:36:42,743 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:42,745 INFO Processed 38253038.txt, output: gpt-4.1-nano-2025-04-14_38253038.sdrf
+2025-06-02 17:36:42,765 INFO Processing file: 37301900.txt, Token count: 14526
+2025-06-02 17:36:42,765 INFO Processing file: 37301900.txt, Token count: 14526
+2025-06-02 17:36:53,778 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:36:53,780 INFO Processed 37301900.txt, output: gpt-4.1-nano-2025-04-14_37301900.sdrf
+2025-06-02 17:36:53,795 INFO Processing file: 34604665.txt, Token count: 10417
+2025-06-02 17:36:53,795 INFO Processing file: 34604665.txt, Token count: 10417
+2025-06-02 17:37:01,806 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:37:01,813 INFO Processed 34604665.txt, output: gpt-4.1-nano-2025-04-14_34604665.sdrf
+2025-06-02 17:37:01,824 INFO Processing file: 31699905.txt, Token count: 7010
+2025-06-02 17:37:01,824 INFO Processing file: 31699905.txt, Token count: 7010
+2025-06-02 17:37:07,282 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:37:07,285 INFO Processed 31699905.txt, output: gpt-4.1-nano-2025-04-14_31699905.sdrf
+2025-06-02 17:37:07,302 INFO Processing file: 25100859.txt, Token count: 11935
+2025-06-02 17:37:07,302 INFO Processing file: 25100859.txt, Token count: 11935
+2025-06-02 17:37:21,333 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:37:21,336 INFO Processed 25100859.txt, output: gpt-4.1-nano-2025-04-14_25100859.sdrf
+2025-06-02 17:37:21,363 INFO Processing file: 36089606.txt, Token count: 18788
+2025-06-02 17:37:21,363 INFO Processing file: 36089606.txt, Token count: 18788
+2025-06-02 17:37:57,235 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:37:57,302 INFO Processed 36089606.txt, output: gpt-4.1-nano-2025-04-14_36089606.sdrf
+2025-06-02 17:37:57,324 INFO Processing file: 37094092.txt, Token count: 14826
+2025-06-02 17:37:57,324 INFO Processing file: 37094092.txt, Token count: 14826
+2025-06-02 17:38:08,132 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:08,134 INFO Processed 37094092.txt, output: gpt-4.1-nano-2025-04-14_37094092.sdrf
+2025-06-02 17:38:08,137 INFO Processing file: 26801919.txt, Token count: 1295
+2025-06-02 17:38:08,137 INFO Processing file: 26801919.txt, Token count: 1295
+2025-06-02 17:38:10,432 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:10,435 INFO Processed 26801919.txt, output: gpt-4.1-nano-2025-04-14_26801919.sdrf
+2025-06-02 17:38:10,437 INFO Processing file: 38390966.txt, Token count: 969
+2025-06-02 17:38:10,437 INFO Processing file: 38390966.txt, Token count: 969
+2025-06-02 17:38:11,264 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:11,265 INFO Processed 38390966.txt, output: gpt-4.1-nano-2025-04-14_38390966.sdrf
+2025-06-02 17:38:11,268 INFO Processing file: 31814417.txt, Token count: 1137
+2025-06-02 17:38:11,268 INFO Processing file: 31814417.txt, Token count: 1137
+2025-06-02 17:38:13,152 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:13,154 INFO Processed 31814417.txt, output: gpt-4.1-nano-2025-04-14_31814417.sdrf
+2025-06-02 17:38:13,160 INFO Processing file: 35677457.txt, Token count: 3176
+2025-06-02 17:38:13,160 INFO Processing file: 35677457.txt, Token count: 3176
+2025-06-02 17:38:17,099 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:17,101 INFO Processed 35677457.txt, output: gpt-4.1-nano-2025-04-14_35677457.sdrf
+2025-06-02 17:38:17,110 INFO Processing file: 28675934.txt, Token count: 5609
+2025-06-02 17:38:17,110 INFO Processing file: 28675934.txt, Token count: 5609
+2025-06-02 17:38:20,984 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:20,986 INFO Processed 28675934.txt, output: gpt-4.1-nano-2025-04-14_28675934.sdrf
+2025-06-02 17:38:21,004 INFO Processing file: 33918763.txt, Token count: 11939
+2025-06-02 17:38:21,004 INFO Processing file: 33918763.txt, Token count: 11939
+2025-06-02 17:38:29,899 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:29,902 INFO Processed 33918763.txt, output: gpt-4.1-nano-2025-04-14_33918763.sdrf
+2025-06-02 17:38:29,904 INFO Processing file: 26081835.txt, Token count: 1065
+2025-06-02 17:38:29,904 INFO Processing file: 26081835.txt, Token count: 1065
+2025-06-02 17:38:31,560 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:31,563 INFO Processed 26081835.txt, output: gpt-4.1-nano-2025-04-14_26081835.sdrf
+2025-06-02 17:38:31,565 INFO Processing file: 29678115.txt, Token count: 1118
+2025-06-02 17:38:31,566 INFO Processing file: 29678115.txt, Token count: 1118
+2025-06-02 17:38:33,226 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:33,228 INFO Processed 29678115.txt, output: gpt-4.1-nano-2025-04-14_29678115.sdrf
+2025-06-02 17:38:33,242 INFO Processing file: 26725330.txt, Token count: 9442
+2025-06-02 17:38:33,242 INFO Processing file: 26725330.txt, Token count: 9442
+2025-06-02 17:38:42,788 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:42,793 INFO Processed 26725330.txt, output: gpt-4.1-nano-2025-04-14_26725330.sdrf
+2025-06-02 17:38:42,807 INFO Processing file: 26076430.txt, Token count: 9163
+2025-06-02 17:38:42,807 INFO Processing file: 26076430.txt, Token count: 9163
+2025-06-02 17:38:49,594 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:49,610 INFO Processed 26076430.txt, output: gpt-4.1-nano-2025-04-14_26076430.sdrf
+2025-06-02 17:38:49,626 INFO Processing file: 31316139.txt, Token count: 11162
+2025-06-02 17:38:49,626 INFO Processing file: 31316139.txt, Token count: 11162
+2025-06-02 17:38:54,735 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:38:54,737 INFO Processed 31316139.txt, output: gpt-4.1-nano-2025-04-14_31316139.sdrf
+2025-06-02 17:38:54,760 INFO Processing file: 37063823.txt, Token count: 15442
+2025-06-02 17:38:54,760 INFO Processing file: 37063823.txt, Token count: 15442
+2025-06-02 17:39:04,092 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:04,094 INFO Processed 37063823.txt, output: gpt-4.1-nano-2025-04-14_37063823.sdrf
+2025-06-02 17:39:04,121 INFO Processing file: 31075098.txt, Token count: 18687
+2025-06-02 17:39:04,121 INFO Processing file: 31075098.txt, Token count: 18687
+2025-06-02 17:39:32,396 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:32,440 INFO Processed 31075098.txt, output: gpt-4.1-nano-2025-04-14_31075098.sdrf
+2025-06-02 17:39:32,443 INFO Processing file: 31009805.txt, Token count: 1234
+2025-06-02 17:39:32,443 INFO Processing file: 31009805.txt, Token count: 1234
+2025-06-02 17:39:33,474 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:33,476 INFO Processed 31009805.txt, output: gpt-4.1-nano-2025-04-14_31009805.sdrf
+2025-06-02 17:39:33,478 INFO Processing file: 34866441.txt, Token count: 1167
+2025-06-02 17:39:33,479 INFO Processing file: 34866441.txt, Token count: 1167
+2025-06-02 17:39:37,577 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:37,587 INFO Processed 34866441.txt, output: gpt-4.1-nano-2025-04-14_34866441.sdrf
+2025-06-02 17:39:37,595 INFO Processing file: 36426076.txt, Token count: 4658
+2025-06-02 17:39:37,595 INFO Processing file: 36426076.txt, Token count: 4658
+2025-06-02 17:39:39,990 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:40,002 INFO Processed 36426076.txt, output: gpt-4.1-nano-2025-04-14_36426076.sdrf
+2025-06-02 17:39:40,004 INFO Processing file: 37093976.txt, Token count: 966
+2025-06-02 17:39:40,004 INFO Processing file: 37093976.txt, Token count: 966
+2025-06-02 17:39:41,172 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:41,177 INFO Processed 37093976.txt, output: gpt-4.1-nano-2025-04-14_37093976.sdrf
+2025-06-02 17:39:41,192 INFO Processing file: 28424693.txt, Token count: 9874
+2025-06-02 17:39:41,193 INFO Processing file: 28424693.txt, Token count: 9874
+2025-06-02 17:39:55,824 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:55,839 INFO Processed 28424693.txt, output: gpt-4.1-nano-2025-04-14_28424693.sdrf
+2025-06-02 17:39:55,842 INFO Processing file: 28382632.txt, Token count: 1092
+2025-06-02 17:39:55,842 INFO Processing file: 28382632.txt, Token count: 1092
+2025-06-02 17:39:57,801 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:57,804 INFO Processed 28382632.txt, output: gpt-4.1-nano-2025-04-14_28382632.sdrf
+2025-06-02 17:39:57,807 INFO Processing file: 34962809.txt, Token count: 1143
+2025-06-02 17:39:57,807 INFO Processing file: 34962809.txt, Token count: 1143
+2025-06-02 17:39:59,890 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:39:59,896 INFO Processed 34962809.txt, output: gpt-4.1-nano-2025-04-14_34962809.sdrf
+2025-06-02 17:39:59,914 INFO Processing file: 35709300.txt, Token count: 12978
+2025-06-02 17:39:59,915 INFO Processing file: 35709300.txt, Token count: 12978
+2025-06-02 17:40:06,314 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:06,317 INFO Processed 35709300.txt, output: gpt-4.1-nano-2025-04-14_35709300.sdrf
+2025-06-02 17:40:06,345 INFO Processing file: 35680998.txt, Token count: 19637
+2025-06-02 17:40:06,345 INFO Processing file: 35680998.txt, Token count: 19637
+2025-06-02 17:40:07,342 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:07,344 INFO Processed 35680998.txt, output: gpt-4.1-nano-2025-04-14_35680998.sdrf
+2025-06-02 17:40:07,368 INFO Processing file: 37330510.txt, Token count: 16240
+2025-06-02 17:40:07,369 INFO Processing file: 37330510.txt, Token count: 16240
+2025-06-02 17:40:17,815 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:17,817 INFO Processed 37330510.txt, output: gpt-4.1-nano-2025-04-14_37330510.sdrf
+2025-06-02 17:40:17,842 INFO Processing file: 37266577.txt, Token count: 17501
+2025-06-02 17:40:17,843 INFO Processing file: 37266577.txt, Token count: 17501
+2025-06-02 17:40:31,430 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:31,462 INFO Processed 37266577.txt, output: gpt-4.1-nano-2025-04-14_37266577.sdrf
+2025-06-02 17:40:31,465 INFO Processing file: 38363107.txt, Token count: 1062
+2025-06-02 17:40:31,465 INFO Processing file: 38363107.txt, Token count: 1062
+2025-06-02 17:40:33,247 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:33,249 INFO Processed 38363107.txt, output: gpt-4.1-nano-2025-04-14_38363107.sdrf
+2025-06-02 17:40:33,267 INFO Processing file: 34383828.txt, Token count: 12244
+2025-06-02 17:40:33,267 INFO Processing file: 34383828.txt, Token count: 12244
+2025-06-02 17:40:42,494 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:42,497 INFO Processed 34383828.txt, output: gpt-4.1-nano-2025-04-14_34383828.sdrf
+2025-06-02 17:40:42,499 INFO Processing file: 38185415.txt, Token count: 1150
+2025-06-02 17:40:42,500 INFO Processing file: 38185415.txt, Token count: 1150
+2025-06-02 17:40:44,774 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:44,776 INFO Processed 38185415.txt, output: gpt-4.1-nano-2025-04-14_38185415.sdrf
+2025-06-02 17:40:44,778 INFO Processing file: 32694149.txt, Token count: 1157
+2025-06-02 17:40:44,779 INFO Processing file: 32694149.txt, Token count: 1157
+2025-06-02 17:40:47,687 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:47,701 INFO Processed 32694149.txt, output: gpt-4.1-nano-2025-04-14_32694149.sdrf
+2025-06-02 17:40:47,723 INFO Processing file: 34360674.txt, Token count: 14387
+2025-06-02 17:40:47,723 INFO Processing file: 34360674.txt, Token count: 14387
+2025-06-02 17:40:55,388 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:40:55,394 INFO Processed 34360674.txt, output: gpt-4.1-nano-2025-04-14_34360674.sdrf
+2025-06-02 17:40:55,409 INFO Processing file: 37328468.txt, Token count: 10251
+2025-06-02 17:40:55,409 INFO Processing file: 37328468.txt, Token count: 10251
+2025-06-02 17:41:06,926 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:06,929 INFO Processed 37328468.txt, output: gpt-4.1-nano-2025-04-14_37328468.sdrf
+2025-06-02 17:41:06,931 INFO Processing file: 26360816.txt, Token count: 1182
+2025-06-02 17:41:06,931 INFO Processing file: 26360816.txt, Token count: 1182
+2025-06-02 17:41:10,360 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:10,362 INFO Processed 26360816.txt, output: gpt-4.1-nano-2025-04-14_26360816.sdrf
+2025-06-02 17:41:10,364 INFO Processing file: 30300549.txt, Token count: 1028
+2025-06-02 17:41:10,364 INFO Processing file: 30300549.txt, Token count: 1028
+2025-06-02 17:41:11,680 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:11,682 INFO Processed 30300549.txt, output: gpt-4.1-nano-2025-04-14_30300549.sdrf
+2025-06-02 17:41:11,699 INFO Processing file: 31862015.txt, Token count: 11497
+2025-06-02 17:41:11,699 INFO Processing file: 31862015.txt, Token count: 11497
+2025-06-02 17:41:18,630 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:18,632 INFO Processed 31862015.txt, output: gpt-4.1-nano-2025-04-14_31862015.sdrf
+2025-06-02 17:41:18,646 INFO Processing file: 32095117.txt, Token count: 9792
+2025-06-02 17:41:18,646 INFO Processing file: 32095117.txt, Token count: 9792
+2025-06-02 17:41:26,127 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:26,133 INFO Processed 32095117.txt, output: gpt-4.1-nano-2025-04-14_32095117.sdrf
+2025-06-02 17:41:26,149 INFO Processing file: 26112675.txt, Token count: 10450
+2025-06-02 17:41:26,149 INFO Processing file: 26112675.txt, Token count: 10450
+2025-06-02 17:41:30,634 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:30,636 INFO Processed 26112675.txt, output: gpt-4.1-nano-2025-04-14_26112675.sdrf
+2025-06-02 17:41:30,650 INFO Processing file: 37293069.txt, Token count: 9864
+2025-06-02 17:41:30,650 INFO Processing file: 37293069.txt, Token count: 9864
+2025-06-02 17:41:36,466 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:36,469 INFO Processed 37293069.txt, output: gpt-4.1-nano-2025-04-14_37293069.sdrf
+2025-06-02 17:41:36,486 INFO Processing file: 37834386.txt, Token count: 11712
+2025-06-02 17:41:36,487 INFO Processing file: 37834386.txt, Token count: 11712
+2025-06-02 17:41:45,018 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:45,020 INFO Processed 37834386.txt, output: gpt-4.1-nano-2025-04-14_37834386.sdrf
+2025-06-02 17:41:45,042 INFO Processing file: 37611092.txt, Token count: 15039
+2025-06-02 17:41:45,042 INFO Processing file: 37611092.txt, Token count: 15039
+2025-06-02 17:41:52,646 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:52,652 INFO Processed 37611092.txt, output: gpt-4.1-nano-2025-04-14_37611092.sdrf
+2025-06-02 17:41:52,664 INFO Processing file: 34572998.txt, Token count: 7966
+2025-06-02 17:41:52,664 INFO Processing file: 34572998.txt, Token count: 7966
+2025-06-02 17:41:56,055 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:56,061 INFO Processed 34572998.txt, output: gpt-4.1-nano-2025-04-14_34572998.sdrf
+2025-06-02 17:41:56,063 INFO Processing file: 34077720.txt, Token count: 1047
+2025-06-02 17:41:56,063 INFO Processing file: 34077720.txt, Token count: 1047
+2025-06-02 17:41:57,509 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:57,517 INFO Processed 34077720.txt, output: gpt-4.1-nano-2025-04-14_34077720.sdrf
+2025-06-02 17:41:57,519 INFO Processing file: 33658224.txt, Token count: 1034
+2025-06-02 17:41:57,519 INFO Processing file: 33658224.txt, Token count: 1034
+2025-06-02 17:41:58,585 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:41:58,587 INFO Processed 33658224.txt, output: gpt-4.1-nano-2025-04-14_33658224.sdrf
+2025-06-02 17:41:58,602 INFO Processing file: 37374181.txt, Token count: 9459
+2025-06-02 17:41:58,602 INFO Processing file: 37374181.txt, Token count: 9459
+2025-06-02 17:42:02,860 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:02,862 INFO Processed 37374181.txt, output: gpt-4.1-nano-2025-04-14_37374181.sdrf
+2025-06-02 17:42:02,880 INFO Processing file: 24657495.txt, Token count: 12619
+2025-06-02 17:42:02,880 INFO Processing file: 24657495.txt, Token count: 12619
+2025-06-02 17:42:12,747 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:12,751 INFO Processed 24657495.txt, output: gpt-4.1-nano-2025-04-14_24657495.sdrf
+2025-06-02 17:42:12,754 INFO Processing file: 24776597.txt, Token count: 1272
+2025-06-02 17:42:12,754 INFO Processing file: 24776597.txt, Token count: 1272
+2025-06-02 17:42:13,675 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:13,677 INFO Processed 24776597.txt, output: gpt-4.1-nano-2025-04-14_24776597.sdrf
+2025-06-02 17:42:13,697 INFO Processing file: 36980356.txt, Token count: 13401
+2025-06-02 17:42:13,697 INFO Processing file: 36980356.txt, Token count: 13401
+2025-06-02 17:42:22,444 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:22,446 INFO Processed 36980356.txt, output: gpt-4.1-nano-2025-04-14_36980356.sdrf
+2025-06-02 17:42:22,468 INFO Processing file: 30594554.txt, Token count: 14712
+2025-06-02 17:42:22,468 INFO Processing file: 30594554.txt, Token count: 14712
+2025-06-02 17:42:36,350 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:36,355 INFO Processed 30594554.txt, output: gpt-4.1-nano-2025-04-14_30594554.sdrf
+2025-06-02 17:42:36,372 INFO Processing file: 29681787.txt, Token count: 11394
+2025-06-02 17:42:36,372 INFO Processing file: 29681787.txt, Token count: 11394
+2025-06-02 17:42:45,649 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:45,651 INFO Processed 29681787.txt, output: gpt-4.1-nano-2025-04-14_29681787.sdrf
+2025-06-02 17:42:45,654 INFO Processing file: 30798302.txt, Token count: 1224
+2025-06-02 17:42:45,654 INFO Processing file: 30798302.txt, Token count: 1224
+2025-06-02 17:42:50,550 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:50,552 INFO Processed 30798302.txt, output: gpt-4.1-nano-2025-04-14_30798302.sdrf
+2025-06-02 17:42:50,567 INFO Processing file: 35037038.txt, Token count: 10678
+2025-06-02 17:42:50,568 INFO Processing file: 35037038.txt, Token count: 10678
+2025-06-02 17:42:56,502 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:56,504 INFO Processed 35037038.txt, output: gpt-4.1-nano-2025-04-14_35037038.sdrf
+2025-06-02 17:42:56,507 INFO Processing file: 36317652.txt, Token count: 1134
+2025-06-02 17:42:56,507 INFO Processing file: 36317652.txt, Token count: 1134
+2025-06-02 17:42:57,704 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:57,706 INFO Processed 36317652.txt, output: gpt-4.1-nano-2025-04-14_36317652.sdrf
+2025-06-02 17:42:57,708 INFO Processing file: 3970414.txt, Token count: 1025
+2025-06-02 17:42:57,708 INFO Processing file: 3970414.txt, Token count: 1025
+2025-06-02 17:42:59,846 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:42:59,854 INFO Processed 3970414.txt, output: gpt-4.1-nano-2025-04-14_3970414.sdrf
+2025-06-02 17:42:59,869 INFO Processing file: 27102203.txt, Token count: 10089
+2025-06-02 17:42:59,869 INFO Processing file: 27102203.txt, Token count: 10089
+2025-06-02 17:43:12,570 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:43:12,572 INFO Processed 27102203.txt, output: gpt-4.1-nano-2025-04-14_27102203.sdrf
+2025-06-02 17:43:12,582 INFO Processing file: 37280269.txt, Token count: 6772
+2025-06-02 17:43:12,582 INFO Processing file: 37280269.txt, Token count: 6772
+2025-06-02 17:43:20,437 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:43:20,445 INFO Processed 37280269.txt, output: gpt-4.1-nano-2025-04-14_37280269.sdrf
+2025-06-02 17:43:20,468 INFO Processing file: 26149123.txt, Token count: 15551
+2025-06-02 17:43:20,468 INFO Processing file: 26149123.txt, Token count: 15551
+2025-06-02 17:43:30,858 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:43:30,861 INFO Processed 26149123.txt, output: gpt-4.1-nano-2025-04-14_26149123.sdrf
+2025-06-02 17:43:30,879 INFO Processing file: 32785189.txt, Token count: 12357
+2025-06-02 17:43:30,879 INFO Processing file: 32785189.txt, Token count: 12357
+2025-06-02 17:43:39,446 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:43:39,448 INFO Processed 32785189.txt, output: gpt-4.1-nano-2025-04-14_32785189.sdrf
+2025-06-02 17:43:39,471 INFO Processing file: 35236848.txt, Token count: 16152
+2025-06-02 17:43:39,471 INFO Processing file: 35236848.txt, Token count: 16152
+2025-06-02 17:43:44,170 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:43:44,176 INFO Processed 35236848.txt, output: gpt-4.1-nano-2025-04-14_35236848.sdrf
+2025-06-02 17:43:44,202 INFO Processing file: 36240066.txt, Token count: 18755
+2025-06-02 17:43:44,202 INFO Processing file: 36240066.txt, Token count: 18755
+2025-06-02 17:43:52,258 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:43:52,260 INFO Processed 36240066.txt, output: gpt-4.1-nano-2025-04-14_36240066.sdrf
+2025-06-02 17:43:52,286 INFO Processing file: 26731301.txt, Token count: 17800
+2025-06-02 17:43:52,286 INFO Processing file: 26731301.txt, Token count: 17800
+2025-06-02 17:44:05,340 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:05,343 INFO Processed 26731301.txt, output: gpt-4.1-nano-2025-04-14_26731301.sdrf
+2025-06-02 17:44:05,346 INFO Processing file: 26035336.txt, Token count: 1174
+2025-06-02 17:44:05,346 INFO Processing file: 26035336.txt, Token count: 1174
+2025-06-02 17:44:08,091 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:08,094 INFO Processed 26035336.txt, output: gpt-4.1-nano-2025-04-14_26035336.sdrf
+2025-06-02 17:44:08,097 INFO Processing file: 38367664.txt, Token count: 1220
+2025-06-02 17:44:08,097 INFO Processing file: 38367664.txt, Token count: 1220
+2025-06-02 17:44:09,034 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:09,036 INFO Processed 38367664.txt, output: gpt-4.1-nano-2025-04-14_38367664.sdrf
+2025-06-02 17:44:09,039 INFO Processing file: 25515538.txt, Token count: 1165
+2025-06-02 17:44:09,039 INFO Processing file: 25515538.txt, Token count: 1165
+2025-06-02 17:44:11,200 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:11,263 INFO Processed 25515538.txt, output: gpt-4.1-nano-2025-04-14_25515538.sdrf
+2025-06-02 17:44:11,282 INFO Processing file: 36499720.txt, Token count: 12662
+2025-06-02 17:44:11,283 INFO Processing file: 36499720.txt, Token count: 12662
+2025-06-02 17:44:13,342 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:13,346 INFO Processed 36499720.txt, output: gpt-4.1-nano-2025-04-14_36499720.sdrf
+2025-06-02 17:44:13,348 INFO Processing file: 26496610.txt, Token count: 1005
+2025-06-02 17:44:13,348 INFO Processing file: 26496610.txt, Token count: 1005
+2025-06-02 17:44:15,274 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:15,276 INFO Processed 26496610.txt, output: gpt-4.1-nano-2025-04-14_26496610.sdrf
+2025-06-02 17:44:15,288 INFO Processing file: 36982475.txt, Token count: 8125
+2025-06-02 17:44:15,288 INFO Processing file: 36982475.txt, Token count: 8125
+2025-06-02 17:44:24,249 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:24,252 INFO Processed 36982475.txt, output: gpt-4.1-nano-2025-04-14_36982475.sdrf
+2025-06-02 17:44:24,281 INFO Processing file: 31395880.txt, Token count: 19831
+2025-06-02 17:44:24,282 INFO Processing file: 31395880.txt, Token count: 19831
+2025-06-02 17:44:38,954 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:38,963 INFO Processed 31395880.txt, output: gpt-4.1-nano-2025-04-14_31395880.sdrf
+2025-06-02 17:44:38,966 INFO Processing file: 26306861.txt, Token count: 1115
+2025-06-02 17:44:38,966 INFO Processing file: 26306861.txt, Token count: 1115
+2025-06-02 17:44:41,993 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:42,000 INFO Processed 26306861.txt, output: gpt-4.1-nano-2025-04-14_26306861.sdrf
+2025-06-02 17:44:42,003 INFO Processing file: 25316064.txt, Token count: 1126
+2025-06-02 17:44:42,003 INFO Processing file: 25316064.txt, Token count: 1126
+2025-06-02 17:44:44,473 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:44,475 INFO Processed 25316064.txt, output: gpt-4.1-nano-2025-04-14_25316064.sdrf
+2025-06-02 17:44:44,497 INFO Processing file: 34576262.txt, Token count: 14521
+2025-06-02 17:44:44,497 INFO Processing file: 34576262.txt, Token count: 14521
+2025-06-02 17:44:55,670 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:55,672 INFO Processed 34576262.txt, output: gpt-4.1-nano-2025-04-14_34576262.sdrf
+2025-06-02 17:44:55,675 INFO Processing file: 34762820.txt, Token count: 1145
+2025-06-02 17:44:55,675 INFO Processing file: 34762820.txt, Token count: 1145
+2025-06-02 17:44:57,112 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:44:57,114 INFO Processed 34762820.txt, output: gpt-4.1-nano-2025-04-14_34762820.sdrf
+2025-06-02 17:44:57,131 INFO Processing file: 33266304.txt, Token count: 11372
+2025-06-02 17:44:57,131 INFO Processing file: 33266304.txt, Token count: 11372
+2025-06-02 17:45:09,045 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:09,053 INFO Processed 33266304.txt, output: gpt-4.1-nano-2025-04-14_33266304.sdrf
+2025-06-02 17:45:09,084 INFO Processing file: 37774976.txt, Token count: 21549
+2025-06-02 17:45:09,084 INFO Processing file: 37774976.txt, Token count: 21549
+2025-06-02 17:45:14,042 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:14,044 INFO Processed 37774976.txt, output: gpt-4.1-nano-2025-04-14_37774976.sdrf
+2025-06-02 17:45:14,047 INFO Processing file: 25755297.txt, Token count: 1251
+2025-06-02 17:45:14,047 INFO Processing file: 25755297.txt, Token count: 1251
+2025-06-02 17:45:14,883 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:14,887 INFO Processed 25755297.txt, output: gpt-4.1-nano-2025-04-14_25755297.sdrf
+2025-06-02 17:45:14,890 INFO Processing file: 25074045.txt, Token count: 1107
+2025-06-02 17:45:14,890 INFO Processing file: 25074045.txt, Token count: 1107
+2025-06-02 17:45:16,437 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:16,442 INFO Processed 25074045.txt, output: gpt-4.1-nano-2025-04-14_25074045.sdrf
+2025-06-02 17:45:16,444 INFO Processing file: 21081695.txt, Token count: 1149
+2025-06-02 17:45:16,444 INFO Processing file: 21081695.txt, Token count: 1149
+2025-06-02 17:45:17,699 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:17,708 INFO Processed 21081695.txt, output: gpt-4.1-nano-2025-04-14_21081695.sdrf
+2025-06-02 17:45:17,710 INFO Processing file: 27027324.txt, Token count: 1190
+2025-06-02 17:45:17,710 INFO Processing file: 27027324.txt, Token count: 1190
+2025-06-02 17:45:19,427 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:19,432 INFO Processed 27027324.txt, output: gpt-4.1-nano-2025-04-14_27027324.sdrf
+2025-06-02 17:45:19,434 INFO Processing file: 31773964.txt, Token count: 1226
+2025-06-02 17:45:19,434 INFO Processing file: 31773964.txt, Token count: 1226
+2025-06-02 17:45:21,507 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:21,514 INFO Processed 31773964.txt, output: gpt-4.1-nano-2025-04-14_31773964.sdrf
+2025-06-02 17:45:21,533 INFO Processing file: 25218447.txt, Token count: 12893
+2025-06-02 17:45:21,533 INFO Processing file: 25218447.txt, Token count: 12893
+2025-06-02 17:45:27,955 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:27,958 INFO Processed 25218447.txt, output: gpt-4.1-nano-2025-04-14_25218447.sdrf
+2025-06-02 17:45:27,987 INFO Processing file: 34723797.txt, Token count: 19942
+2025-06-02 17:45:27,987 INFO Processing file: 34723797.txt, Token count: 19942
+2025-06-02 17:45:32,679 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:32,691 INFO Processed 34723797.txt, output: gpt-4.1-nano-2025-04-14_34723797.sdrf
+2025-06-02 17:45:32,693 INFO Processing file: 38415248.txt, Token count: 946
+2025-06-02 17:45:32,693 INFO Processing file: 38415248.txt, Token count: 946
+2025-06-02 17:45:33,382 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:45:33,384 INFO Processed 38415248.txt, output: gpt-4.1-nano-2025-04-14_38415248.sdrf
+2025-06-02 17:45:33,403 INFO Processing file: 37253964.txt, Token count: 12888
+2025-06-02 17:45:33,403 INFO Processing file: 37253964.txt, Token count: 12888
+2025-06-02 17:46:42,235 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:46:42,315 INFO Processed 37253964.txt, output: gpt-4.1-nano-2025-04-14_37253964.sdrf
+2025-06-02 17:46:42,318 INFO Processing file: 38130664.txt, Token count: 1106
+2025-06-02 17:46:42,318 INFO Processing file: 38130664.txt, Token count: 1106
+2025-06-02 17:46:44,783 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:46:44,786 INFO Processed 38130664.txt, output: gpt-4.1-nano-2025-04-14_38130664.sdrf
+2025-06-02 17:46:44,803 INFO Processing file: 21183079.txt, Token count: 10847
+2025-06-02 17:46:44,803 INFO Processing file: 21183079.txt, Token count: 10847
+2025-06-02 17:46:48,119 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:46:48,121 INFO Processed 21183079.txt, output: gpt-4.1-nano-2025-04-14_21183079.sdrf
+2025-06-02 17:46:48,141 INFO Processing file: 30728824.txt, Token count: 13534
+2025-06-02 17:46:48,141 INFO Processing file: 30728824.txt, Token count: 13534
+2025-06-02 17:46:49,526 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:46:49,535 INFO Processed 30728824.txt, output: gpt-4.1-nano-2025-04-14_30728824.sdrf
+2025-06-02 17:46:49,537 INFO Processing file: 36773646.txt, Token count: 1085
+2025-06-02 17:46:49,537 INFO Processing file: 36773646.txt, Token count: 1085
+2025-06-02 17:46:50,657 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:46:50,661 INFO Processed 36773646.txt, output: gpt-4.1-nano-2025-04-14_36773646.sdrf
+2025-06-02 17:46:50,683 INFO Processing file: 34138841.txt, Token count: 15546
+2025-06-02 17:46:50,683 INFO Processing file: 34138841.txt, Token count: 15546
+2025-06-02 17:46:55,915 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:46:55,918 INFO Processed 34138841.txt, output: gpt-4.1-nano-2025-04-14_34138841.sdrf
+2025-06-02 17:46:55,939 INFO Processing file: 36604600.txt, Token count: 14227
+2025-06-02 17:46:55,940 INFO Processing file: 36604600.txt, Token count: 14227
+2025-06-02 17:47:00,352 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:47:00,360 INFO Processed 36604600.txt, output: gpt-4.1-nano-2025-04-14_36604600.sdrf
+2025-06-02 17:47:00,362 INFO Processing file: 28960076.txt, Token count: 1056
+2025-06-02 17:47:00,362 INFO Processing file: 28960076.txt, Token count: 1056
+2025-06-02 17:47:01,175 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:47:01,177 INFO Processed 28960076.txt, output: gpt-4.1-nano-2025-04-14_28960076.sdrf
+2025-06-02 17:47:01,187 INFO Processing file: 33630598.txt, Token count: 6517
+2025-06-02 17:47:01,188 INFO Processing file: 33630598.txt, Token count: 6517
+2025-06-02 17:47:12,564 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:47:12,566 INFO Processed 33630598.txt, output: gpt-4.1-nano-2025-04-14_33630598.sdrf
+2025-06-02 17:47:12,591 INFO Processing file: 26609137.txt, Token count: 16736
+2025-06-02 17:47:12,591 INFO Processing file: 26609137.txt, Token count: 16736
+2025-06-02 17:47:27,924 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:47:27,926 INFO Processed 26609137.txt, output: gpt-4.1-nano-2025-04-14_26609137.sdrf
+2025-06-02 17:47:27,955 INFO Processing file: 35963242.txt, Token count: 20280
+2025-06-02 17:47:27,955 INFO Processing file: 35963242.txt, Token count: 20280
+2025-06-02 17:47:32,305 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:47:32,308 INFO Processed 35963242.txt, output: gpt-4.1-nano-2025-04-14_35963242.sdrf
+2025-06-02 17:47:32,331 INFO Processing file: 35131898.txt, Token count: 15811
+2025-06-02 17:47:32,331 INFO Processing file: 35131898.txt, Token count: 15811
+2025-06-02 17:47:42,985 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:47:42,987 INFO Processed 35131898.txt, output: gpt-4.1-nano-2025-04-14_35131898.sdrf
+2025-06-02 17:47:42,990 INFO Processing file: 26760575.txt, Token count: 1135
+2025-06-02 17:47:42,990 INFO Processing file: 26760575.txt, Token count: 1135
+2025-06-02 17:47:44,126 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:47:44,129 INFO Processed 26760575.txt, output: gpt-4.1-nano-2025-04-14_26760575.sdrf
+2025-06-02 17:47:44,144 INFO Processing file: 28054942.txt, Token count: 9444
+2025-06-02 17:47:44,144 INFO Processing file: 28054942.txt, Token count: 9444
+2025-06-02 17:47:50,884 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:47:50,891 INFO Processed 28054942.txt, output: gpt-4.1-nano-2025-04-14_28054942.sdrf
+2025-06-02 17:47:50,910 INFO Processing file: 37681923.txt, Token count: 12657
+2025-06-02 17:47:50,910 INFO Processing file: 37681923.txt, Token count: 12657
+2025-06-02 17:48:02,507 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:48:02,509 INFO Processed 37681923.txt, output: gpt-4.1-nano-2025-04-14_37681923.sdrf
+2025-06-02 17:48:02,528 INFO Processing file: 34128081.txt, Token count: 13244
+2025-06-02 17:48:02,529 INFO Processing file: 34128081.txt, Token count: 13244
+2025-06-02 17:48:18,847 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:48:18,850 INFO Processed 34128081.txt, output: gpt-4.1-nano-2025-04-14_34128081.sdrf
+2025-06-02 17:48:18,868 INFO Processing file: 36674559.txt, Token count: 12554
+2025-06-02 17:48:18,868 INFO Processing file: 36674559.txt, Token count: 12554
+2025-06-02 17:48:25,818 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:48:25,820 INFO Processed 36674559.txt, output: gpt-4.1-nano-2025-04-14_36674559.sdrf
+2025-06-02 17:48:25,839 INFO Processing file: 37047404.txt, Token count: 11929
+2025-06-02 17:48:25,839 INFO Processing file: 37047404.txt, Token count: 11929
+2025-06-02 17:48:33,617 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:48:33,620 INFO Processed 37047404.txt, output: gpt-4.1-nano-2025-04-14_37047404.sdrf
+2025-06-02 17:48:33,637 INFO Processing file: 37778379.txt, Token count: 11404
+2025-06-02 17:48:33,637 INFO Processing file: 37778379.txt, Token count: 11404
+2025-06-02 17:48:43,953 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:48:43,963 INFO Processed 37778379.txt, output: gpt-4.1-nano-2025-04-14_37778379.sdrf
+2025-06-02 17:48:43,976 INFO Processing file: 32860207.txt, Token count: 8954
+2025-06-02 17:48:43,976 INFO Processing file: 32860207.txt, Token count: 8954
+2025-06-02 17:48:52,347 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:48:52,349 INFO Processed 32860207.txt, output: gpt-4.1-nano-2025-04-14_32860207.sdrf
+2025-06-02 17:48:52,352 INFO Processing file: 28364001.txt, Token count: 1099
+2025-06-02 17:48:52,352 INFO Processing file: 28364001.txt, Token count: 1099
+2025-06-02 17:48:56,296 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:48:56,298 INFO Processed 28364001.txt, output: gpt-4.1-nano-2025-04-14_28364001.sdrf
+2025-06-02 17:48:56,313 INFO Processing file: 28439285.txt, Token count: 9860
+2025-06-02 17:48:56,313 INFO Processing file: 28439285.txt, Token count: 9860
+2025-06-02 17:49:00,927 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:49:00,929 INFO Processed 28439285.txt, output: gpt-4.1-nano-2025-04-14_28439285.sdrf
+2025-06-02 17:49:00,948 INFO Processing file: 36292738.txt, Token count: 12821
+2025-06-02 17:49:00,948 INFO Processing file: 36292738.txt, Token count: 12821
+2025-06-02 17:49:09,823 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:49:09,827 INFO Processed 36292738.txt, output: gpt-4.1-nano-2025-04-14_36292738.sdrf
+2025-06-02 17:49:09,844 INFO Processing file: 28709472.txt, Token count: 11524
+2025-06-02 17:49:09,844 INFO Processing file: 28709472.txt, Token count: 11524
+2025-06-02 17:49:12,255 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:49:12,257 INFO Processed 28709472.txt, output: gpt-4.1-nano-2025-04-14_28709472.sdrf
+2025-06-02 17:49:12,274 INFO Processing file: 36269744.txt, Token count: 11857
+2025-06-02 17:49:12,274 INFO Processing file: 36269744.txt, Token count: 11857
+2025-06-02 17:49:25,814 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:49:25,819 INFO Processed 36269744.txt, output: gpt-4.1-nano-2025-04-14_36269744.sdrf
+2025-06-02 17:49:25,846 INFO Processing file: 30794532.txt, Token count: 19726
+2025-06-02 17:49:25,847 INFO Processing file: 30794532.txt, Token count: 19726
+2025-06-02 17:49:35,600 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:49:35,602 INFO Processed 30794532.txt, output: gpt-4.1-nano-2025-04-14_30794532.sdrf
+2025-06-02 17:49:35,618 INFO Processing file: 27068479.txt, Token count: 10263
+2025-06-02 17:49:35,618 INFO Processing file: 27068479.txt, Token count: 10263
+2025-06-02 17:49:47,782 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:49:47,785 INFO Processed 27068479.txt, output: gpt-4.1-nano-2025-04-14_27068479.sdrf
+2025-06-02 17:49:47,806 INFO Processing file: 32817103.txt, Token count: 15182
+2025-06-02 17:49:47,806 INFO Processing file: 32817103.txt, Token count: 15182
+2025-06-02 17:50:03,559 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:50:03,562 INFO Processed 32817103.txt, output: gpt-4.1-nano-2025-04-14_32817103.sdrf
+2025-06-02 17:50:03,588 INFO Processing file: 33855848.txt, Token count: 17625
+2025-06-02 17:50:03,588 INFO Processing file: 33855848.txt, Token count: 17625
+2025-06-02 17:50:12,885 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 17:50:12,887 INFO Processed 33855848.txt, output: gpt-4.1-nano-2025-04-14_33855848.sdrf
